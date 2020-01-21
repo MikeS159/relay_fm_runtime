@@ -474,7 +474,5 @@ Average Length: 1.0 hour, 25.0 seconds
 ## Total shows: 43
 
 ## Total show length 
-18127037s
-
 ## 209 days, 19 hours, 17 minutes, 17 seconds
 

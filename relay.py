@@ -51,7 +51,6 @@ def main():
         running_total += parse_feed(show)
     print(h2 + 'Total shows: ' + str(len(shows_list)) + "\n")
     print(h2 +'Total show length ')
-    print(str(running_total) + "s" + "\n")
     print(h2 + display_time(running_total,5) + "\n")
 
 if __name__ == "__main__":
