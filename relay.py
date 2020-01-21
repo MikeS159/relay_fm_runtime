@@ -3,6 +3,9 @@ import feedparser
 
 shows_list = ['adapt', 'analogue', 'automators', 'bonanza', 'b-sides', 'clockwise', 'connected', 'cortex', 'departures', 'focused', 'liftoff', 'mpu', 'makedo', 'material', 'originality', 'parallel', 'pictorial', 'presentable', 'rd', 'remaster', 'roboism', 'rocket', 'penaddict', 'tc', 'topfour', 'radar', 'ungeniused', 'upgrade', 'almanac', 'bionic', 'canvas', 'cmdspace', 'disruption', 'download', 'inquisitive', 'isometric', 'ltoe', 'mixedfeelings', 'playingforfun', 'query', 'subnet', 'prompt', 'virtual']
 
+h2 = "## "
+h3 = "### "
+
 intervals = (
     #('weeks', 604800),  # 60 * 60 * 24 * 7
     ('days', 86400),    # 60 * 60 * 24
@@ -33,23 +36,23 @@ def parse_feed(feed_name):
     for e in ents:
         length = e['itunes_duration']
         total_len += int(length)
-    print(d['feed']['title'] + "\n")
+    print(h3 +d['feed']['title'] + "\n")
     print(display_time(total_len,5) + "\n")
     print("Number of shows: " + str(num_shows) + "\n")
     avg = total_len / num_shows
     print("Average Length: " + display_time(avg,5) + "\n")
-    print("\n")
+    print("\n-------------------------------------------------\n")
     return total_len
 
 
 def main():
-    running_total = 0
-    print('Total shows: ' + str(len(shows_list)) + "\n")
+    running_total = 0    
     for show in shows_list:
         running_total += parse_feed(show)
-    print('Total show length' + "\n")
+    print(h2 + 'Total shows: ' + str(len(shows_list)) + "\n")
+    print(h2 +'Total show length ')
     print(str(running_total) + "s" + "\n")
-    print(display_time(running_total,5) + "\n")
+    print(h2 + display_time(running_total,5) + "\n")
 
 if __name__ == "__main__":
     main()
