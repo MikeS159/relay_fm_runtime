@@ -33,23 +33,23 @@ def parse_feed(feed_name):
     for e in ents:
         length = e['itunes_duration']
         total_len += int(length)
-    print(d['feed']['title'])
-    print(display_time(total_len,5))
-    print("Number of shows: " + str(num_shows))
+    print(d['feed']['title'] + "\n")
+    print(display_time(total_len,5) + "\n")
+    print("Number of shows: " + str(num_shows) + "\n")
     avg = total_len / num_shows
-    print("Average Length: " + display_time(avg,5))
-    print()
+    print("Average Length: " + display_time(avg,5) + "\n")
+    print("\n")
     return total_len
 
 
 def main():
     running_total = 0
-    print('Total shows: ' + str(len(shows_list)))
+    print('Total shows: ' + str(len(shows_list)) + "\n")
     for show in shows_list:
         running_total += parse_feed(show)
-    print('Total show length')
-    print(str(running_total) + "s")
-    print(display_time(running_total,5))
+    print('Total show length' + "\n")
+    print(str(running_total) + "s" + "\n")
+    print(display_time(running_total,5) + "\n")
 
 if __name__ == "__main__":
     main()
