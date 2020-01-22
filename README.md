@@ -297,182 +297,182 @@ Average Length: 12.0 minutes, 20.0 seconds
 
 ### Upgrade
 
-18 days, 5 hours, 36 minutes, 41 seconds
+18 days, 7 hours, 16 minutes, 26 seconds
 
-Number of shows: 280
+Number of shows: 281
 
-Average Length: 1.0 hour, 33.0 minutes, 46.0 seconds
-
-
--------------------------------------------------
-
-### Almanac
-
-1 hour, 29 minutes, 48 seconds
-
-Number of shows: 1
-
-Average Length: 1.0 hour, 29.0 minutes, 48.0 seconds
+Average Length: 1.0 hour, 33.0 minutes, 47.0 seconds
 
 
 -------------------------------------------------
 
-### Bionic
+### Upgrade
 
-1 day, 19 hours, 46 minutes, 15 seconds
+18 days, 7 hours, 16 minutes, 26 seconds
 
-Number of shows: 45
+Number of shows: 281
 
-Average Length: 58.0 minutes, 21.0 seconds
-
-
--------------------------------------------------
-
-### Canvas
-
-2 days, 16 hours, 27 minutes, 39 seconds
-
-Number of shows: 76
-
-Average Length: 50.0 minutes, 53.0 seconds
+Average Length: 1.0 hour, 33.0 minutes, 47.0 seconds
 
 
 -------------------------------------------------
 
-### CMD Space
+### Upgrade
 
-4 days, 4 hours, 56 minutes, 19 seconds
+18 days, 7 hours, 16 minutes, 26 seconds
 
-Number of shows: 103
+Number of shows: 281
 
-Average Length: 58.0 minutes, 47.0 seconds
-
-
--------------------------------------------------
-
-### Disruption
-
-4 days, 5 hours, 31 minutes, 12 seconds
-
-Number of shows: 90
-
-Average Length: 1.0 hour, 7.0 minutes, 40.0 seconds
+Average Length: 1.0 hour, 33.0 minutes, 47.0 seconds
 
 
 -------------------------------------------------
 
-### Download
+### Upgrade
 
-4 days, 5 hours, 20 minutes, 10 seconds
+18 days, 7 hours, 16 minutes, 26 seconds
 
-Number of shows: 108
+Number of shows: 281
 
-Average Length: 56.0 minutes, 17.0 seconds
-
-
--------------------------------------------------
-
-### Inquisitive
-
-2 days, 7 hours, 8 minutes, 45 seconds
-
-Number of shows: 59
-
-Average Length: 56.0 minutes, 4.0 seconds
+Average Length: 1.0 hour, 33.0 minutes, 47.0 seconds
 
 
 -------------------------------------------------
 
-### Isometric
+### Upgrade
 
-5 days, 21 hours, 11 minutes, 6 seconds
+18 days, 7 hours, 16 minutes, 26 seconds
 
-Number of shows: 102
+Number of shows: 281
 
-Average Length: 1.0 hour, 23.0 minutes, 3.0 seconds
-
-
--------------------------------------------------
-
-### Less Than or Equal
-
-4 days, 5 hours, 1 minute, 5 seconds
-
-Number of shows: 100
-
-Average Length: 1.0 hour, 36.0 seconds
+Average Length: 1.0 hour, 33.0 minutes, 47.0 seconds
 
 
 -------------------------------------------------
 
-### Mixed Feelings
+### Upgrade
 
-2 days, 7 hours, 5 minutes, 51 seconds
+18 days, 7 hours, 16 minutes, 26 seconds
 
-Number of shows: 70
+Number of shows: 281
 
-Average Length: 47.0 minutes, 13.0 seconds
-
-
--------------------------------------------------
-
-### Playing for Fun
-
-16 hours, 21 minutes, 14 seconds
-
-Number of shows: 18
-
-Average Length: 54.0 minutes, 30.0 seconds
+Average Length: 1.0 hour, 33.0 minutes, 47.0 seconds
 
 
 -------------------------------------------------
 
-### Query
+### Upgrade
 
-1 day, 3 hours, 16 minutes, 23 seconds
+18 days, 7 hours, 16 minutes, 26 seconds
 
-Number of shows: 46
+Number of shows: 281
 
-Average Length: 35.0 minutes, 34.0 seconds
-
-
--------------------------------------------------
-
-### Subnet
-
-6 hours, 57 minutes, 20 seconds
-
-Number of shows: 228
-
-Average Length: 1.0 minute, 49.0 seconds
+Average Length: 1.0 hour, 33.0 minutes, 47.0 seconds
 
 
 -------------------------------------------------
 
-### The Prompt
+### Upgrade
 
-3 days, 47 minutes, 35 seconds
+18 days, 7 hours, 16 minutes, 26 seconds
 
-Number of shows: 57
+Number of shows: 281
 
-Average Length: 1.0 hour, 16.0 minutes, 37.0 seconds
-
-
--------------------------------------------------
-
-### Virtual
-
-2 days, 13 hours, 26 minutes, 9 seconds
-
-Number of shows: 61
-
-Average Length: 1.0 hour, 25.0 seconds
+Average Length: 1.0 hour, 33.0 minutes, 47.0 seconds
 
 
 -------------------------------------------------
 
-## Total shows: 43
+### Upgrade
+
+18 days, 7 hours, 16 minutes, 26 seconds
+
+Number of shows: 281
+
+Average Length: 1.0 hour, 33.0 minutes, 47.0 seconds
+
+
+-------------------------------------------------
+
+### Upgrade
+
+18 days, 7 hours, 16 minutes, 26 seconds
+
+Number of shows: 281
+
+Average Length: 1.0 hour, 33.0 minutes, 47.0 seconds
+
+
+-------------------------------------------------
+
+### Upgrade
+
+18 days, 7 hours, 16 minutes, 26 seconds
+
+Number of shows: 281
+
+Average Length: 1.0 hour, 33.0 minutes, 47.0 seconds
+
+
+-------------------------------------------------
+
+### Upgrade
+
+18 days, 7 hours, 16 minutes, 26 seconds
+
+Number of shows: 281
+
+Average Length: 1.0 hour, 33.0 minutes, 47.0 seconds
+
+
+-------------------------------------------------
+
+### Upgrade
+
+18 days, 7 hours, 16 minutes, 26 seconds
+
+Number of shows: 281
+
+Average Length: 1.0 hour, 33.0 minutes, 47.0 seconds
+
+
+-------------------------------------------------
+
+### Upgrade
+
+18 days, 7 hours, 16 minutes, 26 seconds
+
+Number of shows: 281
+
+Average Length: 1.0 hour, 33.0 minutes, 47.0 seconds
+
+
+-------------------------------------------------
+
+### Upgrade
+
+18 days, 7 hours, 16 minutes, 26 seconds
+
+Number of shows: 281
+
+Average Length: 1.0 hour, 33.0 minutes, 47.0 seconds
+
+
+-------------------------------------------------
+
+### Upgrade
+
+18 days, 7 hours, 16 minutes, 26 seconds
+
+Number of shows: 281
+
+Average Length: 1.0 hour, 33.0 minutes, 47.0 seconds
+
+
+-------------------------------------------------
+
+## Total shows: 28
 
 ## Total show length 
-## 209 days, 19 hours, 17 minutes, 17 seconds
+## 444 days, 19 hours, 16 minutes, 41 seconds
 
