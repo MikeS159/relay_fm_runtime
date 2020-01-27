@@ -1,3 +1,4 @@
+#!/bin/bash
 git pull
 python3 relay.py > README.md
 git add .

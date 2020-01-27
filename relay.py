@@ -74,8 +74,11 @@ def parse_prediction_feed(feed_name):
     shows_per_year = 31536000 / avg_gap
     yearly_output = avg_length * shows_per_year
     monthly_output = yearly_output / 12
+    std_dev = numpy.std(diff_gap)
+    print("Standard deviation: " + display_time(std_dev,5) + "\n")
     print("Shows per year: {:.1f}\n".format(shows_per_year))
     print("Monthly show output: " + display_time(monthly_output, 5) + "\n")
+
     print("\n-------------------------------------------------\n")    
     return total_len, yearly_output
 
