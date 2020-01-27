@@ -27,7 +27,7 @@ def display_time(seconds, granularity=2):
             seconds -= value * count
             if value == 1:
                 name = name.rstrip('s')
-            result.append("{} {}".format(value, name))
+            result.append("{:.0f} {}".format(value, name))
     return ', '.join(result[:granularity])
 
 def parse_feed(feed_name):
@@ -74,7 +74,7 @@ def parse_prediction_feed(feed_name):
     shows_per_year = 31536000 / avg_gap
     yearly_output = avg_length * shows_per_year
     monthly_output = yearly_output / 12
-    print("Shows per year: " + str(shows_per_year) + "\n")
+    print("Shows per year: {:.1f}\n", shows_per_year)
     print("Monthly show output: " + display_time(monthly_output, 5) + "\n")
     print("\n-------------------------------------------------\n")    
     return total_len, yearly_output
@@ -98,7 +98,7 @@ def main():
     print(h3 + "Monthly output: " + display_time(yearly_output/12) + "\n")
 
     print(h2 + "Time untill 1 year of content: " + display_time(time_to_one_year, 2) + "\n")
-
+    
 if __name__ == "__main__":
     main()
 
