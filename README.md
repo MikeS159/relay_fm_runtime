@@ -8,8 +8,8 @@ Average Length: 1 hour, 4 minutes, 37 seconds
 
 Average gap: 15 days, 19 hours, 19 minutes, 41 seconds
 
-Shows per year: {:.1f}
- 23.093462948469746
+Shows per year: 23.1
+
 Monthly show output: 2 hours, 4 minutes, 21 seconds
 
 
@@ -25,8 +25,8 @@ Average Length: 1 hour, 11 minutes, 34 seconds
 
 Average gap: 11 days, 10 hours, 14 minutes, 23 seconds
 
-Shows per year: {:.1f}
- 31.942844119845027
+Shows per year: 31.9
+
 Monthly show output: 3 hours, 10 minutes, 31 seconds
 
 
@@ -42,8 +42,8 @@ Average Length: 57 minutes, 42 seconds
 
 Average gap: 13 days, 18 hours, 22 minutes, 19 seconds
 
-Shows per year: {:.1f}
- 26.515568188110223
+Shows per year: 26.5
+
 Monthly show output: 2 hours, 7 minutes, 29 seconds
 
 
@@ -59,8 +59,8 @@ Average Length: 58 minutes, 29 seconds
 
 Average gap: 50 days, 12 hours, 47 minutes, 50 seconds
 
-Shows per year: {:.1f}
- 7.222971241378542
+Shows per year: 7.2
+
 Monthly show output: 35 minutes, 12 seconds
 
 
@@ -76,8 +76,8 @@ Average Length: 18 minutes, 43 seconds
 
 Average gap: 49 days, 10 hours, 17 minutes, 45 seconds
 
-Shows per year: {:.1f}
- 7.384328709994065
+Shows per year: 7.4
+
 Monthly show output: 11 minutes, 31 seconds
 
 
@@ -93,8 +93,8 @@ Average Length: 29 minutes, 40 seconds
 
 Average gap: 8 days, 17 hours, 41 minutes, 38 seconds
 
-Shows per year: {:.1f}
- 41.775149457048045
+Shows per year: 41.8
+
 Monthly show output: 1 hour, 43 minutes, 17 seconds
 
 
@@ -110,8 +110,8 @@ Average Length: 1 hour, 26 minutes, 25 seconds
 
 Average gap: 7 days, 3 hours, 51 minutes, 49 seconds
 
-Shows per year: {:.1f}
- 50.97061835368255
+Shows per year: 51.0
+
 Monthly show output: 6 hours, 7 minutes, 5 seconds
 
 
@@ -127,8 +127,8 @@ Average Length: 1 hour, 35 minutes, 24 seconds
 
 Average gap: 17 days, 18 hours, 52 minutes, 30 seconds
 
-Shows per year: {:.1f}
- 20.521229868228403
+Shows per year: 20.5
+
 Monthly show output: 2 hours, 43 minutes, 9 seconds
 
 
@@ -144,8 +144,8 @@ Average Length: 4 hours, 3 minutes, 37 seconds
 
 Average gap: 30 days, 6 hours
 
-Shows per year: {:.1f}
- 12.066115702479339
+Shows per year: 12.1
+
 Monthly show output: 4 hours, 4 minutes, 57 seconds
 
 
@@ -161,8 +161,8 @@ Average Length: 59 minutes, 14 seconds
 
 Average gap: 14 days, 3 hours, 43 minutes
 
-Shows per year: {:.1f}
- 25.786194377667663
+Shows per year: 25.8
+
 Monthly show output: 2 hours, 7 minutes, 18 seconds
 
 
@@ -178,8 +178,8 @@ Average Length: 47 minutes, 30 seconds
 
 Average gap: 14 days, 37 minutes, 26 seconds
 
-Shows per year: {:.1f}
- 26.023106679496536
+Shows per year: 26.0
+
 Monthly show output: 1 hour, 43 minutes, 1 second
 
 
@@ -195,8 +195,8 @@ Average Length: 1 hour, 32 minutes, 15 seconds
 
 Average gap: 7 days, 13 hours, 10 minutes, 52 seconds
 
-Shows per year: {:.1f}
- 48.34940924994417
+Shows per year: 48.3
+
 Monthly show output: 6 hours, 11 minutes, 44 seconds
 
 
@@ -212,8 +212,8 @@ Average Length: 44 minutes, 1 second
 
 Average gap: 14 days, 7 hours, 13 minutes, 43 seconds
 
-Shows per year: {:.1f}
- 25.522339485796643
+Shows per year: 25.5
+
 Monthly show output: 1 hour, 33 minutes, 38 seconds
 
 
@@ -229,8 +229,8 @@ Average Length: 1 hour, 10 minutes, 39 seconds
 
 Average gap: 6 days, 23 hours, 25 minutes, 25 seconds
 
-Shows per year: {:.1f}
- 52.32236015919329
+Shows per year: 52.3
+
 Monthly show output: 5 hours, 8 minutes, 3 seconds
 
 
@@ -246,8 +246,8 @@ Average Length: 1 hour, 5 minutes, 14 seconds
 
 Average gap: 29 days, 17 hours, 45 minutes, 30 seconds
 
-Shows per year: {:.1f}
- 12.273061610489078
+Shows per year: 12.3
+
 Monthly show output: 1 hour, 6 minutes, 43 seconds
 
 
@@ -263,8 +263,8 @@ Average Length: 54 minutes, 27 seconds
 
 Average gap: 20 days, 21 hours, 31 minutes, 12 seconds
 
-Shows per year: {:.1f}
- 17.46690062210879
+Shows per year: 17.5
+
 Monthly show output: 1 hour, 19 minutes, 15 seconds
 
 
@@ -280,8 +280,8 @@ Average Length: 33 minutes, 33 seconds
 
 Average gap: 13 days, 23 hours, 30 minutes
 
-Shows per year: {:.1f}
- 26.11028315946349
+Shows per year: 26.1
+
 Monthly show output: 1 hour, 13 minutes, 1 second
 
 
@@ -297,8 +297,8 @@ Average Length: 48 minutes, 22 seconds
 
 Average gap: 17 days, 1 hour, 11 minutes, 32 seconds
 
-Shows per year: {:.1f}
- 21.408027070213365
+Shows per year: 21.4
+
 Monthly show output: 1 hour, 26 minutes, 17 seconds
 
 
@@ -314,8 +314,8 @@ Average Length: 1 hour, 53 minutes, 28 seconds
 
 Average gap: 14 days, 26 minutes, 9 seconds
 
-Shows per year: {:.1f}
- 26.03764546934013
+Shows per year: 26.0
+
 Monthly show output: 4 hours, 6 minutes, 13 seconds
 
 
@@ -331,8 +331,8 @@ Average Length: 56 minutes, 2 seconds
 
 Average gap: 17 days, 14 hours, 8 minutes, 35 seconds
 
-Shows per year: {:.1f}
- 20.751247625719504
+Shows per year: 20.8
+
 Monthly show output: 1 hour, 36 minutes, 53 seconds
 
 
@@ -348,8 +348,8 @@ Average Length: 35 minutes, 46 seconds
 
 Average gap: 25 days, 14 hours, 27 minutes, 11 seconds
 
-Shows per year: {:.1f}
- 14.25657978385251
+Shows per year: 14.3
+
 Monthly show output: 42 minutes, 30 seconds
 
 
@@ -365,8 +365,8 @@ Average Length: 1 hour, 8 minutes, 54 seconds
 
 Average gap: 6 days, 23 hours, 37 minutes, 5 seconds
 
-Shows per year: {:.1f}
- 52.2615903087713
+Shows per year: 52.3
+
 Monthly show output: 5 hours, 7 seconds
 
 
@@ -382,8 +382,8 @@ Average Length: 1 hour, 1 minute, 14 seconds
 
 Average gap: 7 days, 9 hours, 21 minutes, 10 seconds
 
-Shows per year: {:.1f}
- 49.39300356170575
+Shows per year: 49.4
+
 Monthly show output: 4 hours, 12 minutes, 4 seconds
 
 
@@ -399,8 +399,8 @@ Average Length: 41 minutes
 
 Average gap: 27 days, 21 hours, 52 minutes, 21 seconds
 
-Shows per year: {:.1f}
- 13.07711098444752
+Shows per year: 13.1
+
 Monthly show output: 44 minutes, 41 seconds
 
 
@@ -416,8 +416,8 @@ Average Length: 45 minutes, 42 seconds
 
 Average gap: 27 days, 9 hours, 12 minutes, 40 seconds
 
-Shows per year: {:.1f}
- 13.329048421687773
+Shows per year: 13.3
+
 Monthly show output: 50 minutes, 45 seconds
 
 
@@ -433,8 +433,8 @@ Average Length: 29 minutes, 11 seconds
 
 Average gap: 8 days, 11 hours, 6 minutes, 15 seconds
 
-Shows per year: {:.1f}
- 43.13052887866901
+Shows per year: 43.1
+
 Monthly show output: 1 hour, 44 minutes, 54 seconds
 
 
@@ -450,8 +450,8 @@ Average Length: 12 minutes, 20 seconds
 
 Average gap: 13 days, 20 hours, 10 minutes, 6 seconds
 
-Shows per year: {:.1f}
- 26.372163772341235
+Shows per year: 26.4
+
 Monthly show output: 27 minutes, 7 seconds
 
 
@@ -467,8 +467,8 @@ Average Length: 1 hour, 33 minutes, 47 seconds
 
 Average gap: 6 days, 23 hours, 23 minutes, 5 seconds
 
-Shows per year: {:.1f}
- 52.33449440180081
+Shows per year: 52.3
+
 Monthly show output: 6 hours, 49 minutes, 3 seconds
 
 
