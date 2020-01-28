@@ -513,19 +513,19 @@ Monthly show output: 27 minutes, 7 seconds
 
 ### Upgrade
 
-18 days, 7 hours, 16 minutes, 26 seconds
+18 days, 8 hours, 55 minutes, 49 seconds
 
-Number of shows: 281
+Number of shows: 282
 
-Average Length: 1 hour, 33 minutes, 47 seconds
+Average Length: 1 hour, 33 minutes, 48 seconds
 
-Average gap: 6 days, 23 hours, 23 minutes, 5 seconds
+Average gap: 6 days, 23 hours, 17 minutes, 46 seconds
 
-Standard deviation: 16 hours, 25 minutes, 55 seconds
+Standard deviation: 16 hours, 28 minutes, 10 seconds
 
-Shows per year: 52.3
+Shows per year: 52.4
 
-Monthly show output: 6 hours, 49 minutes, 3 seconds
+Monthly show output: 6 hours, 49 minutes, 21 seconds
 
 
 -------------------------------------------------
@@ -697,7 +697,7 @@ Average Length: 1 hour, 25 seconds
 
 ## Total shows: 43
 
-### Total shows length: 210 days, 7 hours, 56 minutes, 48 seconds
+### Total shows length: 210 days, 9 hours, 36 minutes, 11 seconds
 
 ## Total active shows: 28
 
@@ -705,5 +705,5 @@ Average Length: 1 hour, 25 seconds
 
 ### Monthly output: 2 days, 22 hours
 
-## Time untill 1 year of content: 4 years, 133 days
+## Time untill 1 year of content: 4 years, 132 days
 
