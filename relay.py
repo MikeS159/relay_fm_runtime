@@ -10,6 +10,10 @@ old_shows_list = ['almanac', 'bionic', 'canvas', 'cmdspace', 'disruption', 'down
 h2 = "## "
 h3 = "### "
 
+show_output = []
+old_show_output = []
+summary_output = []
+
 intervals = (
     ('years', 31536000),
     #('weeks', 604800),  # 60 * 60 * 24 * 7
@@ -40,13 +44,13 @@ def parse_feed(feed_name):
     num_shows = len(ents)
     for e in ents:
         length = e['itunes_duration']
-        total_len += int(length)
-    print(h3 +d['feed']['title'] + "\n")
-    print(display_time(total_len,5) + "\n")
-    print("Number of shows: " + str(num_shows) + "\n")
+        total_len += int(length)    
+    old_show_output.append(h3 +d['feed']['title'] + "\n")
+    old_show_output.append(display_time(total_len,5) + "\n")
+    old_show_output.append("Number of shows: " + str(num_shows) + "\n")
     avg = total_len / num_shows
-    print("Average Length: " + display_time(avg,5) + "\n")
-    print("\n-------------------------------------------------\n")
+    old_show_output.append("Average Length: " + display_time(avg,5) + "\n")
+    old_show_output.append("\n-------------------------------------------------\n")
     return total_len
 
 def parse_prediction_feed(feed_name):
@@ -64,22 +68,22 @@ def parse_prediction_feed(feed_name):
         time_list.append(time.mktime(e['published_parsed']))
     time_list = list(reversed(time_list))
     diff_gap = numpy.diff(time_list)
-    avg_gap = numpy.average(diff_gap)
-    print(h3 +d['feed']['title'] + "\n")
-    print(display_time(total_len,5) + "\n")
-    print("Number of shows: " + str(num_shows) + "\n")
+    avg_gap = numpy.average(diff_gap)    
+    show_output.append(h3 +d['feed']['title'] + "\n")
+    show_output.append(display_time(total_len,5) + "\n")
+    show_output.append("Number of shows: " + str(num_shows) + "\n")
     avg_length = total_len / num_shows
-    print("Average Length: " + display_time(avg_length,5) + "\n")
-    print("Average gap: " + display_time(avg_gap, 5) + "\n")
+    show_output.append("Average Length: " + display_time(avg_length,5) + "\n")
+    show_output.append("Average gap: " + display_time(avg_gap, 5) + "\n")
     shows_per_year = 31536000 / avg_gap
     yearly_output = avg_length * shows_per_year
     monthly_output = yearly_output / 12
     std_dev = numpy.std(diff_gap)
-    print("Standard deviation: " + display_time(std_dev,5) + "\n")
-    print("Shows per year: {:.1f}\n".format(shows_per_year))
-    print("Monthly show output: " + display_time(monthly_output, 5) + "\n")
+    show_output.append("Standard deviation: " + display_time(std_dev,5) + "\n")
+    show_output.append("Shows per year: {:.1f}\n".format(shows_per_year))
+    show_output.append("Monthly show output: " + display_time(monthly_output, 5) + "\n")
 
-    print("\n-------------------------------------------------\n")    
+    show_output.append("\n-------------------------------------------------\n")
     return total_len, yearly_output
 
 
@@ -94,14 +98,24 @@ def main():
     for show in old_shows_list:
         running_total += parse_feed(show)
     time_to_one_year = ((31536000 - running_total)/yearly_output) * 31536000
-    print(h2 + 'Total shows: ' + str(len(shows_list) + len(old_shows_list)) + "\n")
-    print(h3 +'Total shows length: ' + display_time(running_total,5) + "\n")    
+    summary_output.append(h2 + 'Total shows: ' + str(len(shows_list) + len(old_shows_list)) + "\n")
+    summary_output.append(h3 +'Total shows length: ' + display_time(running_total,5) + "\n")    
 
-    print(h2 + "Total active shows: " + str(len(shows_list)) + "\n")
-    print(h3 + "Yearly output: " + display_time(yearly_output) + "\n")
-    print(h3 + "Monthly output: " + display_time(yearly_output/12) + "\n")
+    summary_output.append(h2 + "Total active shows: " + str(len(shows_list)) + "\n")
+    summary_output.append(h3 + "Yearly output: " + display_time(yearly_output) + "\n")
+    summary_output.append(h3 + "Monthly output: " + display_time(yearly_output/12) + "\n")
 
-    print(h2 + "Time untill 1 year of content: " + display_time(time_to_one_year, 2) + "\n")
+    summary_output.append(h2 + "Time untill 1 year of content: " + display_time(time_to_one_year, 2) + "\n")
+    summary_output.append("\n-------------------------------------------------\n")
+
+    file = open("README.md","w")
+    for s in summary_output:
+        file.write(s)
+    for s in show_output:
+        file.write(s)
+    for s in old_show_output:
+        file.write(s)
+    file.close()
 
     os.system('git add README.md')
     os.system('git commit -m "Updated Relay show stats"')
