@@ -1,6 +1,7 @@
 import feedparser
 import numpy
 import time
+import os
 
 shows_list = ['adapt', 'analogue', 'automators', 'bonanza', 'b-sides', 'clockwise', 'connected', 'cortex', 'departures', 'focused', 'liftoff', 'mpu', 'makedo', 'material', 'originality', 'parallel', 'pictorial', 'presentable', 'rd', 'remaster', 'roboism', 'rocket', 'penaddict', 'tc', 'topfour', 'radar', 'ungeniused', 'upgrade']
 
@@ -83,6 +84,7 @@ def parse_prediction_feed(feed_name):
 
 
 def main():
+    os.system('git pull')
     running_total = 0
     yearly_output = 0
     for show in shows_list:
@@ -100,7 +102,11 @@ def main():
     print(h3 + "Monthly output: " + display_time(yearly_output/12) + "\n")
 
     print(h2 + "Time untill 1 year of content: " + display_time(time_to_one_year, 2) + "\n")
-    
+
+    os.system('git add README.md')
+    os.system('git commit -m "Updated Relay show stats"')
+    os.system('git push')
+
 if __name__ == "__main__":
     main()
 
