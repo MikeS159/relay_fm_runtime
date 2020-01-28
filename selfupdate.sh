@@ -1,4 +1,3 @@
-#!/bin/bash
 git pull
 rm README.md
 python3 relay.py > README.md
