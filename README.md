@@ -304,19 +304,19 @@ Monthly show output: 1 hour, 19 minutes, 15 seconds
 
 ### Pictorial
 
-2 hours, 14 minutes, 15 seconds
+2 hours, 39 minutes, 41 seconds
 
-Number of shows: 4
+Number of shows: 5
 
-Average Length: 33 minutes, 33 seconds
+Average Length: 31 minutes, 56 seconds
 
-Average gap: 13 days, 23 hours, 30 minutes
+Average gap: 13 days, 23 hours, 45 minutes
 
-Standard deviation: 2 hours, 7 minutes, 52 seconds
+Standard deviation: 1 hour, 53 minutes, 44 seconds
 
 Shows per year: 26.1
 
-Monthly show output: 1 hour, 13 minutes, 1 second
+Monthly show output: 1 hour, 9 minutes, 26 seconds
 
 
 -------------------------------------------------
@@ -494,19 +494,19 @@ Monthly show output: 1 hour, 44 minutes, 54 seconds
 
 ### Ungeniused
 
-19 hours, 44 minutes, 49 seconds
+19 hours, 58 minutes, 28 seconds
 
-Number of shows: 96
+Number of shows: 97
 
-Average Length: 12 minutes, 20 seconds
+Average Length: 12 minutes, 21 seconds
 
-Average gap: 13 days, 20 hours, 10 minutes, 6 seconds
+Average gap: 13 days, 20 hours, 12 minutes, 11 seconds
 
-Standard deviation: 3 days, 9 hours, 7 minutes, 54 seconds
+Standard deviation: 3 days, 8 hours, 42 minutes, 31 seconds
 
 Shows per year: 26.4
 
-Monthly show output: 27 minutes, 7 seconds
+Monthly show output: 27 minutes, 9 seconds
 
 
 -------------------------------------------------
@@ -697,13 +697,13 @@ Average Length: 1 hour, 25 seconds
 
 ## Total shows: 43
 
-### Total shows length: 210 days, 9 hours, 36 minutes, 11 seconds
+### Total shows length: 210 days, 10 hours, 15 minutes, 16 seconds
 
 ## Total active shows: 28
 
-### Yearly output: 35 days, 10 hours
+### Yearly output: 35 days, 9 hours
 
 ### Monthly output: 2 days, 22 hours
 
-## Time untill 1 year of content: 4 years, 132 days
+## Time untill 1 year of content: 4 years, 133 days
 
