@@ -1,9 +1,9 @@
 ## Total shows: 43
-### Total shows length: 210 days, 14 hours, 20 minutes, 47 seconds
+### Total shows length: 210 days, 15 hours, 15 minutes, 46 seconds
 ## Total active shows: 28
 ### Yearly output: 35 days, 9 hours
 ### Monthly output: 2 days, 22 hours
-## Time untill 1 year of content: 4 years, 132 days
+## Time untill 1 year of content: 4 years, 131 days
 
 -------------------------------------------------
 ### Adapt
@@ -227,13 +227,13 @@ Monthly show output: 5 hours, 7 seconds
 
 -------------------------------------------------
 ### The Pen Addict
-16 days, 18 hours, 9 minutes, 43 seconds
-Number of shows: 394
-Average Length: 1 hour, 1 minute, 14 seconds
-Average gap: 7 days, 9 hours, 21 minutes, 10 seconds
-Standard deviation: 4 days, 5 hours, 57 minutes, 36 seconds
+16 days, 19 hours, 4 minutes, 42 seconds
+Number of shows: 395
+Average Length: 1 hour, 1 minute, 13 seconds
+Average gap: 7 days, 9 hours, 19 minutes, 47 seconds
+Standard deviation: 4 days, 5 hours, 49 minutes, 54 seconds
 Shows per year: 49.4
-Monthly show output: 4 hours, 12 minutes, 4 seconds
+Monthly show output: 4 hours, 12 minutes, 2 seconds
 
 -------------------------------------------------
 ### Thoroughly Considered
