@@ -1,5 +1,5 @@
 ## Total shows: 43
-### Total shows length: 210 days, 10 hours, 15 minutes, 16 seconds
+### Total shows length: 210 days, 11 hours, 58 minutes, 39 seconds
 ## Total active shows: 28
 ### Yearly output: 35 days, 9 hours
 ### Monthly output: 2 days, 22 hours
@@ -107,13 +107,13 @@ Monthly show output: 2 hours, 7 minutes, 18 seconds
 
 -------------------------------------------------
 ### Liftoff
-3 days, 19 hours, 51 minutes, 1 second
-Number of shows: 116
-Average Length: 47 minutes, 30 seconds
-Average gap: 14 days, 37 minutes, 26 seconds
-Standard deviation: 2 days, 21 hours, 13 minutes, 57 seconds
+3 days, 21 hours, 1 minute, 49 seconds
+Number of shows: 117
+Average Length: 47 minutes, 42 seconds
+Average gap: 14 days, 36 minutes, 58 seconds
+Standard deviation: 2 days, 20 hours, 56 minutes
 Shows per year: 26.0
-Monthly show output: 1 hour, 43 minutes, 1 second
+Monthly show output: 1 hour, 43 minutes, 27 seconds
 
 -------------------------------------------------
 ### Mac Power Users
@@ -177,13 +177,13 @@ Monthly show output: 1 hour, 9 minutes, 26 seconds
 
 -------------------------------------------------
 ### Presentable
-2 days, 15 hours, 41 minutes, 3 seconds
-Number of shows: 79
-Average Length: 48 minutes, 22 seconds
-Average gap: 17 days, 1 hour, 11 minutes, 32 seconds
-Standard deviation: 7 days, 10 hours, 24 minutes, 35 seconds
+2 days, 16 hours, 13 minutes, 38 seconds
+Number of shows: 80
+Average Length: 48 minutes, 10 seconds
+Average gap: 17 days, 27 minutes, 20 seconds
+Standard deviation: 7 days, 9 hours, 23 minutes, 47 seconds
 Shows per year: 21.4
-Monthly show output: 1 hour, 26 minutes, 17 seconds
+Monthly show output: 1 hour, 26 minutes, 5 seconds
 
 -------------------------------------------------
 ### Reconcilable Differences
