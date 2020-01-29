@@ -2,6 +2,7 @@ import feedparser
 import numpy
 import time
 import os
+import sys
 
 shows_list = ['adapt', 'analogue', 'automators', 'bonanza', 'b-sides', 'clockwise', 'connected', 'cortex', 'departures', 'focused', 'liftoff', 'mpu', 'makedo', 'material', 'originality', 'parallel', 'pictorial', 'presentable', 'rd', 'remaster', 'roboism', 'rocket', 'penaddict', 'tc', 'topfour', 'radar', 'ungeniused', 'upgrade']
 
@@ -120,6 +121,7 @@ def main():
     os.system('git add README.md')
     os.system('git commit -m "Updated Relay show stats"')
     os.system('git push')
+    sys.exit(0)
 
 if __name__ == "__main__":
     main()
