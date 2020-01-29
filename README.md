@@ -1,9 +1,9 @@
 ## Total shows: 43
-### Total shows length: 210 days, 11 hours, 58 minutes, 39 seconds
+### Total shows length: 210 days, 14 hours, 20 minutes, 47 seconds
 ## Total active shows: 28
 ### Yearly output: 35 days, 9 hours
 ### Monthly output: 2 days, 22 hours
-## Time untill 1 year of content: 4 years, 133 days
+## Time untill 1 year of content: 4 years, 132 days
 
 -------------------------------------------------
 ### Adapt
@@ -77,13 +77,13 @@ Monthly show output: 6 hours, 7 minutes, 5 seconds
 
 -------------------------------------------------
 ### Cortex
-6 days, 7 hours, 4 minutes, 2 seconds
-Number of shows: 95
-Average Length: 1 hour, 35 minutes, 24 seconds
-Average gap: 17 days, 18 hours, 52 minutes, 30 seconds
-Standard deviation: 8 days, 18 hours, 9 minutes, 5 seconds
-Shows per year: 20.5
-Monthly show output: 2 hours, 43 minutes, 9 seconds
+6 days, 9 hours, 26 minutes, 10 seconds
+Number of shows: 96
+Average Length: 1 hour, 35 minutes, 53 seconds
+Average gap: 17 days, 21 hours, 44 minutes, 50 seconds
+Standard deviation: 8 days, 18 hours, 53 minutes, 21 seconds
+Shows per year: 20.4
+Monthly show output: 2 hours, 42 minutes, 53 seconds
 
 -------------------------------------------------
 ### Departures
