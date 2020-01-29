@@ -3,6 +3,7 @@ import numpy
 import time
 import os
 import sys
+from sh import git, cd
 
 shows_list = ['adapt', 'analogue', 'automators', 'bonanza', 'b-sides', 'clockwise', 'connected', 'cortex', 'departures', 'focused', 'liftoff', 'mpu', 'makedo', 'material', 'originality', 'parallel', 'pictorial', 'presentable', 'rd', 'remaster', 'roboism', 'rocket', 'penaddict', 'tc', 'topfour', 'radar', 'ungeniused', 'upgrade']
 
@@ -90,7 +91,10 @@ def parse_prediction_feed(feed_name):
 
 
 def main():
-    os.system('git pull')
+    if len(sys.argv) > 1:
+        path = sys.argv[1]
+        cd(path)
+    git('pull')
     running_total = 0
     yearly_output = 0
     for show in shows_list:
@@ -119,9 +123,9 @@ def main():
         file.write(s)
     file.close()
 
-    os.system('git add README.md')
-    os.system('git commit -m "Updated Relay show stats"')
-    os.system('git push')
+    git('add README.md')
+    git('commit -m "Updated Relay show stats"')
+    git('push')
     sys.exit(0)
 
 if __name__ == "__main__":
