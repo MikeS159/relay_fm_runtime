@@ -12,18 +12,24 @@ old_shows_list = ['almanac', 'bionic', 'canvas', 'cmdspace', 'disruption', 'down
 h2 = "## "
 h3 = "### "
 dblel = "\n\n"
+hoz_sep = "|"
+vert_head = "|Show|Total Time|Number of Shows|Average Length|Average Gap|Standard Deviation|Shows Per Year|Monthly Show Output|"
+vert_sep = "|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|"
+vert_head_old = "|Show|Total Time|Number of Shows|Average Length|"
+vert_sep_old = "|:---:|:---:|:---:|:---:|"
 
 show_output = []
 old_show_output = []
 summary_output = []
+new_show_output = []
 
 intervals = (
     ('years', 31536000),
     #('weeks', 604800),  # 60 * 60 * 24 * 7
     ('days', 86400),    # 60 * 60 * 24
     ('hours', 3600),    # 60 * 60
-    ('minutes', 60),
-    ('seconds', 1),
+    ('mins', 60),
+    ('secs', 1),
     )
 
 def display_time(seconds, granularity=2):
@@ -48,12 +54,11 @@ def parse_feed(feed_name):
     for e in ents:
         length = e['itunes_duration']
         total_len += int(length)    
-    old_show_output.append(h3 +d['feed']['title'] + dblel)
-    old_show_output.append(display_time(total_len,5) + dblel)
-    old_show_output.append("Number of shows: " + str(num_shows) + dblel)
+    old_show_output.append("|**" + d['feed']['title'] + "**|")
+    old_show_output.append(display_time(total_len,4) + "|")
+    old_show_output.append(str(num_shows) + "|")
     avg = total_len / num_shows
-    old_show_output.append("Average Length: " + display_time(avg,5) + dblel)
-    old_show_output.append("\n-------------------------------------------------\n")
+    old_show_output.append(display_time(avg,4) + "|\n")
     return total_len
 
 def parse_prediction_feed(feed_name):
@@ -71,64 +76,80 @@ def parse_prediction_feed(feed_name):
         time_list.append(time.mktime(e['published_parsed']))
     time_list = list(reversed(time_list))
     diff_gap = numpy.diff(time_list)
-    avg_gap = numpy.average(diff_gap)    
-    show_output.append(h3 +d['feed']['title'] + dblel)
-    show_output.append(display_time(total_len,5) + dblel)
-    show_output.append("Number of shows: " + str(num_shows) + dblel)
+    avg_gap = numpy.average(diff_gap)
     avg_length = total_len / num_shows
-    show_output.append("Average Length: " + display_time(avg_length,5) + dblel)
-    show_output.append("Average gap: " + display_time(avg_gap, 5) + dblel)
     shows_per_year = 31536000 / avg_gap
     yearly_output = avg_length * shows_per_year
     monthly_output = yearly_output / 12
     std_dev = numpy.std(diff_gap)
-    show_output.append("Standard deviation: " + display_time(std_dev,5) + dblel)
-    show_output.append("Shows per year: {:.1f}\n".format(shows_per_year) + dblel)
-    show_output.append("Monthly show output: " + display_time(monthly_output, 5) + dblel)
 
-    show_output.append("\n-------------------------------------------------\n")
+
+    show_output.append("|**" + d['feed']['title'] + "**|")
+    show_output.append(display_time(total_len, 4) + "|")
+    show_output.append(str(num_shows) + "|")
+    show_output.append(display_time(avg_length, 4) + "|")
+    show_output.append(display_time(avg_gap, 3) + "|")
+    show_output.append(display_time(std_dev, 3) + "|")
+    show_output.append("{:.1f}".format(shows_per_year) + "|")
+    show_output.append(display_time(monthly_output, 4) + "|\n")
+
     return total_len, yearly_output
 
 
 def main():
+    use_git = False
     if len(sys.argv) > 1:
+        use_git = True
         path = sys.argv[1]
         git_repo = Repo(path)
         git_repo.git.pull()
 
-        running_total = 0
-        yearly_output = 0
-        for show in shows_list:
-            total, yearly = parse_prediction_feed(show)
-            running_total += total
-            yearly_output += yearly
-        for show in old_shows_list:
-            running_total += parse_feed(show)
-        time_to_one_year = ((31536000 - running_total)/yearly_output) * 31536000
-        summary_output.append(h2 + 'Total shows: ' + str(len(shows_list) + len(old_shows_list)) + dblel)
-        summary_output.append(h3 +'Total shows length: ' + display_time(running_total,5) + dblel)    
+    running_total = 0
+    yearly_output = 0
+    for show in shows_list:
+        total, yearly = parse_prediction_feed(show)
+        running_total += total
+        yearly_output += yearly
+    for show in old_shows_list:
+        running_total += parse_feed(show)
+    time_to_one_year = ((31536000 - running_total)/yearly_output) * 31536000
+    summary_output.append(h2 + 'Total shows: ' + str(len(shows_list) + len(old_shows_list)) + dblel)
+    summary_output.append(h3 +'Total shows length: ' + display_time(running_total,4) + dblel)    
 
-        summary_output.append(h2 + "Total active shows: " + str(len(shows_list)) + dblel)
-        summary_output.append(h3 + "Yearly output: " + display_time(yearly_output) + dblel)
-        summary_output.append(h3 + "Monthly output: " + display_time(yearly_output/12) + dblel)
+    summary_output.append(h2 + "Total active shows: " + str(len(shows_list)) + dblel)
+    summary_output.append(h3 + "Yearly output: " + display_time(yearly_output, 3) + dblel)
+    summary_output.append(h3 + "Monthly output: " + display_time(yearly_output/12, 3) + dblel)
 
-        summary_output.append(h2 + "Time untill 1 year of content: " + display_time(time_to_one_year, 2) + dblel)
-        summary_output.append("\n-------------------------------------------------\n")
+    summary_output.append(h2 + "Time untill 1 year of content: " + display_time(time_to_one_year, 2) + dblel)
+    summary_output.append("\n-------------------------------------------------\n\n")
 
-        file = open(path + "/README.md","w")
-        for s in summary_output:
-            file.write(s)
-        for s in show_output:
-            file.write(s)
-        for s in old_show_output:
-            file.write(s)
-        file.close()
+    file = open("README.md","w")
+    if use_git:
+        file = open(path + "/README.md","w")    
+        
+    for s in summary_output:
+        file.write(s)
+    file.write("\n")
+    file.write(h2 + "Active Shows")
+    file.write("\n")
+    file.write(vert_head + "\n")
+    file.write(vert_sep + "\n")
+    for s in show_output:
+        file.write(s)    
+    file.write("\n-------------------------------------------------\n\n")
+    file.write(h2 + "Retired Shows")
+    file.write("\n")
+    file.write(vert_head_old + "\n")
+    file.write(vert_sep_old + "\n")
+    for s in old_show_output:
+        file.write(s)
+    file.close()
 
+    if use_git:
         git_repo.git.add('README.md')
         git_repo.git.commit(m="Updated Relay show stats")
         git_repo.git.push()
-    else:
-        print("Please provide a path")
+
     sys.exit(0)
 
 if __name__ == "__main__":
