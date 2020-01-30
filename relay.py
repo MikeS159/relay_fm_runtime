@@ -13,9 +13,9 @@ h2 = "## "
 h3 = "### "
 dblel = "\n\n"
 hoz_sep = "|"
-vert_head = "|Show|Total Time|Number of Shows|Average Length|Average Gap|Standard Deviation|Shows Per Year|Monthly Show Output|"
+vert_head = "|Show|Total Length|Number of Shows|Average Length|Average Gap|Standard Deviation|Shows Per Year|Monthly Show Output|"
 vert_sep = "|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|"
-vert_head_old = "|Show|Total Time|Number of Shows|Average Length|"
+vert_head_old = "|Show|Total Length|Number of Shows|Average Length|"
 vert_sep_old = "|:---:|:---:|:---:|:---:|"
 
 show_output = []
@@ -123,9 +123,9 @@ def main():
     summary_output.append(h2 + "Time untill 1 year of content: " + display_time(time_to_one_year, 2) + dblel)
     summary_output.append("\n-------------------------------------------------\n\n")
 
-    file = open("README.md","w")
+    file = open("docs/index.md","w")
     if use_git:
-        file = open(path + "/README.md","w")    
+        file = open(path + "/docs/index.md","w")    
         
     for s in summary_output:
         file.write(s)
@@ -146,7 +146,7 @@ def main():
     file.close()
 
     if use_git:
-        git_repo.git.add('README.md')
+        git_repo.git.add('docs/index.md')
         git_repo.git.commit(m="Updated Relay show stats")
         git_repo.git.push()
 
