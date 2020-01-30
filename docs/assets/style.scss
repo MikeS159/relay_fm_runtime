@@ -4,13 +4,5 @@
 @import "{{ site.theme }}";
 
 .inner {
-  max-width: 75%;
-}
-
-.sidebar {
-  @include span(2 of 12);
-}
-
-.page {
-  @include span(10 of 12 last);
+  max-width: 60%;
 }
