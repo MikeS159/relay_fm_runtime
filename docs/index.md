@@ -1,10 +1,10 @@
 ## Total shows: 43
 
-### Total shows length: 210 days, 18 hours, 17 mins, 55 secs
+### Total shows length: 210 days, 19 hours, 11 mins, 46 secs
 
 ## Total active shows: 28
 
-### Yearly output: 35 days, 9 hours, 33 mins
+### Yearly output: 35 days, 9 hours, 30 mins
 
 ### Monthly output: 2 days, 22 hours, 47 mins
 
@@ -38,7 +38,7 @@
 |**Reconcilable Differences**|9 days, 14 hours, 44 mins, 11 secs|122|1 hour, 53 mins, 28 secs|14 days, 26 mins, 9 secs|2 days, 3 hours, 21 mins|26.0|4 hours, 6 mins, 13 secs|
 |**Remaster**|3 days, 5 hours, 30 mins, 46 secs|83|56 mins, 2 secs|17 days, 14 hours, 8 mins|8 days, 1 hour, 37 mins|20.8|1 hour, 36 mins, 53 secs|
 |**Roboism**|19 hours, 40 mins, 47 secs|33|35 mins, 46 secs|25 days, 14 hours, 27 mins|18 days, 8 hours, 10 mins|14.3|42 mins, 30 secs|
-|**Rocket**|12 days, 14 hours, 4 mins, 16 secs|263|1 hour, 8 mins, 54 secs|6 days, 23 hours, 37 mins|19 hours, 22 mins, 25 secs|52.3|5 hours, 7 secs|
+|**Rocket**|12 days, 14 hours, 58 mins, 7 secs|264|1 hour, 8 mins, 51 secs|6 days, 23 hours, 37 mins|19 hours, 20 mins, 14 secs|52.3|4 hours, 59 mins, 51 secs|
 |**The Pen Addict**|16 days, 19 hours, 4 mins, 42 secs|395|1 hour, 1 min, 13 secs|7 days, 9 hours, 19 mins|4 days, 5 hours, 49 mins|49.4|4 hours, 12 mins, 2 secs|
 |**Thoroughly Considered**|1 day, 14 hours, 16 mins, 54 secs|56|41 mins|27 days, 21 hours, 52 mins|10 days, 23 hours, 45 mins|13.1|44 mins, 41 secs|
 |**Top Four**|1 day, 21 hours, 42 mins, 13 secs|60|45 mins, 42 secs|27 days, 13 hours, 35 mins|10 days, 11 hours, 20 mins|13.2|50 mins, 25 secs|
@@ -67,4 +67,4 @@
 |**The Prompt**|3 days, 47 mins, 35 secs|57|1 hour, 16 mins, 37 secs|
 |**Virtual**|2 days, 13 hours, 26 mins, 9 secs|61|1 hour, 25 secs|
 
-Generated at: 00:01:03 31/01/2020
+Generated at: 00:02:03 31/01/2020
