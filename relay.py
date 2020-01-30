@@ -91,10 +91,10 @@ def parse_prediction_feed(feed_name):
 
 
 def main():
-    if len(sys.argv) > 1:
-        path = sys.argv[1]
-        print("cding to " + path)
-        cd(path)
+#    if len(sys.argv) > 1:
+    path = sys.argv[1]
+    print("cding to " + path)
+    cd(path)
     git('pull')
     running_total = 0
     yearly_output = 0
@@ -124,7 +124,7 @@ def main():
         file.write(s)
     file.close()
 
-    git('add README.md')
+    git('add .')
     git('commit -m "Updated Relay show stats"')
     git('push')
     sys.exit(0)
