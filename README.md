@@ -1,6 +1,6 @@
 ## Total shows: 43
 
-### Total shows length: 210 days, 15 hours, 15 minutes, 46 seconds
+### Total shows length: 210 days, 18 hours, 17 minutes, 55 seconds
 
 ## Total active shows: 28
 
@@ -8,7 +8,7 @@
 
 ### Monthly output: 2 days, 22 hours
 
-## Time untill 1 year of content: 4 years, 131 days
+## Time untill 1 year of content: 4 years, 130 days
 
 
 -------------------------------------------------
@@ -99,35 +99,35 @@ Monthly show output: 11 minutes, 31 seconds
 -------------------------------------------------
 ### Clockwise
 
-5 days, 17 hours, 28 minutes, 11 seconds
+5 days, 17 hours, 56 minutes, 21 seconds
 
-Number of shows: 278
+Number of shows: 279
 
-Average Length: 29 minutes, 40 seconds
+Average Length: 29 minutes, 39 seconds
 
-Average gap: 8 days, 17 hours, 41 minutes, 38 seconds
+Average gap: 8 days, 17 hours, 32 minutes, 15 seconds
 
-Standard deviation: 27 days, 13 hours, 56 minutes, 16 seconds
+Standard deviation: 27 days, 12 hours, 45 minutes, 5 seconds
 
 Shows per year: 41.8
-Monthly show output: 1 hour, 43 minutes, 17 seconds
+Monthly show output: 1 hour, 43 minutes, 20 seconds
 
 
 -------------------------------------------------
 ### Connected
 
-16 days, 16 hours, 25 minutes, 26 seconds
+16 days, 18 hours, 13 minutes, 46 seconds
 
-Number of shows: 278
+Number of shows: 279
 
-Average Length: 1 hour, 26 minutes, 25 seconds
+Average Length: 1 hour, 26 minutes, 30 seconds
 
-Average gap: 7 days, 3 hours, 51 minutes, 49 seconds
+Average gap: 7 days, 3 hours, 51 minutes, 5 seconds
 
-Standard deviation: 1 day, 6 hours, 45 minutes, 20 seconds
+Standard deviation: 1 day, 6 hours, 42 minutes, 3 seconds
 
 Shows per year: 51.0
-Monthly show output: 6 hours, 7 minutes, 5 seconds
+Monthly show output: 6 hours, 7 minutes, 26 seconds
 
 
 -------------------------------------------------
@@ -422,18 +422,18 @@ Monthly show output: 44 minutes, 41 seconds
 -------------------------------------------------
 ### Top Four
 
-1 day, 20 hours, 56 minutes, 34 seconds
+1 day, 21 hours, 42 minutes, 13 seconds
 
-Number of shows: 59
+Number of shows: 60
 
 Average Length: 45 minutes, 42 seconds
 
-Average gap: 27 days, 9 hours, 12 minutes, 40 seconds
+Average gap: 27 days, 13 hours, 35 minutes, 35 seconds
 
-Standard deviation: 10 days, 11 hours, 15 minutes, 36 seconds
+Standard deviation: 10 days, 11 hours, 20 minutes, 49 seconds
 
-Shows per year: 13.3
-Monthly show output: 50 minutes, 45 seconds
+Shows per year: 13.2
+Monthly show output: 50 minutes, 25 seconds
 
 
 -------------------------------------------------
