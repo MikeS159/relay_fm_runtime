@@ -99,6 +99,7 @@ def parse_prediction_feed(feed_name):
 def main():
     use_git = False
     if len(sys.argv) > 1:
+        print("Using Git")
         use_git = True
         path = sys.argv[1]
         git_repo = Repo(path)
@@ -114,7 +115,7 @@ def main():
         running_total += parse_feed(show)
     time_to_one_year = ((31536000 - running_total)/yearly_output) * 31536000
     summary_output.append(h2 + 'Total shows: ' + str(len(shows_list) + len(old_shows_list)) + dblel)
-    summary_output.append(h3 +'Total shows length: ' + display_time(running_total,4) + dblel)    
+    summary_output.append(h3 +'Total shows length: ' + display_time(running_total,4) + dblel)
 
     summary_output.append(h2 + "Total active shows: " + str(len(shows_list)) + dblel)
     summary_output.append(h3 + "Yearly output: " + display_time(yearly_output, 3) + dblel)
@@ -123,10 +124,13 @@ def main():
     summary_output.append(h2 + "Time untill 1 year of content: " + display_time(time_to_one_year, 2) + dblel)
     summary_output.append("\n-------------------------------------------------\n\n")
 
-    file = open("docs/index.md","w")
+    file = 0
     if use_git:
-        file = open(path + "/docs/index.md","w")    
-        
+
+        file = open(path + "/docs/index.md","w")
+    else:
+        file = open("docs/index.md","w")
+
     for s in summary_output:
         file.write(s)
     file.write("\n")
@@ -135,7 +139,7 @@ def main():
     file.write(vert_head + "\n")
     file.write(vert_sep + "\n")
     for s in show_output:
-        file.write(s)    
+        file.write(s)
     file.write("\n-------------------------------------------------\n\n")
     file.write(h2 + "Retired Shows")
     file.write("\n")
@@ -146,7 +150,7 @@ def main():
     file.close()
 
     if use_git:
-        git_repo.git.add('docs/index.md')
+        git_repo.git.add('.')
         git_repo.git.commit(m="Updated Relay show stats")
         git_repo.git.push()
 
