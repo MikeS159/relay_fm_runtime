@@ -4,6 +4,7 @@ import time
 import os
 import sys
 from git import Repo
+from datetime import datetime
 
 shows_list = ['adapt', 'analogue', 'automators', 'bonanza', 'b-sides', 'clockwise', 'connected', 'cortex', 'departures', 'focused', 'liftoff', 'mpu', 'makedo', 'material', 'originality', 'parallel', 'pictorial', 'presentable', 'rd', 'remaster', 'roboism', 'rocket', 'penaddict', 'tc', 'topfour', 'radar', 'ungeniused', 'upgrade']
 
@@ -97,6 +98,7 @@ def parse_prediction_feed(feed_name):
 
 
 def main():
+    now = datetime.now()
     use_git = False
     if len(sys.argv) > 1:
         print("Using Git")
@@ -147,6 +149,10 @@ def main():
     file.write(vert_sep_old + "\n")
     for s in old_show_output:
         file.write(s)
+
+    current_time = now.strftime("%d/%m/%Y %H:%M:%S")
+    file.write("\nGenerated at: " + current_time + "\n")
+
     file.close()
 
     if use_git:
