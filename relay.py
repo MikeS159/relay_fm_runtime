@@ -131,7 +131,7 @@ def main():
     else:
         file = open("docs/index.md","w")
 
-    file.write("Title: Relay FM Stats")
+    file.write("Title: Relay FM Stats\n\n")
 
     for s in summary_output:
         file.write(s)
