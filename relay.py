@@ -83,7 +83,7 @@ def parse_prediction_feed(feed_name):
     monthly_output = yearly_output / 12
     std_dev = numpy.std(diff_gap)
     show_output.append("Standard deviation: " + display_time(std_dev,5) + dblel)
-    show_output.append("Shows per year: {:.1f}\n".format(shows_per_year))
+    show_output.append("Shows per year: {:.1f}\n".format(shows_per_year) + dblel)
     show_output.append("Monthly show output: " + display_time(monthly_output, 5) + dblel)
 
     show_output.append("\n-------------------------------------------------\n")
@@ -92,7 +92,8 @@ def parse_prediction_feed(feed_name):
 
 def main():
     if len(sys.argv) > 1:
-        path = sys.argv[1]        
+        path = sys.argv[1]
+        git_repo = Repo(path)
         git_repo.git.pull()
 
         running_total = 0
@@ -114,7 +115,7 @@ def main():
         summary_output.append(h2 + "Time untill 1 year of content: " + display_time(time_to_one_year, 2) + dblel)
         summary_output.append("\n-------------------------------------------------\n")
 
-        file = open("README.md","w")
+        file = open(path + "/README.md","w")
         for s in summary_output:
             file.write(s)
         for s in show_output:
@@ -123,7 +124,7 @@ def main():
             file.write(s)
         file.close()
 
-        git_repo.git.add('.')
+        git_repo.git.add('README.md')
         git_repo.git.commit(m="Updated Relay show stats")
         git_repo.git.push()
     else:
