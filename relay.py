@@ -131,8 +131,6 @@ def main():
     else:
         file = open("docs/index.md","w")
 
-    file.write("title: [Relay Stats] \n\n")
-
     for s in summary_output:
         file.write(s)
     file.write("\n")
