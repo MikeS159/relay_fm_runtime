@@ -10,6 +10,8 @@
 
 ## Time untill 1 year of content: 4 years, 130 days
 
+[a relative link](filename.html)
+
 
 -------------------------------------------------
 ### Adapt
