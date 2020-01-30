@@ -3,7 +3,7 @@ import numpy
 import time
 import os
 import sys
-from sh import git, cd
+from git import Repo
 
 shows_list = ['adapt', 'analogue', 'automators', 'bonanza', 'b-sides', 'clockwise', 'connected', 'cortex', 'departures', 'focused', 'liftoff', 'mpu', 'makedo', 'material', 'originality', 'parallel', 'pictorial', 'presentable', 'rd', 'remaster', 'roboism', 'rocket', 'penaddict', 'tc', 'topfour', 'radar', 'ungeniused', 'upgrade']
 
@@ -91,42 +91,43 @@ def parse_prediction_feed(feed_name):
 
 
 def main():
-#    if len(sys.argv) > 1:
-    path = sys.argv[1]
-    print("cding to " + path)
-    cd(path)
-    git('pull')
-    running_total = 0
-    yearly_output = 0
-    for show in shows_list:
-        total, yearly = parse_prediction_feed(show)
-        running_total += total
-        yearly_output += yearly
-    for show in old_shows_list:
-        running_total += parse_feed(show)
-    time_to_one_year = ((31536000 - running_total)/yearly_output) * 31536000
-    summary_output.append(h2 + 'Total shows: ' + str(len(shows_list) + len(old_shows_list)) + dblel)
-    summary_output.append(h3 +'Total shows length: ' + display_time(running_total,5) + dblel)    
+    if len(sys.argv) > 1:
+        path = sys.argv[1]        
+        git_repo.git.pull()
 
-    summary_output.append(h2 + "Total active shows: " + str(len(shows_list)) + dblel)
-    summary_output.append(h3 + "Yearly output: " + display_time(yearly_output) + dblel)
-    summary_output.append(h3 + "Monthly output: " + display_time(yearly_output/12) + dblel)
+        running_total = 0
+        yearly_output = 0
+        for show in shows_list:
+            total, yearly = parse_prediction_feed(show)
+            running_total += total
+            yearly_output += yearly
+        for show in old_shows_list:
+            running_total += parse_feed(show)
+        time_to_one_year = ((31536000 - running_total)/yearly_output) * 31536000
+        summary_output.append(h2 + 'Total shows: ' + str(len(shows_list) + len(old_shows_list)) + dblel)
+        summary_output.append(h3 +'Total shows length: ' + display_time(running_total,5) + dblel)    
 
-    summary_output.append(h2 + "Time untill 1 year of content: " + display_time(time_to_one_year, 2) + dblel)
-    summary_output.append("\n-------------------------------------------------\n")
+        summary_output.append(h2 + "Total active shows: " + str(len(shows_list)) + dblel)
+        summary_output.append(h3 + "Yearly output: " + display_time(yearly_output) + dblel)
+        summary_output.append(h3 + "Monthly output: " + display_time(yearly_output/12) + dblel)
 
-    file = open("README.md","w")
-    for s in summary_output:
-        file.write(s)
-    for s in show_output:
-        file.write(s)
-    for s in old_show_output:
-        file.write(s)
-    file.close()
+        summary_output.append(h2 + "Time untill 1 year of content: " + display_time(time_to_one_year, 2) + dblel)
+        summary_output.append("\n-------------------------------------------------\n")
 
-    git('add .')
-    git('commit -m "Updated Relay show stats"')
-    git('push')
+        file = open("README.md","w")
+        for s in summary_output:
+            file.write(s)
+        for s in show_output:
+            file.write(s)
+        for s in old_show_output:
+            file.write(s)
+        file.close()
+
+        git_repo.git.add('.')
+        git_repo.git.commit(m="Updated Relay show stats")
+        git_repo.git.push()
+    else:
+        print("Please provide a path")
     sys.exit(0)
 
 if __name__ == "__main__":
