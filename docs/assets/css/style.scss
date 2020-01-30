@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.page-header {
+  background-color: #34657F;
+}
+
 .main-content {
   text-align:center;
   max-width: 100%;
