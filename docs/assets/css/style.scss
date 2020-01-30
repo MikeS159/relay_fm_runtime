@@ -23,9 +23,12 @@
   }
   
   table {
+    th {
+      color: #ffffff;
+    }
     th,
     td {
-      text-decoration-color: #ffffff;
+      color: #ffffff;
     }
   }
 }
