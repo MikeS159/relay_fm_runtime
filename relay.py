@@ -150,7 +150,7 @@ def main():
     for s in old_show_output:
         file.write(s)
 
-    current_time = now.strftime("%d/%m/%Y %H:%M:%S")
+    current_time = now.strftime("%H:%M:%S %d/%m/%Y")
     file.write("\nGenerated at: " + current_time + "\n")
 
     file.close()
