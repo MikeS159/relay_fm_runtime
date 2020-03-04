@@ -1,14 +1,14 @@
 ## Total shows: 45
 
-### Total shows length: 213 days 16 hours 26 mins 3 secs
+### Total shows length: 213 days 17 hours 45 mins 8 secs
 
 ## Total active shows: 30
 
-### Yearly output: 38 days 5 hours 5 mins
+### Yearly output: 38 days 5 hours 4 mins
 
 ### Monthly output: 3 days 4 hours 25 mins
 
-## Time untill 1 year of content: 3 years 350 days
+## Time untill 1 year of content: 3 years 349 days
 
 
 -------------------------------------------------
@@ -30,7 +30,7 @@
 |**Focused**|3 days 21 hours 33 mins 11 secs|94|59 mins 42 secs|14 days 3 hours 37 mins|1 day 9 hours 45 mins|25.8|2 hours 8 mins 21 secs|
 |**Liftoff**|3 days 22 hours 41 mins 6 secs|119|47 mins 44 secs|14 days 1 hour 2 mins|2 days 20 hours 30 mins|26.0|1 hour 43 mins 24 secs|
 |**Mac Power Users**|33 days 14 hours 45 mins 56 secs|525|1 hour 32 mins 12 secs|7 days 13 hours 3 mins|3 days 12 hours 15 mins|48.4|6 hours 11 mins 44 secs|
-|**Make Do**|1 day 12 hours 52 mins 26 secs|50|44 mins 14 secs|14 days 6 hours 56 mins|1 day 22 hours 26 mins|25.5|1 hour 34 mins 11 secs|
+|**Make Do**|1 day 13 hours 41 mins 35 secs|51|44 mins 20 secs|14 days 6 hours 48 mins|1 day 21 hours 59 mins|25.6|1 hour 34 mins 25 secs|
 |**Material**|12 days 1 hour 33 mins 11 secs|245|1 hour 10 mins 54 secs|6 days 23 hours 26 mins|1 day 33 mins 47 secs|52.3|5 hours 9 mins 8 secs|
 |**Originality**|1 day 10 hours 34 mins 1 sec|32|1 hour 4 mins 48 secs|32 days 9 hours 31 mins|37 days 10 hours 56 mins|11.3|1 hour 51 secs|
 |**Parallel**|23 hours 35 mins 43 secs|26|54 mins 27 secs|20 days 21 hours 31 mins|21 days 10 hours 29 mins|17.5|1 hour 19 mins 15 secs|
@@ -44,7 +44,7 @@
 |**The Test Drivers**|2 hours 19 mins 31 secs|3|46 mins 30 secs|6 days 12 hours 52 mins|6 days 7 hours 7 mins|55.8|3 hours 36 mins 24 secs|
 |**Thoroughly Considered**|1 day 14 hours 55 mins 28 secs|57|40 mins 58 secs|28 days 18 hours 58 mins|12 days 16 hours 40 mins|12.7|43 mins 17 secs|
 |**Top Four**|1 day 22 hours 24 mins 32 secs|61|45 mins 38 secs|27 days 8 hours 55 mins|10 days 11 hours 48 mins|13.3|50 mins 43 secs|
-|**Under the Radar**|3 days 18 hours 52 secs|185|29 mins 11 secs|8 days 12 hours 32 mins|5 days 9 hours 24 mins|42.8|1 hour 44 mins 11 secs|
+|**Under the Radar**|3 days 18 hours 30 mins 48 secs|186|29 mins 11 secs|8 days 13 hours 14 mins|5 days 9 hours 23 mins|42.7|1 hour 43 mins 51 secs|
 |**Ungeniused**|20 hours 20 mins 24 secs|99|12 mins 19 secs|13 days 20 hours 17 mins|3 days 7 hours 52 mins|26.4|27 mins 4 secs|
 |**Upgrade**|18 days 16 hours 6 mins 41 secs|287|1 hour 33 mins 40 secs|6 days 23 hours 18 mins|16 hours 19 mins 38 secs|52.4|6 hours 48 mins 44 secs|
 
@@ -69,4 +69,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 14:20:00 04/03/2020
+Generated at: 18:00:04 04/03/2020
