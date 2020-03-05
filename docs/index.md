@@ -1,14 +1,14 @@
 ## Total shows: 45
 
-### Total shows length: 213 days 20 hours 59 mins 33 secs
+### Total shows length: 213 days 22 hours 4 mins 2 secs
 
 ## Total active shows: 30
 
-### Yearly output: 38 days 5 hours 7 mins
+### Yearly output: 38 days 5 hours 13 mins
 
-### Monthly output: 3 days 4 hours 25 mins
+### Monthly output: 3 days 4 hours 26 mins
 
-## Time untill 1 year of content: 3 years 348 days
+## Time untill 1 year of content: 3 years 347 days
 
 
 -------------------------------------------------
@@ -17,7 +17,7 @@
 ## Active Shows
 |Show|Total Length|Number of Shows|Average Length|Average Gap|Standard Deviation|Shows Per Year|Monthly Show Output|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**Adapt**|20 hours 46 mins 58 secs|19|1 hour 5 mins 37 secs|15 days 14 hours 30 mins|4 days 9 hours 16 mins|23.4|2 hours 7 mins 55 secs|
+|**Adapt**|21 hours 51 mins 27 secs|20|1 hour 5 mins 34 secs|15 days 12 hours 35 mins|4 days 6 hours 47 mins|23.5|2 hours 8 mins 28 secs|
 |**Analog(ue)**|8 days 15 hours 49 mins 19 secs|174|1 hour 11 mins 39 secs|11 days 13 hours 40 mins|4 days 16 hours 21 mins|31.5|3 hours 8 mins 24 secs|
 |**Automators**|1 day 20 hours 12 mins 27 secs|45|58 mins 56 secs|13 days 18 hours 42 mins|1 day 11 hours 28 mins|26.5|2 hours 10 mins 6 secs|
 |**BONANZA**|1 day 13 hours 2 mins 26 secs|38|58 mins 29 secs|50 days 12 hours 47 mins|54 days 3 hours 4 mins|7.2|35 mins 12 secs|
@@ -69,4 +69,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 12:00:05 05/03/2020
+Generated at: 18:00:05 05/03/2020
