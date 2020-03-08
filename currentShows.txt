@@ -1,5 +1,5 @@
 adapt:20
-analogue:174
+analogue:175
 automators:44
 bonanza:38
 b-sides:39
@@ -10,7 +10,7 @@ departures:2
 flashback:2
 focused:94
 liftoff:118
-mpu:525
+mpu:526
 makedo:51
 material:244
 originality:32
