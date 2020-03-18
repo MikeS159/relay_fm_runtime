@@ -1,6 +1,6 @@
 ## Total shows: 45
 
-### Total shows length: 214 days 22 hours 6 mins 11 secs
+### Total shows length: 214 days 23 hours 27 mins 24 secs
 
 ## Total active shows: 30
 
@@ -23,7 +23,7 @@
 |**BONANZA**|1 day 13 hours 2 mins 26 secs|38|58 mins 29 secs|50 days 12 hours 47 mins|54 days 3 hours 4 mins|7.2|35 mins 12 secs|
 |**B-Sides**|11 hours 31 mins 24 secs|39|17 mins 43 secs|53 days 6 hours 55 mins|52 days 12 hours 6 mins|6.8|10 mins 7 secs|
 |**Clockwise**|5 days 20 hours 54 mins 29 secs|285|29 mins 39 secs|8 days 16 hours 38 mins|27 days 5 hours 45 mins|42.0|1 hour 43 mins 47 secs|
-|**Connected**|17 days 2 hours 46 mins 11 secs|285|1 hour 26 mins 28 secs|7 days 3 hours 45 mins|1 day 6 hours 22 mins|51.0|6 hours 7 mins 31 secs|
+|**Connected**|17 days 4 hours 7 mins 24 secs|286|1 hour 26 mins 27 secs|7 days 3 hours 45 mins|1 day 6 hours 19 mins|51.0|6 hours 7 mins 28 secs|
 |**Cortex**|6 days 13 hours 18 mins 13 secs|98|1 hour 36 mins 18 secs|18 days 42 mins 59 secs|8 days 18 hours 12 mins|20.2|2 hours 42 mins 28 secs|
 |**Departures**|8 hours 7 mins 14 secs|2|4 hours 3 mins 37 secs|30 days 6 hours||12.1|4 hours 4 mins 57 secs|
 |**Flashback**|2 hours 39 mins 55 secs|4|39 mins 58 secs|10 days 1 hour 10 mins|6 days 23 hours 33 mins|36.3|2 hours 1 min|
@@ -69,4 +69,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 18:00:05 18/03/2020
+Generated at: 00:00:06 19/03/2020
