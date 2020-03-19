@@ -1,14 +1,14 @@
 ## Total shows: 45
 
-### Total shows length: 214 days 23 hours 27 mins 24 secs
+### Total shows length: 215 days 1 hour 1 min 46 secs
 
 ## Total active shows: 30
 
-### Yearly output: 37 days 12 hours 36 mins
+### Yearly output: 37 days 12 hours 44 mins
 
 ### Monthly output: 3 days 3 hours 3 mins
 
-## Time untill 1 year of content: 3 years 364 days
+## Time untill 1 year of content: 3 years 363 days
 
 
 -------------------------------------------------
@@ -17,12 +17,12 @@
 ## Active Shows
 |Show|Total Length|Number of Shows|Average Length|Average Gap|Standard Deviation|Shows Per Year|Monthly Show Output|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**Adapt**|21 hours 51 mins 27 secs|20|1 hour 5 mins 34 secs|15 days 12 hours 35 mins|4 days 6 hours 47 mins|23.5|2 hours 8 mins 28 secs|
+|**Adapt**|22 hours 57 mins 10 secs|21|1 hour 5 mins 34 secs|15 days 10 hours 36 mins|4 days 4 hours 33 mins|23.6|2 hours 9 mins 10 secs|
 |**Analog(ue)**|8 days 17 hours 8 mins 43 secs|175|1 hour 11 mins 42 secs|11 days 15 hours 56 mins|4 days 19 hours 55 mins|31.3|3 hours 6 mins 59 secs|
 |**Automators**|1 day 21 hours 25 mins 31 secs|46|59 mins 15 secs|13 days 18 hours 55 mins|1 day 11 hours 6 mins|26.5|2 hours 10 mins 42 secs|
 |**BONANZA**|1 day 13 hours 2 mins 26 secs|38|58 mins 29 secs|50 days 12 hours 47 mins|54 days 3 hours 4 mins|7.2|35 mins 12 secs|
 |**B-Sides**|11 hours 31 mins 24 secs|39|17 mins 43 secs|53 days 6 hours 55 mins|52 days 12 hours 6 mins|6.8|10 mins 7 secs|
-|**Clockwise**|5 days 20 hours 54 mins 29 secs|285|29 mins 39 secs|8 days 16 hours 38 mins|27 days 5 hours 45 mins|42.0|1 hour 43 mins 47 secs|
+|**Clockwise**|5 days 21 hours 23 mins 8 secs|286|29 mins 39 secs|8 days 16 hours 32 mins|27 days 4 hours 37 mins|42.0|1 hour 43 mins 49 secs|
 |**Connected**|17 days 4 hours 7 mins 24 secs|286|1 hour 26 mins 27 secs|7 days 3 hours 45 mins|1 day 6 hours 19 mins|51.0|6 hours 7 mins 28 secs|
 |**Cortex**|6 days 13 hours 18 mins 13 secs|98|1 hour 36 mins 18 secs|18 days 42 mins 59 secs|8 days 18 hours 12 mins|20.2|2 hours 42 mins 28 secs|
 |**Departures**|8 hours 7 mins 14 secs|2|4 hours 3 mins 37 secs|30 days 6 hours||12.1|4 hours 4 mins 57 secs|
@@ -69,4 +69,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 06:00:05 19/03/2020
+Generated at: 12:00:06 19/03/2020
