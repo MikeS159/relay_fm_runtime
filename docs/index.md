@@ -1,14 +1,14 @@
 ## Total shows: 45
 
-### Total shows length: 216 days 21 hours 22 mins
+### Total shows length: 216 days 23 hours 18 mins 17 secs
 
 ## Total active shows: 30
 
-### Yearly output: 37 days 14 hours 46 mins
+### Yearly output: 37 days 14 hours 48 mins
 
-### Monthly output: 3 days 3 hours 13 mins
+### Monthly output: 3 days 3 hours 14 mins
 
-## Time untill 1 year of content: 3 years 342 days
+## Time untill 1 year of content: 3 years 341 days
 
 
 -------------------------------------------------
@@ -22,8 +22,8 @@
 |**Automators**|1 day 22 hours 33 mins 43 secs|47|59 mins 26 secs|13 days 19 hours 58 secs|1 day 10 hours 44 mins|26.5|2 hours 11 mins 5 secs|
 |**BONANZA**|1 day 13 hours 2 mins 26 secs|38|58 mins 29 secs|50 days 12 hours 47 mins|54 days 3 hours 4 mins|7.2|35 mins 12 secs|
 |**B-Sides**|11 hours 31 mins 24 secs|39|17 mins 43 secs|53 days 6 hours 55 mins|52 days 12 hours 6 mins|6.8|10 mins 7 secs|
-|**Clockwise**|5 days 22 hours 17 mins 10 secs|288|29 mins 38 secs|8 days 16 hours 14 mins|27 days 2 hours 21 mins|42.1|1 hour 43 mins 54 secs|
-|**Connected**|17 days 7 hours 31 mins 57 secs|288|1 hour 26 mins 34 secs|7 days 3 hours 43 mins|1 day 6 hours 13 mins|51.0|6 hours 7 mins 59 secs|
+|**Clockwise**|5 days 22 hours 47 mins 9 secs|289|29 mins 38 secs|8 days 16 hours 4 mins|27 days 1 hour 13 mins|42.1|1 hour 44 mins|
+|**Connected**|17 days 8 hours 58 mins 15 secs|289|1 hour 26 mins 34 secs|7 days 3 hours 42 mins|1 day 6 hours 10 mins|51.0|6 hours 8 mins 1 sec|
 |**Cortex**|6 days 15 hours 2 mins 37 secs|99|1 hour 36 mins 23 secs|17 days 23 hours 28 mins|8 days 17 hours 29 mins|20.3|2 hours 43 mins 4 secs|
 |**Departures**|8 hours 7 mins 14 secs|2|4 hours 3 mins 37 secs|30 days 6 hours||12.1|4 hours 4 mins 57 secs|
 |**Flashback**|3 hours 53 mins 42 secs|5|46 mins 44 secs|11 days 37 mins 30 secs|6 days 6 hours 41 mins|33.1|2 hours 8 mins 56 secs|
@@ -69,4 +69,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 18:00:06 08/04/2020
+Generated at: 00:00:06 09/04/2020
