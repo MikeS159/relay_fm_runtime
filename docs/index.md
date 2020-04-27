@@ -1,14 +1,14 @@
 ## Total shows: 45
 
-### Total shows length: 218 days 13 hours 56 mins 29 secs
+### Total shows length: 218 days 16 hours 1 min 2 secs
 
 ## Total active shows: 30
 
-### Yearly output: 37 days 9 hours 22 mins
+### Yearly output: 37 days 9 hours 25 mins
 
-### Monthly output: 3 days 2 hours 46 mins
+### Monthly output: 3 days 2 hours 47 mins
 
-## Time untill 1 year of content: 3 years 334 days
+## Time untill 1 year of content: 3 years 333 days
 
 
 -------------------------------------------------
@@ -21,7 +21,7 @@
 |**Analog(ue)**|8 days 18 hours 28 mins 32 secs|176|1 hour 11 mins 45 secs|11 days 20 hours 3 mins|5 days 7 hours 43 mins|30.8|3 hours 4 mins 24 secs|
 |**Automators**|2 days 52 mins 26 secs|49|59 mins 50 secs|13 days 19 hours 7 mins|1 day 10 hours 2 mins|26.5|2 hours 11 mins 56 secs|
 |**BONANZA**|1 day 13 hours 2 mins 26 secs|38|58 mins 29 secs|50 days 12 hours 47 mins|54 days 3 hours 4 mins|7.2|35 mins 12 secs|
-|**B-Sides**|11 hours 31 mins 24 secs|39|17 mins 43 secs|53 days 6 hours 55 mins|52 days 12 hours 6 mins|6.8|10 mins 7 secs|
+|**B-Sides**|11 hours 59 mins 57 secs|40|17 mins 59 secs|53 days 3 hours 5 mins|51 days 20 hours 4 mins|6.9|10 mins 18 secs|
 |**Clockwise**|5 days 23 hours 47 mins 4 secs|291|29 mins 38 secs|8 days 15 hours 48 mins|26 days 22 hours 59 mins|42.2|1 hour 44 mins 8 secs|
 |**Connected**|17 days 11 hours 59 mins 39 secs|291|1 hour 26 mins 35 secs|7 days 3 hours 41 mins|1 day 6 hours 4 mins|51.0|6 hours 8 mins 11 secs|
 |**Cortex**|6 days 16 hours 58 mins 34 secs|100|1 hour 36 mins 35 secs|18 days 26 mins 58 secs|8 days 16 hours 38 mins|20.3|2 hours 43 mins 2 secs|
@@ -46,7 +46,7 @@
 |**Top Four**|1 day 23 hours 2 mins 35 secs|62|45 mins 31 secs|27 days 13 hours 27 mins|10 days 12 hours 11 mins|13.2|50 mins 14 secs|
 |**Under the Radar**|3 days 20 hours 4 secs|189|29 mins 12 secs|8 days 15 hours 20 mins|5 days 9 hours 26 mins|42.2|1 hour 42 mins 49 secs|
 |**Ungeniused**|20 hours 59 mins 20 secs|103|12 mins 13 secs|13 days 20 hours 25 mins|3 days 6 hours 18 mins|26.4|26 mins 50 secs|
-|**Upgrade**|19 days 3 hours 7 mins 22 secs|294|1 hour 33 mins 41 secs|6 days 23 hours 19 mins|16 hours 11 mins 53 secs|52.4|6 hours 48 mins 47 secs|
+|**Upgrade**|19 days 4 hours 43 mins 22 secs|295|1 hour 33 mins 42 secs|6 days 23 hours 19 mins|16 hours 10 mins 14 secs|52.4|6 hours 48 mins 48 secs|
 
 -------------------------------------------------
 
@@ -69,4 +69,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 18:00:06 27/04/2020
+Generated at: 00:00:06 28/04/2020
