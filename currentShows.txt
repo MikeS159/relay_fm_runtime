@@ -1,6 +1,6 @@
 adapt:24
 analogue:176
-automators:48
+automators:49
 bonanza:38
 b-sides:41
 clockwise:345
