@@ -1,5 +1,5 @@
 adapt:24
-analogue:176
+analogue:177
 automators:49
 bonanza:38
 b-sides:41
