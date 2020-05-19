@@ -15,7 +15,7 @@ makedo:56
 material:255
 originality:32
 parallel:29
-pictorial:12
+pictorial:13
 presentable:87
 rd:130
 remaster:87
@@ -26,5 +26,5 @@ testdrivers:8
 tc:58
 topfour:64
 radar:191
-ungeniused:104
+ungeniused:105
 upgrade:298
