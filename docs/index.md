@@ -1,14 +1,14 @@
 ## Total shows: 45
 
-### Total shows length: 221 days 4 hours 56 mins 16 secs
+### Total shows length: 221 days 6 hours 33 mins 53 secs
 
 ## Total active shows: 30
 
-### Yearly output: 37 days 10 hours 3 mins
+### Yearly output: 37 days 10 hours 8 mins
 
 ### Monthly output: 3 days 2 hours 50 mins
 
-## Time untill 1 year of content: 3 years 307 days
+## Time untill 1 year of content: 3 years 306 days
 
 
 -------------------------------------------------
@@ -24,7 +24,7 @@
 |**B-Sides**|11 hours 59 mins 57 secs|40|17 mins 59 secs|53 days 3 hours 5 mins|51 days 20 hours 4 mins|6.9|10 mins 18 secs|
 |**Clockwise**|6 days 1 hour 38 mins 7 secs|295|29 mins 37 secs|8 days 15 hours 15 mins|26 days 18 hours 35 mins|42.3|1 hour 44 mins 19 secs|
 |**Connected**|17 days 18 hours 18 mins 42 secs|295|1 hour 26 mins 42 secs|7 days 3 hours 38 mins|1 day 5 hours 52 mins|51.0|6 hours 8 mins 46 secs|
-|**Cortex**|6 days 18 hours 49 mins 11 secs|101|1 hour 36 mins 43 secs|18 days 56 mins 42 secs|8 days 15 hours 39 mins|20.2|2 hours 43 mins 5 secs|
+|**Cortex**|6 days 20 hours 26 mins 48 secs|102|1 hour 36 mins 44 secs|17 days 23 hours 57 mins|8 days 14 hours 51 mins|20.3|2 hours 43 mins 28 secs|
 |**Departures**|8 hours 7 mins 14 secs|2|4 hours 3 mins 37 secs|30 days 6 hours||12.1|4 hours 4 mins 57 secs|
 |**Flashback**|6 hours 48 mins 3 secs|9|45 mins 20 secs|12 days 12 hours 26 mins|4 days 16 hours 25 mins|29.2|1 hour 50 mins 9 secs|
 |**Focused**|4 days 3 hours 33 mins 19 secs|99|1 hour 20 secs|14 days 3 hours 24 mins|1 day 8 hours 54 mins|25.8|2 hours 9 mins 46 secs|
@@ -69,4 +69,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 12:00:08 25/05/2020
+Generated at: 18:00:05 25/05/2020
