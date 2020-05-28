@@ -1,4 +1,4 @@
-adapt:25
+adapt:26
 analogue:177
 automators:50
 bonanza:38
