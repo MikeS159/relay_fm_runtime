@@ -1,14 +1,14 @@
 ## Total shows: 45
 
-### Total shows length: 222 days 2 hours 49 mins 32 secs
+### Total shows length: 222 days 3 hours 42 mins 49 secs
 
 ## Total active shows: 30
 
-### Yearly output: 37 days 10 hours 5 mins
+### Yearly output: 37 days 9 hours 11 mins
 
-### Monthly output: 3 days 2 hours 50 mins
+### Monthly output: 3 days 2 hours 45 mins
 
-## Time untill 1 year of content: 3 years 298 days
+## Time untill 1 year of content: 3 years 299 days
 
 
 -------------------------------------------------
@@ -41,7 +41,7 @@
 |**Roboism**|19 hours 40 mins 47 secs|33|35 mins 46 secs|25 days 14 hours 27 mins|18 days 8 hours 10 mins|14.3|42 mins 30 secs|
 |**Rocket**|13 days 7 hours 11 mins 6 secs|281|1 hour 8 mins 9 secs|6 days 23 hours 38 mins|18 hours 45 mins 6 secs|52.3|4 hours 56 mins 46 secs|
 |**The Pen Addict**|17 days 12 hours 48 mins 10 secs|412|1 hour 1 min 16 secs|7 days 8 hours 56 mins|4 days 3 hours 43 mins|49.5|4 hours 12 mins 49 secs|
-|**The Test Drivers**|8 hours 55 secs|9|53 mins 26 secs|12 days 3 hours 3 mins|5 days 16 hours 28 mins|30.1|2 hours 14 mins 1 sec|
+|**The Test Drivers**|8 hours 54 mins 12 secs|10|53 mins 25 secs|12 days 13 hours 13 mins|5 days 11 hours 49 mins|29.1|2 hours 9 mins 27 secs|
 |**Thoroughly Considered**|1 day 16 hours 28 mins 52 secs|59|41 mins 10 secs|29 days 8 hours 38 mins|12 days 20 hours 26 mins|12.4|42 mins 38 secs|
 |**Top Four**|2 days 25 mins 36 secs|64|45 mins 24 secs|27 days 8 hours 25 mins|10 days 18 hours 50 mins|13.3|50 mins 29 secs|
 |**Under the Radar**|3 days 21 hours 28 mins 40 secs|192|29 mins 12 secs|8 days 17 hours 21 mins|5 days 9 hours 24 mins|41.8|1 hour 41 mins 51 secs|
@@ -69,4 +69,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 12:00:06 03/06/2020
+Generated at: 18:00:04 03/06/2020
