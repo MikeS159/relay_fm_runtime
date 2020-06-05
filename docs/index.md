@@ -4,7 +4,7 @@
 
 ## Total active shows: 30
 
-### Yearly output: 37 days 9 hours 20 secs
+### Yearly output: 37 days 9 hours 13 secs
 
 ### Monthly output: 3 days 2 hours 45 mins
 
@@ -26,7 +26,7 @@
 |**Connected**|17 days 21 hours 26 mins 37 secs|297|1 hour 26 mins 45 secs|7 days 3 hours 36 mins|1 day 5 hours 46 mins|51.0|6 hours 9 mins 1 sec|
 |**Cortex**|6 days 20 hours 26 mins 48 secs|102|1 hour 36 mins 44 secs|17 days 23 hours 57 mins|8 days 14 hours 51 mins|20.3|2 hours 43 mins 28 secs|
 |**Departures**|8 hours 7 mins 14 secs|2|4 hours 3 mins 37 secs|30 days 6 hours||12.1|4 hours 4 mins 57 secs|
-|**Flashback**|7 hours 34 mins 44 secs|10|45 mins 28 secs|12 days 16 hours 58 mins|4 days 10 hours 45 mins|28.7|1 hour 48 mins 50 secs|
+|**Flashback**|7 hours 34 mins 44 secs|10|45 mins 28 secs|12 days 17 hours|4 days 10 hours 46 mins|28.7|1 hour 48 mins 50 secs|
 |**Focused**|4 days 4 hours 46 mins 29 secs|100|1 hour 27 secs|14 days 3 hours 23 mins|1 day 8 hours 44 mins|25.8|2 hours 10 mins 3 secs|
 |**Liftoff**|4 days 4 hours 19 mins 14 secs|126|47 mins 46 secs|14 days 34 mins 4 secs|2 days 18 hours 44 mins|26.0|1 hour 43 mins 36 secs|
 |**Mac Power Users**|34 days 10 hours 44 mins 47 secs|538|1 hour 32 mins 12 secs|7 days 12 hours 44 mins|3 days 11 hours 15 mins|48.5|6 hours 12 mins 24 secs|
@@ -69,4 +69,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 12:00:07 05/06/2020
+Generated at: 18:00:05 05/06/2020
