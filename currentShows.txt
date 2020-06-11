@@ -3,8 +3,8 @@ analogue:178
 automators:51
 bonanza:38
 b-sides:42
-clockwise:349
-connected:297
+clockwise:350
+connected:298
 cortex:102
 departures:2
 flashback:9
@@ -17,7 +17,7 @@ originality:32
 parallel:30
 pictorial:14
 presentable:88
-rd:131
+rd:132
 remaster:88
 roboism:33
 rocket:282
