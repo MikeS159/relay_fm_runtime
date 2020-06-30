@@ -9,13 +9,13 @@ cortex:103
 departures:2
 flashback:10
 focused:102
-liftoff:126
+liftoff:127
 mpu:542
 makedo:58
 material:261
 originality:32
 parallel:31
-pictorial:15
+pictorial:16
 presentable:90
 rd:133
 remaster:89
