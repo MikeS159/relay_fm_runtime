@@ -14,7 +14,7 @@ mpu:543
 makedo:58
 material:262
 originality:32
-parallel:31
+parallel:32
 pictorial:16
 presentable:90
 rd:133
