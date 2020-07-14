@@ -1,14 +1,14 @@
 ## Total shows: 45
 
-### Total shows length: 225 days 20 hours 19 mins 26 secs
+### Total shows length: 225 days 21 hours 39 mins 56 secs
 
 ## Total active shows: 30
 
-### Yearly output: 37 days 9 hours 13 mins
+### Yearly output: 37 days 9 hours 34 mins
 
-### Monthly output: 3 days 2 hours 46 mins
+### Monthly output: 3 days 2 hours 47 mins
 
-## Time untill 1 year of content: 3 years 263 days
+## Time untill 1 year of content: 3 years 262 days
 
 
 -------------------------------------------------
@@ -41,11 +41,11 @@
 |**Roboism**|19 hours 40 mins 47 secs|33|35 mins 46 secs|25 days 14 hours 27 mins|18 days 8 hours 10 mins|14.3|42 mins 30 secs|
 |**Rocket**|13 days 13 hours 21 mins 8 secs|287|1 hour 8 mins 1 sec|6 days 23 hours 39 mins|18 hours 33 mins 32 secs|52.3|4 hours 56 mins 10 secs|
 |**The Pen Addict**|17 days 19 hours 27 mins 4 secs|418|1 hour 1 min 21 secs|7 days 8 hours 48 mins|4 days 3 hours 24 secs|49.5|4 hours 13 mins 19 secs|
-|**The Test Drivers**|10 hours 56 mins 54 secs|12|54 mins 44 secs|12 days 17 hours 12 mins|4 days 23 hours 34 mins|28.7|2 hours 10 mins 55 secs|
+|**The Test Drivers**|12 hours 8 mins 30 secs|13|56 mins 2 secs|12 days 20 hours 11 mins|4 days 18 hours 54 mins|28.4|2 hours 12 mins 44 secs|
 |**Thoroughly Considered**|1 day 16 hours 4 mins 30 secs|59|40 mins 45 secs|29 days 23 hours 5 mins|13 days 4 hours 48 mins|12.2|41 mins 22 secs|
 |**Top Four**|2 days 55 mins 32 secs|65|45 mins 9 secs|27 days 17 hours 37 mins|11 days 2 hours 58 mins|13.2|49 mins 31 secs|
 |**Under the Radar**|3 days 22 hours 57 mins 57 secs|195|29 mins 13 secs|8 days 19 hours 18 mins|5 days 9 hours 20 mins|41.5|1 hour 40 mins 56 secs|
-|**Ungeniused**|21 hours 49 mins 31 secs|108|12 mins 7 secs|13 days 20 hours 35 mins|3 days 4 hours 27 mins|26.3|26 mins 36 secs|
+|**Ungeniused**|21 hours 58 mins 25 secs|109|12 mins 5 secs|13 days 20 hours 37 mins|3 days 4 hours 6 mins|26.3|26 mins 32 secs|
 |**Upgrade**|19 days 23 hours 28 mins 5 secs|306|1 hour 34 mins|6 days 23 hours 21 mins|15 hours 52 mins 43 secs|52.3|6 hours 50 mins 5 secs|
 
 -------------------------------------------------
@@ -69,4 +69,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 12:00:05 14/07/2020
+Generated at: 18:00:05 14/07/2020
