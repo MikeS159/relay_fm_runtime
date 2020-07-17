@@ -1,6 +1,6 @@
 adapt:29
 analogue:179
-automators:53
+automators:54
 bonanza:38
 b-sides:42
 clockwise:355
@@ -12,7 +12,7 @@ focused:103
 liftoff:128
 mpu:544
 makedo:59
-material:263
+material:264
 originality:32
 parallel:33
 pictorial:17
