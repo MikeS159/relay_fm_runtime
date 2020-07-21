@@ -8,7 +8,7 @@ connected:303
 cortex:104
 departures:2
 flashback:10
-focused:103
+focused:104
 liftoff:128
 mpu:545
 makedo:59
@@ -25,6 +25,6 @@ penaddict:419
 testdrivers:12
 tc:60
 topfour:65
-radar:195
+radar:196
 ungeniused:109
 upgrade:307
