@@ -224,7 +224,7 @@ def main():
         file.write(s)
 
     for new_show in new_shows:
-        file.write("\nNew show needs adding - " + new_shows)
+        file.write("\nNew show needs adding - " + new_show)
     
     current_time = now.strftime("%H:%M:%S %d/%m/%Y")
     file.write("\nGenerated at: " + current_time + "\n")
