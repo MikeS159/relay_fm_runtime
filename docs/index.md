@@ -1,14 +1,14 @@
-## Total shows: 45
+## Total shows: 46
 
-### Total shows length: 233 days 13 hours 25 mins 46 secs
+### Total shows length: 233 days 15 hours 53 mins 15 secs
 
-## Total active shows: 30
+## Total active shows: 31
 
-### Yearly output: 35 days 21 hours 7 mins
+### Yearly output: 36 days 10 hours 35 mins
 
-### Monthly output: 2 days 23 hours 45 mins
+### Monthly output: 3 days 52 mins 55 secs
 
-## Time untill 1 year of content: 3 years 242 days
+## Time untill 1 year of content: 3 years 220 days
 
 
 -------------------------------------------------
@@ -17,6 +17,7 @@
 ## Active Shows
 |Show|Total Length|Number of Shows|Average Length|Average Gap|Standard Deviation|Shows Per Year|Monthly Show Output|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|**20 Macs for 2020**|2 hours 27 mins 29 secs|10|14 mins 44 secs|6 days 16 hours 1 min|22 hours 32 mins 56 secs|54.7|1 hour 7 mins 16 secs|
 |**Adapt**|1 day 14 hours 49 mins 43 secs|35|1 hour 6 mins 33 secs|14 days 20 hours 21 mins|3 days 7 hours 1 min|24.6|2 hours 16 mins 21 secs|
 |**Analog(ue)**|9 days 1 hour 7 mins 44 secs|181|1 hour 11 mins 58 secs|12 days 6 hours 49 mins|5 days 22 hours 6 mins|29.7|2 hours 58 mins 13 secs|
 |**Automators**|2 days 14 hours 22 mins 8 secs|60|1 hour 2 mins 22 secs|13 days 20 hours 6 mins|1 day 6 hours 48 mins|26.4|2 hours 17 mins 5 secs|
@@ -69,5 +70,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-New show needs adding - 20macs
-Generated at: 18:33:30 03/10/2020
+Generated at: 19:20:47 03/10/2020
