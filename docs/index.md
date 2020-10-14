@@ -1,14 +1,14 @@
 ## Total shows: 46
 
-### Total shows length: 234 days 11 hours 46 secs
+### Total shows length: 234 days 13 hours 54 mins 51 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 11 hours 54 mins
+### Yearly output: 36 days 12 hours 6 mins
 
-### Monthly output: 3 days 59 mins 33 secs
+### Monthly output: 3 days 1 hour 32 secs
 
-## Time untill 1 year of content: 3 years 210 days
+## Time untill 1 year of content: 3 years 209 days
 
 
 -------------------------------------------------
@@ -28,7 +28,7 @@
 |**Cortex**|7 days 3 hours 16 mins 28 secs|106|1 hour 36 mins 56 secs|18 days 9 hours 7 mins|8 days 19 hours 32 mins|19.9|2 hours 40 mins 26 secs|
 |**Departures**|15 hours 50 mins 35 secs|4|3 hours 57 mins 38 secs|131 days 7 hours 10 mins|141 days 1 hour 15 mins|2.8|55 mins 3 secs|
 |**Flashback**|8 hours 21 mins 44 secs|11|45 mins 36 secs|12 days 20 hours 3 mins|4 days 5 hours 42 mins|28.4|1 hour 48 mins 5 secs|
-|**Focused**|4 days 17 hours 26 mins 33 secs|109|1 hour 2 mins 26 secs|14 days 3 hours 4 mins|1 day 7 hours 22 mins|25.8|2 hours 14 mins 26 secs|
+|**Focused**|4 days 18 hours 44 mins 35 secs|110|1 hour 2 mins 35 secs|14 days 3 hours 8 mins|1 day 7 hours 14 mins|25.8|2 hours 14 mins 43 secs|
 |**Liftoff**|4 days 11 hours 19 mins 27 secs|135|47 mins 41 secs|14 days 31 mins 7 secs|2 days 16 hours 33 mins|26.0|1 hour 43 mins 28 secs|
 |**Mac Power Users**|35 days 16 hours 9 mins 11 secs|557|1 hour 32 mins 13 secs|7 days 12 hours 18 mins|3 days 9 hours 52 mins|48.6|6 hours 13 mins 23 secs|
 |**Make Do**|1 day 23 hours 33 mins 33 secs|65|43 mins 54 secs|14 days 10 hours 31 mins|2 days 9 hours 48 mins|25.3|1 hour 32 mins 28 secs|
@@ -47,7 +47,7 @@
 |**Top Four**|2 days 3 hours 49 mins 50 secs|68|45 mins 43 secs|27 days 21 hours 31 mins|10 days 21 hours 38 mins|13.1|49 mins 51 secs|
 |**Under the Radar**|4 days 1 hour 56 mins 48 secs|201|29 mins 14 secs|8 days 22 hours 55 mins|5 days 9 hours 5 mins|40.8|1 hour 39 mins 18 secs|
 |**Ungeniused**|23 hours 11 secs|114|12 mins 6 secs|13 days 23 hours 44 mins|3 days 8 hours 54 mins|26.1|26 mins 19 secs|
-|**Upgrade**|20 days 21 hours 14 mins 49 secs|320|1 hour 33 mins 59 secs|6 days 22 hours 41 mins|17 hours 45 mins 34 secs|52.6|6 hours 51 mins 36 secs|
+|**Upgrade**|20 days 22 hours 50 mins 52 secs|321|1 hour 33 mins 59 secs|6 days 22 hours 24 mins|18 hours 22 mins 35 secs|52.6|6 hours 52 mins 17 secs|
 
 -------------------------------------------------
 
@@ -70,4 +70,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:06 14/10/2020
+Generated at: 06:00:05 14/10/2020
