@@ -1,12 +1,12 @@
 ## Total shows: 46
 
-### Total shows length: 235 days 4 hours 23 mins 39 secs
+### Total shows length: 235 days 5 hours 48 mins 57 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 11 hours 32 mins
+### Yearly output: 36 days 11 hours 33 mins
 
-### Monthly output: 3 days 57 mins 44 secs
+### Monthly output: 3 days 57 mins 49 secs
 
 ## Time untill 1 year of content: 3 years 203 days
 
@@ -47,7 +47,7 @@
 |**Top Four**|2 days 3 hours 49 mins 50 secs|68|45 mins 43 secs|27 days 21 hours 31 mins|10 days 21 hours 38 mins|13.1|49 mins 51 secs|
 |**Under the Radar**|4 days 2 hours 26 mins 28 secs|202|29 mins 14 secs|8 days 23 hours 38 mins|5 days 9 hours 11 mins|40.6|1 hour 38 mins 58 secs|
 |**Ungeniused**|23 hours 11 secs|114|12 mins 6 secs|13 days 23 hours 44 mins|3 days 8 hours 54 mins|26.1|26 mins 19 secs|
-|**Upgrade**|20 days 22 hours 50 mins 52 secs|321|1 hour 33 mins 59 secs|6 days 22 hours 24 mins|18 hours 22 mins 35 secs|52.6|6 hours 52 mins 17 secs|
+|**Upgrade**|21 days 16 mins 10 secs|322|1 hour 33 mins 57 secs|6 days 22 hours 20 mins|18 hours 24 mins 16 secs|52.7|6 hours 52 mins 22 secs|
 
 -------------------------------------------------
 
@@ -70,4 +70,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 18:00:03 19/10/2020
+Generated at: 00:00:03 20/10/2020
