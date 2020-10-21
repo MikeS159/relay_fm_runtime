@@ -16,7 +16,7 @@ makedo:66
 material:277
 originality:32
 parallel:37
-pictorial:23
+pictorial:24
 presentable:95
 rd:141
 remaster:90
