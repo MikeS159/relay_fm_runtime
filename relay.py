@@ -59,7 +59,7 @@ def parse_feed(feed_name):
     num_shows = len(ents)
     for e in ents:
         length = e['itunes_duration']
-        total_len += int(length)    
+        total_len += int(float(length)) #1
     old_show_output.append("|**" + d['feed']['title'] + "**|")
     old_show_output.append(display_time(total_len,4) + "|")
     old_show_output.append(str(num_shows) + "|")
@@ -90,7 +90,9 @@ def parse_prediction_feed(feed_name, last_checked):
     
     for e in ents:
         length = e['itunes_duration']
-        total_len += int(length)
+        if ((e['itunes_episode'] == '39') and (e['id'] == 'http://relay.fm/parallel/39')):
+            length = '3929'
+        total_len += int(float("".join(length.split()))) #2
         time_list.append(time.mktime(e['published_parsed']))
     time_list = list(reversed(time_list))
     diff_gap = numpy.diff(time_list)
