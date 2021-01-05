@@ -90,8 +90,14 @@ def parse_prediction_feed(feed_name, last_checked):
     
     for e in ents:
         length = e['itunes_duration']
-        if ((e['itunes_episode'] == '39') and (e['id'] == 'http://relay.fm/parallel/39')):
+        if (e['id'] == 'http://relay.fm/parallel/39'):
             length = '3929'
+        if (e['id'] == 'http://relay.fm/makedo/70'):
+            length = '2550'
+        if (e['id'] == 'http://relay.fm/penaddict/438'):
+            length = '5006'
+        if(not length):
+            print(e['id'])
         total_len += int(float("".join(length.split()))) #2
         time_list.append(time.mktime(e['published_parsed']))
     time_list = list(reversed(time_list))
