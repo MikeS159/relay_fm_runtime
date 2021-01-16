@@ -27,7 +27,7 @@
 |**Connected**|20 days 20 mins 23 secs|328|1 hour 27 mins 52 secs|7 days 3 hours 47 mins|1 day 5 hours 57 mins|51.0|6 hours 13 mins 22 secs|
 |**Cortex**|7 days 11 hours 44 mins 8 secs|110|1 hour 38 mins 2 secs|18 days 12 hours 58 mins|8 days 21 hours 39 mins|19.7|2 hours 40 mins 50 secs|
 |**Departures**|15 hours 50 mins 35 secs|4|3 hours 57 mins 38 secs|131 days 7 hours 10 mins|141 days 1 hour 15 mins|2.8|55 mins 3 secs|
-|**Flashback**|9 hours 15 mins 43 secs|12|46 mins 18 secs|29 days 22 hours 8 mins|54 days 4 hours 25 mins|12.2|47 mins 4 secs|
+|**Flashback**|9 hours 15 mins 43 secs|12|46 mins 18 secs|29 days 22 hours 9 mins|54 days 4 hours 29 mins|12.2|47 mins 4 secs|
 |**Focused**|5 days 2 hours 50 mins 42 secs|116|1 hour 3 mins 32 secs|14 days 2 hours 54 mins|1 day 6 hours 26 mins|25.8|2 hours 16 mins 51 secs|
 |**Liftoff**|4 days 15 hours 47 mins 31 secs|141|47 mins 34 secs|14 days 2 hours 54 mins|2 days 21 hours 10 mins|25.8|1 hour 42 mins 28 secs|
 |**Mac Power Users**|36 days 14 hours 8 mins 23 secs|570|1 hour 32 mins 26 secs|7 days 12 hours 1 min|3 days 8 hours 57 mins|48.7|6 hours 14 mins 49 secs|
@@ -70,4 +70,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:05 16/01/2021
+Generated at: 06:00:05 16/01/2021
