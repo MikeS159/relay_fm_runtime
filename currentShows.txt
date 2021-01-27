@@ -4,7 +4,7 @@ analogue:185
 automators:67
 bonanza:39
 b-sides:42
-clockwise:382
+clockwise:383
 connected:329
 cortex:111
 departures:4
@@ -15,7 +15,7 @@ mpu:572
 makedo:73
 material:291
 originality:32
-parallel:43
+parallel:44
 pictorial:30
 presentable:100
 rd:148
