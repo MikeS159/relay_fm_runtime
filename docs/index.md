@@ -1,10 +1,10 @@
 ## Total shows: 46
 
-### Total shows length: 246 days 12 hours 10 mins 43 secs
+### Total shows length: 246 days 12 hours 44 mins 12 secs
 
 ## Total active shows: 31
 
-### Yearly output: 35 days 20 hours 45 mins
+### Yearly output: 35 days 20 hours 37 mins
 
 ### Monthly output: 2 days 23 hours 43 mins
 
@@ -34,7 +34,7 @@
 |**Make Do**|2 days 5 hours 44 mins 33 secs|74|43 mins 34 secs|14 days 11 hours 32 mins|2 days 9 hours 18 mins|25.2|1 hour 31 mins 31 secs|
 |**Material**|14 days 19 hours 28 mins 43 secs|295|1 hour 12 mins 18 secs|6 days 23 hours 27 mins|1 day 10 hours 28 mins|52.3|5 hours 15 mins 10 secs|
 |**Originality**|1 day 10 hours 34 mins 1 sec|32|1 hour 4 mins 48 secs|32 days 9 hours 31 mins|37 days 10 hours 56 mins|11.3|1 hour 51 secs|
-|**Parallel**|1 day 17 hours 6 mins 18 secs|45|54 mins 48 secs|20 days 15 hours 26 mins|19 days 20 hours 19 mins|17.7|1 hour 20 mins 45 secs|
+|**Parallel**|1 day 17 hours 39 mins 47 secs|46|54 mins 20 secs|20 days 15 hours 11 mins|19 days 14 hours 59 mins|17.7|1 hour 20 mins 6 secs|
 |**Pictorial**|17 hours 54 mins 40 secs|31|34 mins 40 secs|14 days 11 hours 10 mins|1 day 18 hours 20 mins|25.2|1 hour 12 mins 53 secs|
 |**Presentable**|3 days 8 hours 31 mins 57 secs|102|47 mins 22 secs|16 days 22 hours 58 mins|7 days 13 hours 48 mins|21.5|1 hour 24 mins 58 secs|
 |**Reconcilable Differences**|11 days 7 hours 50 mins 6 secs|149|1 hour 49 mins 27 secs|14 days 31 mins 12 secs|1 day 22 hours 56 mins|26.0|3 hours 57 mins 27 secs|
@@ -70,4 +70,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:06 17/02/2021
+Generated at: 06:00:08 17/02/2021
