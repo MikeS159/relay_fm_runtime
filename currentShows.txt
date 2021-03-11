@@ -13,7 +13,7 @@ focused:120
 liftoff:145
 mpu:578
 makedo:76
-material:297
+material:298
 originality:32
 parallel:46
 pictorial:33
@@ -24,7 +24,7 @@ roboism:35
 rocket:324
 penaddict:452
 testdrivers:28
-tc:66
+tc:67
 topfour:73
 radar:212
 ungeniused:124
