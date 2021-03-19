@@ -1,12 +1,12 @@
 ## Total shows: 46
 
-### Total shows length: 249 days 14 hours 34 mins 16 secs
+### Total shows length: 249 days 15 hours 34 mins 48 secs
 
 ## Total active shows: 31
 
 ### Yearly output: 36 days 3 hours 1 min
 
-### Monthly output: 3 days 15 mins 5 secs
+### Monthly output: 3 days 15 mins 6 secs
 
 ## Time untill 1 year of content: 3 years 70 days
 
@@ -38,7 +38,7 @@
 |**Pictorial**|19 hours 31 secs|33|34 mins 33 secs|14 days 10 hours 29 mins|1 day 17 hours 4 mins|25.3|1 hour 12 mins 48 secs|
 |**Presentable**|3 days 10 hours 36 mins 5 secs|105|47 mins 12 secs|16 days 21 hours 12 mins|7 days 12 hours 8 mins|21.6|1 hour 25 mins 2 secs|
 |**Reconcilable Differences**|11 days 10 hours 48 mins 20 secs|151|1 hour 49 mins 11 secs|14 days 21 mins 54 secs|1 day 22 hours 50 mins|26.0|3 hours 56 mins 58 secs|
-|**Remaster**|3 days 16 hours 53 mins 39 secs|95|56 mins 8 secs|19 days 22 hours 56 mins|11 days 6 hours 21 mins|18.3|1 hour 25 mins 34 secs|
+|**Remaster**|3 days 17 hours 54 mins 11 secs|96|56 mins 11 secs|19 days 23 hours 12 mins|11 days 4 hours 56 mins|18.3|1 hour 25 mins 35 secs|
 |**Roboism**|21 hours 27 mins 49 secs|35|36 mins 47 secs|40 days 19 hours 6 mins|91 days 1 hour 38 mins|8.9|27 mins 26 secs|
 |**Rocket**|15 days 4 hours 24 mins 14 secs|325|1 hour 7 mins 16 secs|6 days 22 hours 39 mins|21 hours 11 mins 57 secs|52.6|4 hours 54 mins 41 secs|
 |**The Pen Addict**|19 days 10 hours 50 mins 56 secs|453|1 hour 1 min 50 secs|7 days 8 hours 30 mins|3 days 23 hours 25 mins|49.6|4 hours 15 mins 44 secs|
@@ -70,4 +70,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 06:00:05 19/03/2021
+Generated at: 12:00:07 19/03/2021
