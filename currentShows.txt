@@ -1,4 +1,4 @@
-20macs:25
+20macs:26
 adapt:41
 analogue:187
 automators:71
