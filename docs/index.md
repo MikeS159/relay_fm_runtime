@@ -1,14 +1,14 @@
 ## Total shows: 46
 
-### Total shows length: 250 days 7 hours 34 mins 20 secs
+### Total shows length: 250 days 9 hours 56 mins 44 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 4 hours 2 mins
+### Yearly output: 36 days 4 hours 34 mins
 
-### Monthly output: 3 days 20 mins 11 secs
+### Monthly output: 3 days 22 mins 53 secs
 
-## Time untill 1 year of content: 3 years 62 days
+## Time untill 1 year of content: 3 years 60 days
 
 
 -------------------------------------------------
@@ -17,10 +17,10 @@
 ## Active Shows
 |Show|Total Length|Number of Shows|Average Length|Average Gap|Standard Deviation|Shows Per Year|Monthly Show Output|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**20 Macs for 2020**|12 hours 47 mins 5 secs|27|28 mins 24 secs|8 days 18 hours 28 mins|7 days 9 hours 23 mins|41.6|1 hour 38 mins 32 secs|
+|**20 Macs for 2020**|13 hours 20 mins 53 secs|28|28 mins 36 secs|8 days 16 hours 53 mins|7 days 6 hours 15 mins|41.9|1 hour 39 mins 57 secs|
 |**Adapt**|1 day 20 hours 48 mins 45 secs|41|1 hour 5 mins 34 secs|14 days 17 hours 19 mins|3 days 1 hour 12 mins|24.8|2 hours 15 mins 29 secs|
 |**Analog(ue)**|9 days 9 hours 4 mins|187|1 hour 12 mins 12 secs|12 days 20 hours 48 mins|6 days 16 hours 59 mins|28.4|2 hours 50 mins 42 secs|
-|**Automators**|3 days 7 hours 10 mins 4 secs|72|1 hour 5 mins 58 secs|13 days 20 hours 44 mins|1 day 4 hours 7 mins|26.3|2 hours 24 mins 44 secs|
+|**Automators**|3 days 8 hours 58 mins 40 secs|73|1 hour 6 mins 33 secs|13 days 20 hours 42 mins|1 day 3 hours 56 mins|26.3|2 hours 26 mins 1 sec|
 |**BONANZA**|1 day 14 hours 7 mins 16 secs|39|58 mins 38 secs|58 days 10 hours 33 mins|71 days 20 hours 56 mins|6.2|30 mins 31 secs|
 |**B-Sides**|12 hours 7 mins 38 secs|41|17 mins 44 secs|52 days 17 hours 30 mins|51 days 5 hours 52 mins|6.9|10 mins 14 secs|
 |**Clockwise**|6 days 22 hours 59 mins 14 secs|339|29 mins 33 secs|8 days 10 hours 9 mins|24 days 23 hours 27 mins|43.3|1 hour 46 mins 43 secs|
@@ -70,4 +70,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 12:00:06 26/03/2021
+Generated at: 18:00:06 26/03/2021
