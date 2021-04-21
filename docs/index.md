@@ -1,14 +1,14 @@
 ## Total shows: 46
 
-### Total shows length: 252 days 17 hours 55 mins 16 secs
+### Total shows length: 252 days 19 hours 35 mins 1 sec
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 6 hours 1 min
+### Yearly output: 36 days 6 hours 46 secs
 
-### Monthly output: 3 days 30 mins 8 secs
+### Monthly output: 3 days 30 mins 3 secs
 
-## Time untill 1 year of content: 3 years 35 days
+## Time untill 1 year of content: 3 years 34 days
 
 
 -------------------------------------------------
@@ -31,7 +31,7 @@
 |**Focused**|5 days 13 hours 9 mins 54 secs|123|1 hour 4 mins 57 secs|14 days 2 hours 43 mins|1 day 5 hours 34 mins|25.9|2 hours 19 mins 59 secs|
 |**Liftoff**|4 days 23 hours 3 mins 14 secs|149|47 mins 56 secs|14 days 18 mins 32 secs|2 days 23 hours 31 mins|26.0|1 hour 44 mins 3 secs|
 |**Mac Power Users**|37 days 13 hours 45 mins 54 secs|584|1 hour 32 mins 38 secs|7 days 11 hours 43 mins|3 days 7 hours 59 mins|48.7|6 hours 16 mins 17 secs|
-|**Make Do**|2 days 8 hours 23 mins 37 secs|78|43 mins 22 secs|14 days 10 hours 55 mins|2 days 7 hours 51 mins|25.3|1 hour 31 mins 16 secs|
+|**Make Do**|2 days 9 hours 2 mins 12 secs|79|43 mins 19 secs|14 days 10 hours 47 mins|2 days 7 hours 30 mins|25.3|1 hour 31 mins 11 secs|
 |**Material**|15 days 6 hours 9 mins 25 secs|304|1 hour 12 mins 16 secs|6 days 23 hours 32 mins|1 day 10 hours 52 secs|52.3|5 hours 14 mins 52 secs|
 |**Originality**|1 day 10 hours 34 mins 1 sec|32|1 hour 4 mins 48 secs|32 days 9 hours 31 mins|37 days 10 hours 56 mins|11.3|1 hour 51 secs|
 |**Parallel**|1 day 20 hours 34 mins 14 secs|48|55 mins 42 secs|20 days 10 hours 22 mins|19 days 6 hours 8 mins|17.9|1 hour 22 mins 56 secs|
@@ -41,7 +41,7 @@
 |**Remaster**|3 days 18 hours 53 mins 15 secs|97|56 mins 13 secs|20 days 1 hour 12 mins|11 days 4 hours 14 mins|18.2|1 hour 25 mins 17 secs|
 |**Roboism**|23 hours 44 mins 42 secs|37|38 mins 30 secs|39 days 16 hours 38 mins|88 days 15 hours 15 mins|9.2|29 mins 30 secs|
 |**Rocket**|15 days 8 hours 48 mins 7 secs|329|1 hour 7 mins 15 secs|6 days 22 hours 40 mins|21 hours 4 mins 13 secs|52.6|4 hours 54 mins 35 secs|
-|**The Pen Addict**|19 days 15 hours 12 mins 21 secs|457|1 hour 1 min 51 secs|7 days 8 hours 25 mins|3 days 23 hours 1 min|49.7|4 hours 15 mins 58 secs|
+|**The Pen Addict**|19 days 16 hours 13 mins 31 secs|458|1 hour 1 min 51 secs|7 days 8 hours 24 mins|3 days 22 hours 54 mins|49.7|4 hours 16 mins|
 |**The Test Drivers**|1 day 11 hours 37 mins 4 secs|31|1 hour 8 mins 56 secs|14 days 1 hour 31 mins|4 days 18 mins 3 secs|26.0|2 hours 29 mins 5 secs|
 |**Thoroughly Considered**|1 day 23 hours 17 mins 42 secs|67|42 mins 21 secs|30 days 16 hours 23 mins|13 days 13 hours 17 mins|11.9|41 mins 59 secs|
 |**Top Four**|2 days 10 hours 11 mins 58 secs|74|47 mins 11 secs|28 days 3 hours 3 mins|10 days 15 hours 18 mins|13.0|51 mins 1 sec|
@@ -70,4 +70,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 12:00:05 21/04/2021
+Generated at: 18:00:04 21/04/2021
