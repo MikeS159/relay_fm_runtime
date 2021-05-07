@@ -1,14 +1,14 @@
 ## Total shows: 46
 
-### Total shows length: 254 days 10 hours 26 mins 43 secs
+### Total shows length: 254 days 11 hours 56 mins 44 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 6 hours 41 mins
+### Yearly output: 36 days 6 hours 49 mins
 
-### Monthly output: 3 days 33 mins 28 secs
+### Monthly output: 3 days 34 mins 5 secs
 
-## Time untill 1 year of content: 3 years 17 days
+## Time untill 1 year of content: 3 years 16 days
 
 
 -------------------------------------------------
@@ -20,7 +20,7 @@
 |**20 Macs for 2020**|13 hours 20 mins 53 secs|28|28 mins 36 secs|8 days 16 hours 53 mins|7 days 6 hours 15 mins|41.9|1 hour 39 mins 57 secs|
 |**Adapt**|1 day 20 hours 48 mins 45 secs|41|1 hour 5 mins 34 secs|14 days 17 hours 19 mins|3 days 1 hour 12 mins|24.8|2 hours 15 mins 29 secs|
 |**Analog(ue)**|9 days 10 hours 38 mins 9 secs|188|1 hour 12 mins 19 secs|12 days 23 hours 38 mins|6 days 21 hours 10 mins|28.1|2 hours 49 mins 25 secs|
-|**Automators**|3 days 12 hours 29 mins 46 secs|75|1 hour 7 mins 35 secs|13 days 20 hours 50 mins|1 day 3 hours 34 mins|26.3|2 hours 28 mins 15 secs|
+|**Automators**|3 days 13 hours 59 mins 47 secs|76|1 hour 7 mins 53 secs|13 days 20 hours 55 mins|1 day 3 hours 23 mins|26.3|2 hours 28 mins 51 secs|
 |**BONANZA**|1 day 14 hours 7 mins 16 secs|39|58 mins 38 secs|58 days 10 hours 33 mins|71 days 20 hours 56 mins|6.2|30 mins 31 secs|
 |**B-Sides**|12 hours 7 mins 38 secs|41|17 mins 44 secs|52 days 17 hours 30 mins|51 days 5 hours 52 mins|6.9|10 mins 14 secs|
 |**Clockwise**|7 days 1 hour 56 mins 15 secs|345|29 mins 33 secs|8 days 9 hours 33 mins|24 days 18 hours 13 mins|43.5|1 hour 47 mins 2 secs|
@@ -70,4 +70,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 18:01:42 07/05/2021
+Generated at: 00:01:39 08/05/2021
