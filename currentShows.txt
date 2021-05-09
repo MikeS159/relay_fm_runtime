@@ -1,6 +1,6 @@
 20macs:27
 adapt:41
-analogue:188
+analogue:189
 automators:75
 bonanza:39
 b-sides:42
