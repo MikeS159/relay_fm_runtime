@@ -1,14 +1,14 @@
 ## Total shows: 46
 
-### Total shows length: 254 days 19 hours 15 mins 18 secs
+### Total shows length: 254 days 20 hours 48 mins 29 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 6 hours 53 mins
+### Yearly output: 36 days 6 hours 51 mins
 
-### Monthly output: 3 days 34 mins 25 secs
+### Monthly output: 3 days 34 mins 16 secs
 
-## Time untill 1 year of content: 3 years 13 days
+## Time untill 1 year of content: 3 years 12 days
 
 
 -------------------------------------------------
@@ -41,11 +41,11 @@
 |**Remaster**|3 days 18 hours 53 mins 15 secs|97|56 mins 13 secs|20 days 1 hour 12 mins|11 days 4 hours 14 mins|18.2|1 hour 25 mins 17 secs|
 |**Roboism**|1 day 1 hour 22 mins 29 secs|39|39 mins 2 secs|38 days 8 hours 35 mins|86 days 10 hours 59 mins|9.5|30 mins 57 secs|
 |**Rocket**|15 days 12 hours 11 mins 42 secs|332|1 hour 7 mins 15 secs|6 days 22 hours 40 mins|20 hours 58 mins 29 secs|52.6|4 hours 54 mins 36 secs|
-|**The Pen Addict**|19 days 18 hours 16 mins 28 secs|460|1 hour 1 min 51 secs|7 days 8 hours 22 mins|3 days 22 hours 42 mins|49.7|4 hours 16 mins 2 secs|
+|**The Pen Addict**|19 days 19 hours 20 mins 23 secs|461|1 hour 1 min 51 secs|7 days 8 hours 21 mins|3 days 22 hours 36 mins|49.7|4 hours 16 mins 5 secs|
 |**The Test Drivers**|1 day 13 hours 46 mins 5 secs|33|1 hour 8 mins 40 secs|14 days 2 hours 17 mins|3 days 21 hours 40 mins|25.9|2 hours 28 mins 10 secs|
 |**Thoroughly Considered**|2 days 24 mins 46 secs|68|42 mins 43 secs|30 days 15 hours 26 mins|13 days 10 hours 57 mins|11.9|42 mins 24 secs|
 |**Top Four**|2 days 11 hours 4 mins|75|47 mins 15 secs|28 days 3 hours 32 mins|10 days 13 hours 36 mins|13.0|51 mins 3 secs|
-|**Under the Radar**|4 days 9 hours 17 mins 44 secs|216|29 mins 14 secs|9 days 7 hours 33 mins|5 days 8 hours 36 mins|39.2|1 hour 35 mins 30 secs|
+|**Under the Radar**|4 days 9 hours 47 mins|217|29 mins 14 secs|9 days 7 hours 59 mins|5 days 8 hours 28 mins|39.1|1 hour 35 mins 19 secs|
 |**Ungeniused**|1 day 1 hour 39 mins 26 secs|128|12 mins 1 sec|14 days 2 hours 25 mins|3 days 9 hours 53 mins|25.9|25 mins 56 secs|
 |**Upgrade**|22 days 23 hours 53 mins 33 secs|352|1 hour 34 mins 4 secs|6 days 22 hours|18 hours 29 mins 18 secs|52.8|6 hours 53 mins 41 secs|
 
@@ -70,4 +70,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 12:03:18 12/05/2021
+Generated at: 18:01:03 12/05/2021
