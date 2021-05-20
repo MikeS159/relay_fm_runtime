@@ -1,14 +1,14 @@
 ## Total shows: 46
 
-### Total shows length: 255 days 11 hours 11 mins 57 secs
+### Total shows length: 255 days 13 hours 34 mins 38 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 6 hours 47 mins
+### Yearly output: 36 days 6 hours 51 mins
 
-### Monthly output: 3 days 33 mins 56 secs
+### Monthly output: 3 days 34 mins 19 secs
 
-## Time untill 1 year of content: 3 years 6 days
+## Time untill 1 year of content: 3 years 5 days
 
 
 -------------------------------------------------
@@ -23,8 +23,8 @@
 |**Automators**|3 days 13 hours 59 mins 47 secs|76|1 hour 7 mins 53 secs|13 days 20 hours 55 mins|1 day 3 hours 23 mins|26.3|2 hours 28 mins 51 secs|
 |**BONANZA**|1 day 14 hours 7 mins 16 secs|39|58 mins 38 secs|58 days 10 hours 33 mins|71 days 20 hours 56 mins|6.2|30 mins 31 secs|
 |**B-Sides**|12 hours 7 mins 38 secs|41|17 mins 44 secs|52 days 17 hours 30 mins|51 days 5 hours 52 mins|6.9|10 mins 14 secs|
-|**Clockwise**|7 days 2 hours 26 mins 14 secs|346|29 mins 33 secs|8 days 9 hours 27 mins|24 days 17 hours 21 mins|43.5|1 hour 47 mins 5 secs|
-|**Connected**|21 days 3 hours 16 mins 14 secs|345|1 hour 28 mins 13 secs|7 days 3 hours 36 mins|1 day 5 hours 27 mins|51.0|6 hours 15 mins 17 secs|
+|**Clockwise**|7 days 2 hours 53 mins 54 secs|347|29 mins 33 secs|8 days 9 hours 21 mins|24 days 16 hours 30 mins|43.5|1 hour 47 mins 7 secs|
+|**Connected**|21 days 5 hours 11 mins 15 secs|346|1 hour 28 mins 17 secs|7 days 3 hours 35 mins|1 day 5 hours 24 mins|51.0|6 hours 15 mins 38 secs|
 |**Cortex**|7 days 21 hours 23 mins 59 secs|116|1 hour 37 mins 57 secs|18 days 22 hours 5 mins|8 days 23 hours 20 mins|19.3|2 hours 37 mins 29 secs|
 |**Departures**|15 hours 50 mins 35 secs|4|3 hours 57 mins 38 secs|131 days 7 hours 10 mins|141 days 1 hour 15 mins|2.8|55 mins 3 secs|
 |**Flashback**|15 hours 19 mins 9 secs|19|48 mins 22 secs|24 days 23 hours 57 mins|43 days 28 mins 25 secs|14.6|58 mins 51 secs|
@@ -70,4 +70,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:06 20/05/2021
+Generated at: 06:00:05 20/05/2021
