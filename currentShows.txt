@@ -5,7 +5,7 @@ automators:76
 bonanza:39
 b-sides:42
 clockwise:400
-connected:347
+connected:348
 cortex:116
 departures:4
 flashback:19
@@ -15,8 +15,8 @@ mpu:590
 makedo:81
 material:309
 originality:32
-parallel:50
-pictorial:38
+parallel:51
+pictorial:39
 presentable:109
 rd:157
 remaster:97
@@ -27,5 +27,5 @@ testdrivers:33
 tc:69
 topfour:76
 radar:218
-ungeniused:129
+ungeniused:130
 upgrade:355
