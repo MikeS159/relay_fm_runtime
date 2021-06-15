@@ -6,7 +6,7 @@ bonanza:39
 b-sides:42
 clockwise:402
 connected:349
-cortex:116
+cortex:117
 departures:4
 flashback:20
 focused:127
@@ -16,7 +16,7 @@ makedo:82
 material:311
 originality:32
 parallel:52
-pictorial:39
+pictorial:40
 presentable:109
 rd:158
 remaster:97
@@ -27,5 +27,5 @@ testdrivers:34
 tc:69
 topfour:76
 radar:219
-ungeniused:130
+ungeniused:131
 upgrade:357
