@@ -5,7 +5,7 @@ automators:78
 bonanza:39
 b-sides:42
 clockwise:403
-connected:350
+connected:351
 cortex:117
 departures:4
 flashback:20
@@ -19,7 +19,7 @@ parallel:53
 pictorial:40
 presentable:110
 rd:158
-remaster:97
+remaster:98
 roboism:41
 rocket:338
 penaddict:467
