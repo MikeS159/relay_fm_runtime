@@ -4,7 +4,7 @@ analogue:190
 automators:78
 bonanza:39
 b-sides:42
-clockwise:404
+clockwise:405
 connected:351
 cortex:117
 departures:4
@@ -24,7 +24,7 @@ roboism:42
 rocket:339
 penaddict:468
 testdrivers:35
-tc:69
+tc:70
 topfour:77
 radar:220
 ungeniused:132
