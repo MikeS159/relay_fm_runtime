@@ -1,12 +1,12 @@
 ## Total shows: 46
 
-### Total shows length: 259 days 20 hours 41 mins 20 secs
+### Total shows length: 259 days 21 hours 11 mins 18 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 7 hours 43 mins
+### Yearly output: 36 days 7 hours 41 mins
 
-### Monthly output: 3 days 38 mins 36 secs
+### Monthly output: 3 days 38 mins 25 secs
 
 ## Time untill 1 year of content: 2 years 326 days
 
@@ -45,7 +45,7 @@
 |**The Test Drivers**|1 day 17 hours 14 mins 47 secs|36|1 hour 8 mins 44 secs|14 days 7 hours 5 mins|3 days 23 hours 31 mins|25.5|2 hours 26 mins 16 secs|
 |**Thoroughly Considered**|2 days 1 hour 20 mins 3 secs|69|42 mins 53 secs|31 days 23 mins 9 secs|13 days 16 hours 49 mins|11.8|42 mins 4 secs|
 |**Top Four**|2 days 12 hours 25 mins 43 secs|77|47 mins 5 secs|28 days 4 hours 30 mins|10 days 10 hours 30 mins|12.9|50 mins 48 secs|
-|**Under the Radar**|4 days 11 hours 16 mins 38 secs|220|29 mins 15 secs|9 days 9 hours 32 mins|5 days 8 hours 15 mins|38.8|1 hour 34 mins 41 secs|
+|**Under the Radar**|4 days 11 hours 46 mins 36 secs|221|29 mins 15 secs|9 days 10 hours 28 secs|5 days 8 hours 9 mins|38.8|1 hour 34 mins 30 secs|
 |**Ungeniused**|1 day 2 hours 18 mins 15 secs|132|11 mins 57 secs|14 days 2 hours 20 mins|3 days 8 hours 38 mins|25.9|25 mins 47 secs|
 |**Upgrade**|23 days 14 hours 6 mins 45 secs|360|1 hour 34 mins 21 secs|6 days 22 hours 2 mins|18 hours 19 mins 59 secs|52.8|6 hours 54 mins 48 secs|
 
@@ -70,4 +70,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 06:00:06 07/07/2021
+Generated at: 12:00:05 07/07/2021
