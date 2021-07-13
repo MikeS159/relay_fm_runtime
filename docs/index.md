@@ -1,14 +1,14 @@
 ## Total shows: 46
 
-### Total shows length: 260 days 9 hours 7 mins 58 secs
+### Total shows length: 260 days 10 hours 39 mins 4 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 7 hours 40 mins
+### Yearly output: 36 days 7 hours 29 mins
 
-### Monthly output: 3 days 38 mins 23 secs
+### Monthly output: 3 days 37 mins 29 secs
 
-## Time untill 1 year of content: 2 years 321 days
+## Time untill 1 year of content: 2 years 320 days
 
 
 -------------------------------------------------
@@ -25,7 +25,7 @@
 |**B-Sides**|12 hours 7 mins 38 secs|41|17 mins 44 secs|52 days 17 hours 30 mins|51 days 5 hours 52 mins|6.9|10 mins 14 secs|
 |**Clockwise**|7 days 6 hours 15 mins 28 secs|354|29 mins 32 secs|8 days 8 hours 41 mins|24 days 10 hours 37 mins|43.6|1 hour 47 mins 25 secs|
 |**Connected**|21 days 15 hours 59 mins 40 secs|353|1 hour 28 mins 23 secs|7 days 3 hours 31 mins|1 day 5 hours 12 mins|51.1|6 hours 16 mins 10 secs|
-|**Cortex**|7 days 23 hours 30 mins 43 secs|117|1 hour 38 mins 12 secs|19 days 23 secs|8 days 23 hours 23 mins|19.2|2 hours 37 mins 13 secs|
+|**Cortex**|8 days 53 mins 33 secs|118|1 hour 38 mins 4 secs|19 days 1 hour 50 mins|8 days 23 hours 22 mins|19.1|2 hours 36 mins 23 secs|
 |**Departures**|15 hours 50 mins 35 secs|4|3 hours 57 mins 38 secs|131 days 7 hours 10 mins|141 days 1 hour 15 mins|2.8|55 mins 3 secs|
 |**Flashback**|16 hours 45 mins 29 secs|21|47 mins 52 secs|23 days 22 hours|40 days 22 hours 36 mins|15.3|1 hour 53 secs|
 |**Focused**|5 days 21 hours 35 mins 43 secs|129|1 hour 5 mins 51 secs|14 days 2 hours 37 mins|1 day 4 hours 52 mins|25.9|2 hours 21 mins 58 secs|
@@ -46,7 +46,7 @@
 |**Thoroughly Considered**|2 days 1 hour 20 mins 3 secs|69|42 mins 53 secs|31 days 23 mins 9 secs|13 days 16 hours 49 mins|11.8|42 mins 4 secs|
 |**Top Four**|2 days 12 hours 25 mins 43 secs|77|47 mins 5 secs|28 days 4 hours 30 mins|10 days 10 hours 30 mins|12.9|50 mins 48 secs|
 |**Under the Radar**|4 days 11 hours 46 mins 36 secs|221|29 mins 15 secs|9 days 10 hours 28 secs|5 days 8 hours 9 mins|38.8|1 hour 34 mins 30 secs|
-|**Ungeniused**|1 day 2 hours 18 mins 15 secs|132|11 mins 57 secs|14 days 2 hours 20 mins|3 days 8 hours 38 mins|25.9|25 mins 47 secs|
+|**Ungeniused**|1 day 2 hours 26 mins 31 secs|133|11 mins 55 secs|14 days 2 hours 19 mins|3 days 8 hours 19 mins|25.9|25 mins 44 secs|
 |**Upgrade**|23 days 16 hours 23 mins 2 secs|361|1 hour 34 mins 28 secs|6 days 22 hours 2 mins|18 hours 18 mins 28 secs|52.8|6 hours 55 mins 19 secs|
 
 -------------------------------------------------
@@ -71,4 +71,4 @@
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
 New show needs adding - conduit
-Generated at: 12:00:07 13/07/2021
+Generated at: 18:00:12 13/07/2021
