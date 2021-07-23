@@ -1,12 +1,12 @@
 ## Total shows: 46
 
-### Total shows length: 261 days 5 hours 43 mins 48 secs
+### Total shows length: 261 days 7 hours 52 mins 17 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 6 hours 43 mins
+### Yearly output: 36 days 6 hours 41 mins
 
-### Monthly output: 3 days 33 mins 38 secs
+### Monthly output: 3 days 33 mins 27 secs
 
 ## Time untill 1 year of content: 2 years 313 days
 
@@ -32,7 +32,7 @@
 |**Liftoff**|5 days 3 hours 19 mins 37 secs|155|47 mins 44 secs|14 days 55 mins 54 secs|2 days 22 hours 35 mins|26.0|1 hour 43 mins 25 secs|
 |**Mac Power Users**|38 days 10 hours 18 mins 1 sec|597|1 hour 32 mins 41 secs|7 days 11 hours 28 mins|3 days 7 hours 13 mins|48.8|6 hours 17 mins 1 sec|
 |**Make Do**|2 days 13 hours 5 mins 36 secs|85|43 mins 7 secs|14 days 10 hours 1 min|2 days 5 hours 34 mins|25.3|1 hour 30 mins 58 secs|
-|**Material**|15 days 20 hours 46 mins 41 secs|317|1 hour 12 mins 4 secs|6 days 23 hours 30 mins|1 day 9 hours 25 mins|52.3|5 hours 14 mins 6 secs|
+|**Material**|15 days 21 hours 48 mins 44 secs|318|1 hour 12 mins 2 secs|6 days 23 hours 30 mins|1 day 9 hours 22 mins|52.3|5 hours 13 mins 57 secs|
 |**Originality**|1 day 10 hours 34 mins 1 sec|32|1 hour 4 mins 48 secs|32 days 9 hours 31 mins|37 days 10 hours 56 mins|11.3|1 hour 51 secs|
 |**Parallel**|2 days 3 hours 2 mins 42 secs|56|54 mins 41 secs|19 days 16 hours 16 mins|18 days 6 hours 47 mins|18.5|1 hour 24 mins 32 secs|
 |**Pictorial**|23 hours 28 mins 23 secs|41|34 mins 21 secs|14 days 8 hours 26 mins|1 day 12 hours 58 mins|25.4|1 hour 12 mins 48 secs|
@@ -40,7 +40,7 @@
 |**Reconcilable Differences**|12 days 1 hour 7 mins 34 secs|160|1 hour 48 mins 25 secs|14 days 22 mins 49 secs|1 day 21 hours 42 mins|26.0|3 hours 55 mins 17 secs|
 |**Remaster**|3 days 19 hours 50 mins 23 secs|98|56 mins 13 secs|20 days 13 hours 9 mins|12 days 3 hours 28 mins|17.8|1 hour 23 mins 13 secs|
 |**Roboism**|1 day 4 hours 47 mins 27 secs|43|40 mins 10 secs|36 days 4 hours 54 mins|82 days 12 hours 19 mins|10.1|33 mins 45 secs|
-|**Rocket**|15 days 22 hours 58 mins 30 secs|342|1 hour 7 mins 11 secs|6 days 22 hours 42 mins|20 hours 40 mins 4 secs|52.5|4 hours 54 mins 12 secs|
+|**Rocket**|16 days 4 mins 56 secs|343|1 hour 7 mins 11 secs|6 days 22 hours 43 mins|20 hours 38 mins 26 secs|52.5|4 hours 54 mins 9 secs|
 |**The Pen Addict**|20 days 6 hours 19 mins 58 secs|471|1 hour 1 min 57 secs|7 days 8 hours 10 mins|3 days 21 hours 37 mins|49.7|4 hours 16 mins 42 secs|
 |**The Test Drivers**|1 day 18 hours 13 mins 36 secs|37|1 hour 8 mins 28 secs|14 days 11 hours 56 mins|4 days 2 hours 27 mins|25.2|2 hours 23 mins 40 secs|
 |**Thoroughly Considered**|2 days 1 hour 20 mins 3 secs|69|42 mins 53 secs|31 days 23 mins 9 secs|13 days 16 hours 49 mins|11.8|42 mins 4 secs|
@@ -71,4 +71,4 @@
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
 New show needs adding - conduit
-Generated at: 00:00:06 23/07/2021
+Generated at: 06:00:05 23/07/2021
