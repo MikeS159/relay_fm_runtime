@@ -1,7 +1,7 @@
 20macs:27
 adapt:41
 analogue:191
-automators:80
+automators:81
 bonanza:39
 b-sides:43
 clockwise:409
