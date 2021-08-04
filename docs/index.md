@@ -1,12 +1,12 @@
 ## Total shows: 46
 
-### Total shows length: 262 days 7 hours 14 mins 15 secs
+### Total shows length: 262 days 8 hours 16 mins 10 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 7 hours 10 mins
+### Yearly output: 36 days 7 hours 17 mins
 
-### Monthly output: 3 days 35 mins 51 secs
+### Monthly output: 3 days 36 mins 29 secs
 
 ## Time untill 1 year of content: 2 years 302 days
 
@@ -34,7 +34,7 @@
 |**Make Do**|2 days 13 hours 43 mins 14 secs|86|43 mins 3 secs|14 days 9 hours 59 mins|2 days 5 hours 15 mins|25.3|1 hour 30 mins 51 secs|
 |**Material**|15 days 22 hours 58 mins 54 secs|319|1 hour 12 mins 2 secs|6 days 23 hours 30 mins|1 day 9 hours 19 mins|52.3|5 hours 13 mins 55 secs|
 |**Originality**|1 day 10 hours 34 mins 1 sec|32|1 hour 4 mins 48 secs|32 days 9 hours 31 mins|37 days 10 hours 56 mins|11.3|1 hour 51 secs|
-|**Parallel**|2 days 3 hours 2 mins 42 secs|56|54 mins 41 secs|19 days 16 hours 16 mins|18 days 6 hours 47 mins|18.5|1 hour 24 mins 32 secs|
+|**Parallel**|2 days 4 hours 4 mins 37 secs|57|54 mins 49 secs|19 days 13 hours 52 mins|18 days 3 hours 13 mins|18.6|1 hour 25 mins 9 secs|
 |**Pictorial**|23 hours 28 mins 23 secs|41|34 mins 21 secs|14 days 8 hours 26 mins|1 day 12 hours 58 mins|25.4|1 hour 12 mins 48 secs|
 |**Presentable**|3 days 16 hours 30 mins|114|46 mins 34 secs|16 days 18 hours 12 mins|7 days 6 hours 2 mins|21.8|1 hour 24 mins 32 secs|
 |**Reconcilable Differences**|12 days 2 hours 59 mins 32 secs|161|1 hour 48 mins 26 secs|14 days 22 mins 7 secs|1 day 21 hours 34 mins|26.0|3 hours 55 mins 20 secs|
@@ -71,4 +71,4 @@
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
 New show needs adding - conduit
-Generated at: 00:00:06 04/08/2021
+Generated at: 06:00:05 04/08/2021
