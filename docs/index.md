@@ -6,7 +6,7 @@
 
 ### Yearly output: 36 days 6 hours 59 mins
 
-### Monthly output: 3 days 34 mins 56 secs
+### Monthly output: 3 days 34 mins 55 secs
 
 ## Time untill 1 year of content: 2 years 293 days
 
@@ -71,4 +71,4 @@
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
 New show needs adding - conduit
-Generated at: 00:00:05 16/08/2021
+Generated at: 06:00:04 16/08/2021
