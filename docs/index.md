@@ -1,14 +1,14 @@
 ## Total shows: 46
 
-### Total shows length: 263 days 7 hours 38 mins 27 secs
+### Total shows length: 263 days 8 hours 36 mins
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 6 hours 58 mins
+### Yearly output: 36 days 2 hours 44 mins
 
-### Monthly output: 3 days 34 mins 54 secs
+### Monthly output: 3 days 13 mins 43 secs
 
-## Time untill 1 year of content: 2 years 292 days
+## Time untill 1 year of content: 2 years 297 days
 
 
 -------------------------------------------------
@@ -26,7 +26,7 @@
 |**Clockwise**|7 days 8 hours 34 mins 13 secs|359|29 mins 30 secs|8 days 8 hours 14 mins|24 days 6 hours 31 mins|43.7|1 hour 47 mins 34 secs|
 |**Connected**|21 days 23 hours 24 mins 32 secs|358|1 hour 28 mins 23 secs|7 days 3 hours 28 mins|1 day 5 hours 3 mins|51.1|6 hours 16 mins 18 secs|
 |**Cortex**|8 days 53 mins 33 secs|118|1 hour 38 mins 4 secs|19 days 1 hour 50 mins|8 days 23 hours 22 mins|19.1|2 hours 36 mins 23 secs|
-|**Departures**|15 hours 50 mins 35 secs|4|3 hours 57 mins 38 secs|131 days 7 hours 10 mins|141 days 1 hour 15 mins|2.8|55 mins 3 secs|
+|**Departures**|16 hours 48 mins 8 secs|5|3 hours 21 mins 37 secs|181 days 2 hours 37 mins|149 days 13 hours 11 mins|2.0|33 mins 51 secs|
 |**Flashback**|16 hours 45 mins 29 secs|21|47 mins 52 secs|23 days 22 hours|40 days 22 hours 36 mins|15.3|1 hour 53 secs|
 |**Focused**|6 days 18 mins 31 secs|131|1 hour 6 mins 5 secs|14 days 2 hours 36 mins|1 day 4 hours 39 mins|25.9|2 hours 22 mins 29 secs|
 |**Liftoff**|5 days 5 hours 27 mins 47 secs|157|47 mins 56 secs|14 days 27 mins 18 secs|2 days 22 hours 21 mins|26.0|1 hour 44 mins 1 sec|
@@ -71,4 +71,4 @@
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
 New show needs adding - conduit
-Generated at: 00:00:04 17/08/2021
+Generated at: 06:00:03 17/08/2021
