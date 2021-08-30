@@ -1,6 +1,6 @@
 ## Total shows: 46
 
-### Total shows length: 264 days 14 hours 53 mins 26 secs
+### Total shows length: 264 days 17 hours 26 mins 35 secs
 
 ## Total active shows: 31
 
@@ -8,7 +8,7 @@
 
 ### Monthly output: 3 days 8 mins 5 secs
 
-## Time untill 1 year of content: 2 years 285 days
+## Time untill 1 year of content: 2 years 284 days
 
 
 -------------------------------------------------
@@ -44,10 +44,10 @@
 |**The Pen Addict**|20 days 11 hours 17 mins 43 secs|476|1 hour 1 min 55 secs|7 days 8 hours 5 mins|3 days 21 hours 7 mins|49.7|4 hours 16 mins 43 secs|
 |**The Test Drivers**|1 day 20 hours 30 mins 55 secs|39|1 hour 8 mins 29 secs|14 days 14 hours 25 mins|4 days 3 hours 31 mins|25.0|2 hours 22 mins 39 secs|
 |**Thoroughly Considered**|2 days 1 hour 55 mins 30 secs|70|42 mins 47 secs|31 days 6 hours 33 mins|13 days 18 hours 23 mins|11.7|41 mins 37 secs|
-|**Top Four**|2 days 13 hours 16 mins 23 secs|78|47 mins 7 secs|28 days 5 hours 22 mins|10 days 8 hours 59 mins|12.9|50 mins 47 secs|
+|**Top Four**|2 days 13 hours 44 mins 51 secs|79|46 mins 53 secs|28 days 6 hours 30 mins|10 days 7 hours 35 mins|12.9|50 mins 27 secs|
 |**Under the Radar**|4 days 13 hours 15 mins 50 secs|224|29 mins 16 secs|9 days 11 hours 30 mins|5 days 7 hours 56 mins|38.5|1 hour 33 mins 54 secs|
 |**Ungeniused**|1 day 2 hours 54 mins 28 secs|136|11 mins 52 secs|14 days 2 hours 16 mins|3 days 7 hours 26 mins|25.9|25 mins 37 secs|
-|**Upgrade**|24 days 2 hours 38 mins 33 secs|367|1 hour 34 mins 36 secs|6 days 22 hours 5 mins|18 hours 9 mins 46 secs|52.7|6 hours 55 mins 48 secs|
+|**Upgrade**|24 days 4 hours 43 mins 14 secs|368|1 hour 34 mins 40 secs|6 days 22 hours 5 mins|18 hours 8 mins 19 secs|52.7|6 hours 56 mins 8 secs|
 
 -------------------------------------------------
 
@@ -71,4 +71,4 @@
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
 New show needs adding - conduit
-Generated at: 18:00:04 30/08/2021
+Generated at: 00:00:06 31/08/2021
