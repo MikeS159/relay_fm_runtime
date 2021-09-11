@@ -1,6 +1,6 @@
 ## Total shows: 46
 
-### Total shows length: 265 days 15 hours 24 mins 22 secs
+### Total shows length: 265 days 17 hours 45 mins 31 secs
 
 ## Total active shows: 31
 
@@ -8,7 +8,7 @@
 
 ### Monthly output: 3 days 9 mins 23 secs
 
-## Time untill 1 year of content: 2 years 275 days
+## Time untill 1 year of content: 2 years 274 days
 
 
 -------------------------------------------------
@@ -32,7 +32,7 @@
 |**Liftoff**|5 days 6 hours 58 mins 29 secs|159|47 mins 54 secs|14 days 27 mins 37 secs|2 days 21 hours 55 mins|26.0|1 hour 43 mins 57 secs|
 |**Mac Power Users**|38 days 21 hours 25 mins 1 sec|604|1 hour 32 mins 43 secs|7 days 11 hours 20 mins|3 days 6 hours 46 mins|48.8|6 hours 17 mins 25 secs|
 |**Make Do**|2 days 15 hours 4 mins 47 secs|88|43 mins|14 days 9 hours 44 mins|2 days 5 hours 8 mins|25.3|1 hour 30 mins 48 secs|
-|**Material**|16 days 4 hours 24 mins 35 secs|324|1 hour 11 mins 55 secs|6 days 23 hours 30 mins|1 day 9 hours 6 mins|52.3|5 hours 13 mins 27 secs|
+|**Material**|16 days 5 hours 31 mins 25 secs|325|1 hour 11 mins 54 secs|6 days 23 hours 35 mins|1 day 9 hours 5 mins|52.3|5 hours 13 mins 15 secs|
 |**Originality**|1 day 10 hours 34 mins 1 sec|32|1 hour 4 mins 48 secs|32 days 9 hours 31 mins|37 days 10 hours 56 mins|11.3|1 hour 51 secs|
 |**Parallel**|2 days 4 hours 52 mins 25 secs|58|54 mins 41 secs|19 days 11 hours 28 mins|17 days 23 hours 45 mins|18.7|1 hour 25 mins 24 secs|
 |**Pictorial**|1 day 41 mins 39 secs|43|34 mins 27 secs|15 days 7 hours 59 mins|6 days 12 hours 38 mins|23.8|1 hour 8 mins 21 secs|
@@ -47,7 +47,7 @@
 |**Top Four**|2 days 13 hours 44 mins 51 secs|79|46 mins 53 secs|28 days 6 hours 30 mins|10 days 7 hours 35 mins|12.9|50 mins 27 secs|
 |**Under the Radar**|4 days 13 hours 45 mins 28 secs|225|29 mins 16 secs|9 days 12 hours 1 min|5 days 7 hours 52 mins|38.4|1 hour 33 mins 42 secs|
 |**Ungeniused**|1 day 3 hours 10 mins 45 secs|137|11 mins 54 secs|14 days 2 hours 15 mins|3 days 7 hours 8 mins|25.9|25 mins 41 secs|
-|**Upgrade**|24 days 6 hours 19 mins 48 secs|369|1 hour 34 mins 41 secs|6 days 22 hours 5 mins|18 hours 6 mins 50 secs|52.7|6 hours 56 mins 9 secs|
+|**Upgrade**|24 days 7 hours 34 mins 7 secs|370|1 hour 34 mins 37 secs|6 days 21 hours 54 mins|18 hours 25 mins 12 secs|52.8|6 hours 56 mins 22 secs|
 
 -------------------------------------------------
 
@@ -71,4 +71,4 @@
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
 New show needs adding - conduit
-Generated at: 00:00:07 11/09/2021
+Generated at: 06:00:08 11/09/2021
