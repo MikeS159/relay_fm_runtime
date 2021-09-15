@@ -15,7 +15,7 @@ mpu:605
 makedo:88
 material:324
 originality:32
-parallel:57
+parallel:58
 pictorial:43
 presentable:115
 rd:164
@@ -28,4 +28,4 @@ tc:71
 topfour:79
 radar:225
 ungeniused:137
-upgrade:370
+upgrade:371
