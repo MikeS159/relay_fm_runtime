@@ -1,12 +1,12 @@
 ## Total shows: 46
 
-### Total shows length: 266 days 7 hours 46 mins 18 secs
+### Total shows length: 266 days 8 hours 16 mins 7 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 1 hour 38 mins
+### Yearly output: 36 days 1 hour 35 mins
 
-### Monthly output: 3 days 8 mins 11 secs
+### Monthly output: 3 days 7 mins 55 secs
 
 ## Time untill 1 year of content: 2 years 268 days
 
@@ -45,7 +45,7 @@
 |**The Test Drivers**|1 day 21 hours 45 mins 10 secs|40|1 hour 8 mins 37 secs|14 days 14 hours 54 mins|4 days 2 hours 17 mins|25.0|2 hours 22 mins 46 secs|
 |**Thoroughly Considered**|2 days 1 hour 55 mins 30 secs|70|42 mins 47 secs|31 days 6 hours 33 mins|13 days 18 hours 23 mins|11.7|41 mins 37 secs|
 |**Top Four**|2 days 13 hours 44 mins 51 secs|79|46 mins 53 secs|28 days 6 hours 30 mins|10 days 7 hours 35 mins|12.9|50 mins 27 secs|
-|**Under the Radar**|4 days 13 hours 45 mins 28 secs|225|29 mins 16 secs|9 days 12 hours 1 min|5 days 7 hours 52 mins|38.4|1 hour 33 mins 42 secs|
+|**Under the Radar**|4 days 14 hours 15 mins 17 secs|226|29 mins 16 secs|9 days 12 hours 41 mins|5 days 7 hours 59 mins|38.3|1 hour 33 mins 26 secs|
 |**Ungeniused**|1 day 3 hours 10 mins 45 secs|137|11 mins 54 secs|14 days 2 hours 15 mins|3 days 7 hours 8 mins|25.9|25 mins 41 secs|
 |**Upgrade**|24 days 9 hours 6 mins 13 secs|371|1 hour 34 mins 37 secs|6 days 21 hours 43 mins|18 hours 44 mins 41 secs|52.9|6 hours 56 mins 49 secs|
 
@@ -71,4 +71,4 @@
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
 New show needs adding - conduit
-Generated at: 12:00:10 17/09/2021
+Generated at: 18:00:08 17/09/2021
