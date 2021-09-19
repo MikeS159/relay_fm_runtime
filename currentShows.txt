@@ -7,11 +7,11 @@ b-sides:43
 clockwise:416
 connected:363
 cortex:120
-departures:5
+departures:6
 flashback:20
 focused:134
 liftoff:158
-mpu:605
+mpu:606
 makedo:88
 material:325
 originality:32
