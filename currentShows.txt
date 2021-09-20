@@ -7,7 +7,7 @@ b-sides:43
 clockwise:416
 connected:363
 cortex:120
-departures:6
+departures:7
 flashback:20
 focused:134
 liftoff:158
@@ -28,4 +28,4 @@ tc:71
 topfour:79
 radar:226
 ungeniused:137
-upgrade:371
+upgrade:372
