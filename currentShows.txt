@@ -15,8 +15,8 @@ mpu:606
 makedo:88
 material:325
 originality:32
-parallel:58
-pictorial:43
+parallel:59
+pictorial:44
 presentable:116
 rd:165
 remaster:100
@@ -27,5 +27,5 @@ testdrivers:39
 tc:71
 topfour:79
 radar:226
-ungeniused:137
+ungeniused:138
 upgrade:372
