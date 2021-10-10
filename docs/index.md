@@ -1,14 +1,14 @@
 ## Total shows: 46
 
-### Total shows length: 268 days 12 hours 20 mins 40 secs
+### Total shows length: 268 days 15 hours 42 mins 8 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 6 hours 9 mins
+### Yearly output: 36 days 6 hours 4 mins
 
-### Monthly output: 3 days 30 mins 48 secs
+### Monthly output: 3 days 30 mins 20 secs
 
-## Time untill 1 year of content: 2 years 241 days
+## Time untill 1 year of content: 2 years 240 days
 
 
 -------------------------------------------------
@@ -19,7 +19,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**20 Macs for 2020**|13 hours 20 mins 53 secs|28|28 mins 36 secs|8 days 16 hours 53 mins|7 days 6 hours 15 mins|41.9|1 hour 39 mins 57 secs|
 |**Adapt**|1 day 20 hours 48 mins 45 secs|41|1 hour 5 mins 34 secs|14 days 17 hours 19 mins|3 days 1 hour 12 mins|24.8|2 hours 15 mins 29 secs|
-|**Analog(ue)**|9 days 17 hours 27 secs|193|1 hour 12 mins 26 secs|13 days 10 hours 46 mins|7 days 10 hours 45 mins|27.1|2 hours 43 mins 49 secs|
+|**Analog(ue)**|9 days 18 hours 51 mins 22 secs|194|1 hour 12 mins 38 secs|13 days 12 hours 37 mins|7 days 12 hours 7 mins|27.0|2 hours 43 mins 20 secs|
 |**Automators**|4 days 5 hours 40 mins 29 secs|87|1 hour 10 mins 7 secs|13 days 21 hours 18 mins|1 day 1 hour 36 mins|26.3|2 hours 33 mins 34 secs|
 |**BONANZA**|1 day 14 hours 7 mins 16 secs|39|58 mins 38 secs|58 days 10 hours 33 mins|71 days 20 hours 56 mins|6.2|30 mins 31 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
@@ -30,7 +30,7 @@
 |**Flashback**|16 hours 45 mins 29 secs|21|47 mins 52 secs|23 days 22 hours|40 days 22 hours 36 mins|15.3|1 hour 53 secs|
 |**Focused**|6 days 5 hours 46 mins 26 secs|135|1 hour 6 mins 33 secs|14 days 2 hours 29 mins|1 day 4 hours 14 mins|25.9|2 hours 23 mins 33 secs|
 |**Liftoff**|5 days 8 hours 36 mins 24 secs|161|47 mins 55 secs|14 days 25 mins 58 secs|2 days 21 hours 28 mins|26.0|1 hour 43 mins 59 secs|
-|**Mac Power Users**|39 days 4 hours 7 mins 40 secs|608|1 hour 32 mins 46 secs|7 days 11 hours 15 mins|3 days 6 hours 31 mins|48.9|6 hours 17 mins 48 secs|
+|**Mac Power Users**|39 days 5 hours 38 mins 13 secs|609|1 hour 32 mins 46 secs|7 days 11 hours 14 mins|3 days 6 hours 27 mins|48.9|6 hours 17 mins 49 secs|
 |**Make Do**|2 days 15 hours 4 mins 47 secs|88|43 mins|14 days 9 hours 44 mins|2 days 5 hours 8 mins|25.3|1 hour 30 mins 48 secs|
 |**Material**|16 days 8 hours 40 mins 59 secs|328|1 hour 11 mins 49 secs|6 days 23 hours 31 mins|1 day 9 hours 37 secs|52.3|5 hours 13 mins 1 sec|
 |**Originality**|1 day 10 hours 34 mins 1 sec|32|1 hour 4 mins 48 secs|32 days 9 hours 31 mins|37 days 10 hours 56 mins|11.3|1 hour 51 secs|
@@ -72,4 +72,4 @@
 
 New show needs adding - conduit
 New show needs adding - downstream
-Generated at: 18:00:07 10/10/2021
+Generated at: 00:00:10 11/10/2021
