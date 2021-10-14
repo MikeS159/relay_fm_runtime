@@ -5,7 +5,7 @@ automators:86
 bonanza:39
 b-sides:43
 clockwise:420
-connected:366
+connected:367
 cortex:120
 departures:7
 flashback:20
@@ -15,7 +15,7 @@ mpu:609
 makedo:88
 material:328
 originality:32
-parallel:59
+parallel:60
 pictorial:45
 presentable:117
 rd:166

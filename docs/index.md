@@ -1,14 +1,14 @@
 ## Total shows: 46
 
-### Total shows length: 268 days 21 hours 12 mins 20 secs
+### Total shows length: 268 days 23 hours 28 mins 28 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 5 hours 58 mins
+### Yearly output: 36 days 5 hours 53 mins
 
-### Monthly output: 3 days 29 mins 54 secs
+### Monthly output: 3 days 29 mins 26 secs
 
-## Time untill 1 year of content: 2 years 237 days
+## Time untill 1 year of content: 2 years 236 days
 
 
 -------------------------------------------------
@@ -24,7 +24,7 @@
 |**BONANZA**|1 day 14 hours 7 mins 16 secs|39|58 mins 38 secs|58 days 10 hours 33 mins|71 days 20 hours 56 mins|6.2|30 mins 31 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
 |**Clockwise**|7 days 12 hours 48 mins 52 secs|368|29 mins 28 secs|8 days 7 hours 26 mins|23 days 23 hours 21 mins|43.9|1 hour 47 mins 54 secs|
-|**Connected**|22 days 11 hours 33 mins 19 secs|366|1 hour 28 mins 27 secs|7 days 3 hours 23 mins|1 day 4 hours 44 mins|51.1|6 hours 16 mins 44 secs|
+|**Connected**|22 days 13 hours 7 mins 10 secs|367|1 hour 28 mins 27 secs|7 days 3 hours 23 mins|1 day 4 hours 42 mins|51.1|6 hours 16 mins 48 secs|
 |**Cortex**|8 days 4 hours 9 mins|120|1 hour 38 mins 4 secs|19 days 7 hours 1 min|9 days 3 hours 22 mins|18.9|2 hours 34 mins 37 secs|
 |**Departures**|1 day 1 hour 47 mins 13 secs|7|3 hours 41 mins 1 sec|126 days 12 hours 47 mins|144 days 18 hours 19 mins|2.9|53 mins 7 secs|
 |**Flashback**|16 hours 45 mins 29 secs|21|47 mins 52 secs|23 days 22 hours|40 days 22 hours 36 mins|15.3|1 hour 53 secs|
@@ -34,7 +34,7 @@
 |**Make Do**|2 days 15 hours 4 mins 47 secs|88|43 mins|14 days 9 hours 44 mins|2 days 5 hours 8 mins|25.3|1 hour 30 mins 48 secs|
 |**Material**|16 days 9 hours 48 mins 21 secs|329|1 hour 11 mins 49 secs|6 days 23 hours 48 mins|1 day 9 hours 23 mins|52.2|5 hours 12 mins 25 secs|
 |**Originality**|1 day 10 hours 34 mins 1 sec|32|1 hour 4 mins 48 secs|32 days 9 hours 31 mins|37 days 10 hours 56 mins|11.3|1 hour 51 secs|
-|**Parallel**|2 days 6 hours 34 mins 47 secs|60|54 mins 34 secs|19 days 9 hours 47 mins|17 days 19 hours 8 mins|18.8|1 hour 25 mins 32 secs|
+|**Parallel**|2 days 7 hours 17 mins 4 secs|61|54 mins 22 secs|19 days 11 hours|17 days 15 hours 40 mins|18.8|1 hour 25 mins|
 |**Pictorial**|1 day 1 hour 56 mins 30 secs|45|34 mins 35 secs|15 days 6 hours 31 mins|6 days 9 hours 11 mins|23.9|1 hour 8 mins 53 secs|
 |**Presentable**|3 days 19 hours 23 mins 38 secs|118|46 mins 28 secs|16 days 17 hours 1 min|7 days 3 hours 12 mins|21.8|1 hour 24 mins 35 secs|
 |**Reconcilable Differences**|12 days 11 hours 30 mins 35 secs|166|1 hour 48 mins 15 secs|14 days 11 mins 43 secs|1 day 20 hours 58 mins|26.1|3 hours 55 mins 3 secs|
@@ -72,4 +72,4 @@
 
 New show needs adding - conduit
 New show needs adding - downstream
-Generated at: 00:00:11 14/10/2021
+Generated at: 06:00:08 14/10/2021
