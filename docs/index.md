@@ -1,14 +1,14 @@
 ## Total shows: 46
 
-### Total shows length: 269 days 15 hours 9 mins 6 secs
+### Total shows length: 269 days 16 hours 50 mins 14 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 5 hours 35 mins
+### Yearly output: 36 days 5 hours 37 mins
 
-### Monthly output: 3 days 27 mins 59 secs
+### Monthly output: 3 days 28 mins 8 secs
 
-## Time untill 1 year of content: 2 years 230 days
+## Time untill 1 year of content: 2 years 229 days
 
 
 -------------------------------------------------
@@ -24,7 +24,7 @@
 |**BONANZA**|1 day 14 hours 7 mins 16 secs|39|58 mins 38 secs|58 days 10 hours 33 mins|71 days 20 hours 56 mins|6.2|30 mins 31 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
 |**Clockwise**|7 days 13 hours 16 mins|369|29 mins 28 secs|8 days 7 hours 22 mins|23 days 22 hours 34 mins|43.9|1 hour 47 mins 55 secs|
-|**Connected**|22 days 13 hours 7 mins 10 secs|367|1 hour 28 mins 27 secs|7 days 3 hours 23 mins|1 day 4 hours 42 mins|51.1|6 hours 16 mins 48 secs|
+|**Connected**|22 days 14 hours 48 mins 18 secs|368|1 hour 28 mins 30 secs|7 days 3 hours 22 mins|1 day 4 hours 40 mins|51.1|6 hours 16 mins 58 secs|
 |**Cortex**|8 days 4 hours 9 mins|120|1 hour 38 mins 4 secs|19 days 7 hours 1 min|9 days 3 hours 22 mins|18.9|2 hours 34 mins 37 secs|
 |**Departures**|1 day 1 hour 47 mins 13 secs|7|3 hours 41 mins 1 sec|126 days 12 hours 47 mins|144 days 18 hours 19 mins|2.9|53 mins 7 secs|
 |**Flashback**|16 hours 45 mins 29 secs|21|47 mins 52 secs|23 days 22 hours|40 days 22 hours 36 mins|15.3|1 hour 53 secs|
@@ -71,4 +71,4 @@
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
 New show needs adding - downstream
-Generated at: 00:00:10 21/10/2021
+Generated at: 12:00:08 21/10/2021
