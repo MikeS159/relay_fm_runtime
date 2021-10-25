@@ -1,12 +1,12 @@
 ## Total shows: 46
 
-### Total shows length: 269 days 23 hours 8 mins 18 secs
+### Total shows length: 270 days 38 mins 38 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 3 hours 19 mins
+### Yearly output: 36 days 3 hours 18 mins
 
-### Monthly output: 3 days 16 mins 36 secs
+### Monthly output: 3 days 16 mins 33 secs
 
 ## Time untill 1 year of content: 2 years 229 days
 
@@ -47,7 +47,7 @@
 |**Top Four**|2 days 14 hours 29 mins 48 secs|80|46 mins 52 secs|28 days 7 hours 21 mins|10 days 6 hours 7 mins|12.9|50 mins 21 secs|
 |**Under the Radar**|4 days 15 hours 14 mins 33 secs|228|29 mins 16 secs|9 days 13 hours 32 mins|5 days 7 hours 47 mins|38.2|1 hour 33 mins 6 secs|
 |**Ungeniused**|1 day 3 hours 31 mins 44 secs|139|11 mins 52 secs|14 days 2 hours 13 mins|3 days 6 hours 33 mins|25.9|25 mins 38 secs|
-|**Upgrade**|24 days 18 hours 4 mins 29 secs|377|1 hour 34 mins 32 secs|6 days 21 hours 14 mins|19 hours 33 mins 40 secs|53.0|6 hours 57 mins 40 secs|
+|**Upgrade**|24 days 19 hours 34 mins 49 secs|378|1 hour 34 mins 32 secs|6 days 21 hours 14 mins|19 hours 32 mins 7 secs|53.0|6 hours 57 mins 37 secs|
 
 -------------------------------------------------
 
@@ -72,4 +72,4 @@
 
 New show needs adding - conduit
 New show needs adding - downstream
-Generated at: 18:00:05 25/10/2021
+Generated at: 00:00:06 26/10/2021
