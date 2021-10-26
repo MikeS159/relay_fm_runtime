@@ -1,14 +1,14 @@
 ## Total shows: 46
 
-### Total shows length: 270 days 38 mins 38 secs
+### Total shows length: 270 days 1 hour 43 mins 7 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 3 hours 18 mins
+### Yearly output: 36 days 3 hours 15 mins
 
-### Monthly output: 3 days 16 mins 33 secs
+### Monthly output: 3 days 16 mins 19 secs
 
-## Time untill 1 year of content: 2 years 229 days
+## Time untill 1 year of content: 2 years 228 days
 
 
 -------------------------------------------------
@@ -34,7 +34,7 @@
 |**Make Do**|2 days 15 hours 39 mins 23 secs|89|42 mins 54 secs|14 days 21 hours 3 mins|4 days 21 hours 57 mins|24.5|1 hour 27 mins 44 secs|
 |**Material**|16 days 12 hours 13 mins 56 secs|331|1 hour 11 mins 49 secs|6 days 23 hours 35 mins|1 day 9 hours 31 mins|52.3|5 hours 12 mins 50 secs|
 |**Originality**|1 day 10 hours 34 mins 1 sec|32|1 hour 4 mins 48 secs|32 days 9 hours 31 mins|37 days 10 hours 56 mins|11.3|1 hour 51 secs|
-|**Parallel**|2 days 7 hours 17 mins 4 secs|61|54 mins 22 secs|19 days 11 hours|17 days 15 hours 40 mins|18.8|1 hour 25 mins|
+|**Parallel**|2 days 7 hours 46 mins 37 secs|62|53 mins 58 secs|19 days 8 hours 16 mins|17 days 12 hours 42 mins|18.9|1 hour 24 mins 52 secs|
 |**Pictorial**|1 day 2 hours 29 mins 12 secs|46|34 mins 32 secs|15 days 5 hours 50 mins|6 days 7 hours 33 mins|23.9|1 hour 8 mins 56 secs|
 |**Presentable**|3 days 20 hours 12 mins 24 secs|119|46 mins 29 secs|16 days 16 hours 29 mins|7 days 2 hours 34 mins|21.9|1 hour 24 mins 44 secs|
 |**Reconcilable Differences**|12 days 13 hours 11 mins 48 secs|167|1 hour 48 mins 12 secs|14 days 20 mins 14 secs|1 day 20 hours 52 mins|26.0|3 hours 54 mins 52 secs|
@@ -44,7 +44,7 @@
 |**The Pen Addict**|20 days 20 hours 12 mins 17 secs|484|1 hour 2 mins|7 days 7 hours 57 mins|3 days 20 hours 21 mins|49.8|4 hours 17 mins 15 secs|
 |**The Test Drivers**|2 days 1 hour 25 mins 24 secs|43|1 hour 8 mins 57 secs|14 days 18 hours 30 mins|4 days 7 hours 13 mins|24.7|2 hours 22 mins|
 |**Thoroughly Considered**|2 days 4 hours 3 mins 45 secs|72|43 mins 23 secs|31 days 6 hours 43 mins|13 days 14 hours 2 mins|11.7|42 mins 11 secs|
-|**Top Four**|2 days 14 hours 29 mins 48 secs|80|46 mins 52 secs|28 days 7 hours 21 mins|10 days 6 hours 7 mins|12.9|50 mins 21 secs|
+|**Top Four**|2 days 15 hours 4 mins 44 secs|81|46 mins 43 secs|28 days 6 hours 36 mins|10 days 4 hours 40 mins|12.9|50 mins 15 secs|
 |**Under the Radar**|4 days 15 hours 14 mins 33 secs|228|29 mins 16 secs|9 days 13 hours 32 mins|5 days 7 hours 47 mins|38.2|1 hour 33 mins 6 secs|
 |**Ungeniused**|1 day 3 hours 31 mins 44 secs|139|11 mins 52 secs|14 days 2 hours 13 mins|3 days 6 hours 33 mins|25.9|25 mins 38 secs|
 |**Upgrade**|24 days 19 hours 34 mins 49 secs|378|1 hour 34 mins 32 secs|6 days 21 hours 14 mins|19 hours 32 mins 7 secs|53.0|6 hours 57 mins 37 secs|
@@ -72,4 +72,4 @@
 
 New show needs adding - conduit
 New show needs adding - downstream
-Generated at: 12:00:08 26/10/2021
+Generated at: 18:00:05 26/10/2021

@@ -15,7 +15,7 @@ mpu:611
 makedo:89
 material:330
 originality:32
-parallel:60
+parallel:61
 pictorial:46
 presentable:118
 rd:167
@@ -25,7 +25,7 @@ rocket:356
 penaddict:484
 testdrivers:42
 tc:73
-topfour:80
+topfour:81
 radar:228
 ungeniused:139
 upgrade:378
