@@ -1,12 +1,12 @@
 ## Total shows: 46
 
-### Total shows length: 270 days 1 hour 43 mins 7 secs
+### Total shows length: 270 days 3 hours 4 mins 10 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 3 hours 15 mins
+### Yearly output: 36 days 3 hours 18 mins
 
-### Monthly output: 3 days 16 mins 19 secs
+### Monthly output: 3 days 16 mins 32 secs
 
 ## Time untill 1 year of content: 2 years 228 days
 
@@ -28,7 +28,7 @@
 |**Cortex**|8 days 4 hours 9 mins|120|1 hour 38 mins 4 secs|19 days 7 hours 1 min|9 days 3 hours 22 mins|18.9|2 hours 34 mins 37 secs|
 |**Departures**|1 day 1 hour 47 mins 13 secs|7|3 hours 41 mins 1 sec|126 days 12 hours 47 mins|144 days 18 hours 19 mins|2.9|53 mins 7 secs|
 |**Flashback**|17 hours 30 mins 35 secs|22|47 mins 45 secs|29 days 10 hours 42 mins|46 days 23 hours 44 mins|12.4|49 mins 19 secs|
-|**Focused**|6 days 7 hours 8 mins 52 secs|136|1 hour 6 mins 40 secs|14 days 2 hours 30 mins|1 day 4 hours 8 mins|25.9|2 hours 23 mins 48 secs|
+|**Focused**|6 days 8 hours 29 mins 55 secs|137|1 hour 6 mins 47 secs|14 days 2 hours 32 mins|1 day 4 hours 2 mins|25.9|2 hours 24 mins|
 |**Liftoff**|5 days 9 hours 15 mins 41 secs|162|47 mins 52 secs|14 days 26 mins 27 secs|2 days 21 hours 15 mins|26.0|1 hour 43 mins 52 secs|
 |**Mac Power Users**|39 days 9 hours 10 mins 49 secs|611|1 hour 32 mins 48 secs|7 days 11 hours 3 mins|3 days 6 hours 25 mins|48.9|6 hours 18 mins 24 secs|
 |**Make Do**|2 days 15 hours 39 mins 23 secs|89|42 mins 54 secs|14 days 21 hours 3 mins|4 days 21 hours 57 mins|24.5|1 hour 27 mins 44 secs|
@@ -72,4 +72,4 @@
 
 New show needs adding - conduit
 New show needs adding - downstream
-Generated at: 06:00:05 27/10/2021
+Generated at: 12:00:06 27/10/2021
