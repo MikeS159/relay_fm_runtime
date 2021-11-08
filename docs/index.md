@@ -1,14 +1,14 @@
 ## Total shows: 46
 
-### Total shows length: 271 days 5 hours 43 mins 58 secs
+### Total shows length: 271 days 6 hours 31 mins 8 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 3 hours 10 mins
+### Yearly output: 36 days 3 hours 6 mins
 
-### Monthly output: 3 days 15 mins 53 secs
+### Monthly output: 3 days 15 mins 33 secs
 
-## Time untill 1 year of content: 2 years 217 days
+## Time untill 1 year of content: 2 years 216 days
 
 
 -------------------------------------------------
@@ -36,7 +36,7 @@
 |**Originality**|1 day 10 hours 34 mins 1 sec|32|1 hour 4 mins 48 secs|32 days 9 hours 31 mins|37 days 10 hours 56 mins|11.3|1 hour 51 secs|
 |**Parallel**|2 days 7 hours 46 mins 37 secs|62|53 mins 58 secs|19 days 8 hours 16 mins|17 days 12 hours 42 mins|18.9|1 hour 24 mins 52 secs|
 |**Pictorial**|1 day 3 hours 3 mins 24 secs|47|34 mins 32 secs|15 days 5 hours 12 mins|6 days 5 hours 57 mins|24.0|1 hour 9 mins 2 secs|
-|**Presentable**|3 days 20 hours 12 mins 24 secs|119|46 mins 29 secs|16 days 16 hours 29 mins|7 days 2 hours 34 mins|21.9|1 hour 24 mins 44 secs|
+|**Presentable**|3 days 20 hours 59 mins 34 secs|120|46 mins 29 secs|16 days 18 hours 5 mins|7 days 2 hours 45 mins|21.8|1 hour 24 mins 24 secs|
 |**Reconcilable Differences**|12 days 14 hours 51 mins 9 secs|168|1 hour 48 mins 9 secs|14 days 19 mins 56 secs|1 day 20 hours 44 mins|26.0|3 hours 54 mins 45 secs|
 |**Remaster**|4 days 8 mins 49 secs|102|56 mins 33 secs|20 days 23 hours 34 mins|12 days 2 hours 27 mins|17.4|1 hour 21 mins 59 secs|
 |**Roboism**|1 day 10 hours 16 mins 52 secs|49|41 mins 58 secs|34 days 7 mins 11 secs|77 days 11 hours 45 mins|10.7|37 mins 32 secs|
@@ -72,4 +72,4 @@
 
 New show needs adding - conduit
 New show needs adding - downstream
-Generated at: 06:00:06 08/11/2021
+Generated at: 12:00:06 08/11/2021
