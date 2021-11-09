@@ -9,13 +9,13 @@ connected:370
 cortex:121
 departures:7
 flashback:22
-focused:137
+focused:138
 liftoff:162
 mpu:613
 makedo:90
 material:332
 originality:32
-parallel:61
+parallel:62
 pictorial:47
 presentable:119
 rd:168
