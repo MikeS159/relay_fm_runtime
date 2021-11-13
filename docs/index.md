@@ -1,14 +1,14 @@
 ## Total shows: 46
 
-### Total shows length: 271 days 15 hours 12 mins 42 secs
+### Total shows length: 271 days 18 hours 4 mins 57 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 3 hours 14 mins
+### Yearly output: 36 days 3 hours 11 mins
 
-### Monthly output: 3 days 16 mins 11 secs
+### Monthly output: 3 days 15 mins 55 secs
 
-## Time untill 1 year of content: 2 years 213 days
+## Time untill 1 year of content: 2 years 211 days
 
 
 -------------------------------------------------
@@ -32,12 +32,12 @@
 |**Liftoff**|5 days 9 hours 56 mins 36 secs|163|47 mins 49 secs|14 days 26 mins 28 secs|2 days 21 hours 3 mins|26.0|1 hour 43 mins 47 secs|
 |**Mac Power Users**|39 days 12 hours 43 mins 51 secs|613|1 hour 32 mins 51 secs|7 days 11 hours 10 mins|3 days 6 hours 21 mins|48.9|6 hours 18 mins 20 secs|
 |**Make Do**|2 days 16 hours 14 mins 48 secs|90|42 mins 49 secs|14 days 20 hours 49 mins|4 days 21 hours 18 mins|24.5|1 hour 27 mins 37 secs|
-|**Material**|16 days 14 hours 48 mins 28 secs|333|1 hour 11 mins 51 secs|6 days 23 hours 31 mins|1 day 9 hours 26 mins|52.3|5 hours 13 mins 7 secs|
+|**Material**|16 days 16 hours 8 mins|334|1 hour 11 mins 52 secs|6 days 23 hours 36 mins|1 day 9 hours 25 mins|52.3|5 hours 13 mins 4 secs|
 |**Originality**|1 day 10 hours 34 mins 1 sec|32|1 hour 4 mins 48 secs|32 days 9 hours 31 mins|37 days 10 hours 56 mins|11.3|1 hour 51 secs|
 |**Parallel**|2 days 8 hours 35 mins 45 secs|63|53 mins 54 secs|19 days 6 hours 19 mins|17 days 9 hours 34 mins|18.9|1 hour 25 mins 6 secs|
 |**Pictorial**|1 day 3 hours 3 mins 24 secs|47|34 mins 32 secs|15 days 5 hours 12 mins|6 days 5 hours 57 mins|24.0|1 hour 9 mins 2 secs|
 |**Presentable**|3 days 20 hours 59 mins 34 secs|120|46 mins 29 secs|16 days 18 hours 5 mins|7 days 2 hours 45 mins|21.8|1 hour 24 mins 24 secs|
-|**Reconcilable Differences**|12 days 14 hours 51 mins 9 secs|168|1 hour 48 mins 9 secs|14 days 19 mins 56 secs|1 day 20 hours 44 mins|26.0|3 hours 54 mins 45 secs|
+|**Reconcilable Differences**|12 days 16 hours 23 mins 52 secs|169|1 hour 48 mins 4 secs|14 days 20 mins 37 secs|1 day 20 hours 36 mins|26.0|3 hours 54 mins 33 secs|
 |**Remaster**|4 days 8 mins 49 secs|102|56 mins 33 secs|20 days 23 hours 34 mins|12 days 2 hours 27 mins|17.4|1 hour 21 mins 59 secs|
 |**Roboism**|1 day 10 hours 16 mins 52 secs|49|41 mins 58 secs|34 days 7 mins 11 secs|77 days 11 hours 45 mins|10.7|37 mins 32 secs|
 |**Rocket**|16 days 16 hours 37 mins 31 secs|359|1 hour 6 mins 57 secs|6 days 22 hours 46 mins|20 hours 10 mins 54 secs|52.5|4 hours 53 mins 5 secs|
@@ -72,4 +72,4 @@
 
 New show needs adding - conduit
 New show needs adding - downstream
-Generated at: 00:00:03 13/11/2021
+Generated at: 06:00:04 13/11/2021
