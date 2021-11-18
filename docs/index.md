@@ -1,12 +1,12 @@
 ## Total shows: 46
 
-### Total shows length: 272 days 5 hours 23 mins 35 secs
+### Total shows length: 272 days 7 hours 18 mins 37 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 3 hours 22 mins
+### Yearly output: 36 days 3 hours 23 mins
 
-### Monthly output: 3 days 16 mins 50 secs
+### Monthly output: 3 days 16 mins 56 secs
 
 ## Time untill 1 year of content: 2 years 206 days
 
@@ -40,10 +40,10 @@
 |**Reconcilable Differences**|12 days 16 hours 23 mins 52 secs|169|1 hour 48 mins 4 secs|14 days 20 mins 37 secs|1 day 20 hours 36 mins|26.0|3 hours 54 mins 33 secs|
 |**Remaster**|4 days 8 mins 49 secs|102|56 mins 33 secs|20 days 23 hours 34 mins|12 days 2 hours 27 mins|17.4|1 hour 21 mins 59 secs|
 |**Roboism**|1 day 11 hours 14 mins 40 secs|50|42 mins 17 secs|33 days 14 hours 15 mins|76 days 17 hours 57 mins|10.9|38 mins 17 secs|
-|**Rocket**|16 days 16 hours 37 mins 31 secs|359|1 hour 6 mins 57 secs|6 days 22 hours 46 mins|20 hours 10 mins 54 secs|52.5|4 hours 53 mins 5 secs|
+|**Rocket**|16 days 17 hours 36 mins 49 secs|360|1 hour 6 mins 56 secs|6 days 22 hours 47 mins|20 hours 9 mins 17 secs|52.5|4 hours 52 mins 58 secs|
 |**The Pen Addict**|21 days 13 mins 20 secs|488|1 hour 1 min 59 secs|7 days 7 hours 56 mins|3 days 19 hours 59 mins|49.8|4 hours 17 mins 13 secs|
 |**The Test Drivers**|2 days 2 hours 42 mins 11 secs|44|1 hour 9 mins 8 secs|14 days 17 hours 25 mins|4 days 6 hours 14 mins|24.8|2 hours 22 mins 48 secs|
-|**Thoroughly Considered**|2 days 4 hours 3 mins 45 secs|72|43 mins 23 secs|31 days 6 hours 43 mins|13 days 14 hours 2 mins|11.7|42 mins 11 secs|
+|**Thoroughly Considered**|2 days 4 hours 59 mins 29 secs|73|43 mins 33 secs|31 days 6 hours 2 mins|13 days 11 hours 49 mins|11.7|42 mins 23 secs|
 |**Top Four**|2 days 15 hours 4 mins 44 secs|81|46 mins 43 secs|28 days 6 hours 36 mins|10 days 4 hours 40 mins|12.9|50 mins 15 secs|
 |**Under the Radar**|4 days 16 hours 13 mins 49 secs|230|29 mins 16 secs|9 days 14 hours 21 mins|5 days 7 hours 32 mins|38.0|1 hour 32 mins 46 secs|
 |**Ungeniused**|1 day 3 hours 52 mins 21 secs|141|11 mins 51 secs|14 days 4 hours 36 mins|3 days 10 hours 54 mins|25.7|25 mins 25 secs|
@@ -72,4 +72,4 @@
 
 New show needs adding - conduit
 New show needs adding - downstream
-Generated at: 18:00:03 18/11/2021
+Generated at: 00:00:04 19/11/2021
