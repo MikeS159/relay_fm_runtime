@@ -1,14 +1,14 @@
 ## Total shows: 46
 
-### Total shows length: 272 days 1 hour 23 secs
+### Total shows length: 272 days 5 hours 23 mins 35 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 3 hours 15 mins
+### Yearly output: 36 days 3 hours 22 mins
 
-### Monthly output: 3 days 16 mins 19 secs
+### Monthly output: 3 days 16 mins 50 secs
 
-## Time untill 1 year of content: 2 years 208 days
+## Time untill 1 year of content: 2 years 206 days
 
 
 -------------------------------------------------
@@ -25,13 +25,13 @@
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
 |**Clockwise**|7 days 15 hours 9 mins 20 secs|373|29 mins 27 secs|8 days 7 hours 2 mins|23 days 19 hours 29 mins|44.0|1 hour 48 mins 3 secs|
 |**Connected**|22 days 20 hours 55 mins 53 secs|372|1 hour 28 mins 32 secs|7 days 3 hours 20 mins|1 day 4 hours 31 mins|51.1|6 hours 17 mins 13 secs|
-|**Cortex**|8 days 5 hours 48 mins 20 secs|121|1 hour 38 mins 5 secs|19 days 11 hours 34 mins|9 days 8 hours 49 secs|18.7|2 hours 33 mins 8 secs|
+|**Cortex**|8 days 8 hours 34 mins 47 secs|122|1 hour 38 mins 38 secs|19 days 12 hours 6 mins|9 days 7 hours 9 mins|18.7|2 hours 33 mins 50 secs|
 |**Departures**|1 day 1 hour 47 mins 13 secs|7|3 hours 41 mins 1 sec|126 days 12 hours 47 mins|144 days 18 hours 19 mins|2.9|53 mins 7 secs|
 |**Flashback**|17 hours 58 mins 54 secs|23|46 mins 54 secs|28 days 17 hours 49 mins|46 days 31 mins 42 secs|12.7|49 mins 38 secs|
 |**Focused**|6 days 10 hours 4 mins 41 secs|138|1 hour 6 mins 59 secs|14 days 2 hours 29 mins|1 day 3 hours 56 mins|25.9|2 hours 24 mins 28 secs|
 |**Liftoff**|5 days 10 hours 37 mins 25 secs|164|47 mins 47 secs|14 days 25 mins 40 secs|2 days 20 hours 50 mins|26.0|1 hour 43 mins 41 secs|
 |**Mac Power Users**|39 days 14 hours 18 mins 14 secs|614|1 hour 32 mins 51 secs|7 days 11 hours 9 mins|3 days 6 hours 18 mins|48.9|6 hours 18 mins 23 secs|
-|**Make Do**|2 days 16 hours 14 mins 48 secs|90|42 mins 49 secs|14 days 20 hours 49 mins|4 days 21 hours 18 mins|24.5|1 hour 27 mins 37 secs|
+|**Make Do**|2 days 16 hours 51 mins 55 secs|91|42 mins 46 secs|14 days 20 hours 50 mins|4 days 20 hours 39 mins|24.5|1 hour 27 mins 29 secs|
 |**Material**|16 days 16 hours 8 mins|334|1 hour 11 mins 52 secs|6 days 23 hours 36 mins|1 day 9 hours 25 mins|52.3|5 hours 13 mins 4 secs|
 |**Originality**|1 day 10 hours 34 mins 1 sec|32|1 hour 4 mins 48 secs|32 days 9 hours 31 mins|37 days 10 hours 56 mins|11.3|1 hour 51 secs|
 |**Parallel**|2 days 8 hours 35 mins 45 secs|63|53 mins 54 secs|19 days 6 hours 19 mins|17 days 9 hours 34 mins|18.9|1 hour 25 mins 6 secs|
@@ -41,7 +41,7 @@
 |**Remaster**|4 days 8 mins 49 secs|102|56 mins 33 secs|20 days 23 hours 34 mins|12 days 2 hours 27 mins|17.4|1 hour 21 mins 59 secs|
 |**Roboism**|1 day 11 hours 14 mins 40 secs|50|42 mins 17 secs|33 days 14 hours 15 mins|76 days 17 hours 57 mins|10.9|38 mins 17 secs|
 |**Rocket**|16 days 16 hours 37 mins 31 secs|359|1 hour 6 mins 57 secs|6 days 22 hours 46 mins|20 hours 10 mins 54 secs|52.5|4 hours 53 mins 5 secs|
-|**The Pen Addict**|20 days 23 hours 13 mins 42 secs|487|1 hour 1 min 59 secs|7 days 7 hours 55 mins|3 days 20 hours 4 mins|49.8|4 hours 17 mins 16 secs|
+|**The Pen Addict**|21 days 13 mins 20 secs|488|1 hour 1 min 59 secs|7 days 7 hours 56 mins|3 days 19 hours 59 mins|49.8|4 hours 17 mins 13 secs|
 |**The Test Drivers**|2 days 2 hours 42 mins 11 secs|44|1 hour 9 mins 8 secs|14 days 17 hours 25 mins|4 days 6 hours 14 mins|24.8|2 hours 22 mins 48 secs|
 |**Thoroughly Considered**|2 days 4 hours 3 mins 45 secs|72|43 mins 23 secs|31 days 6 hours 43 mins|13 days 14 hours 2 mins|11.7|42 mins 11 secs|
 |**Top Four**|2 days 15 hours 4 mins 44 secs|81|46 mins 43 secs|28 days 6 hours 36 mins|10 days 4 hours 40 mins|12.9|50 mins 15 secs|
@@ -70,5 +70,6 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
+New show needs adding - conduit
 New show needs adding - downstream
-Generated at: 12:00:05 18/11/2021
+Generated at: 18:00:03 18/11/2021
