@@ -1,14 +1,14 @@
 ## Total shows: 46
 
-### Total shows length: 272 days 9 hours 32 mins 17 secs
+### Total shows length: 272 days 10 hours 41 mins 46 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 3 hours 30 mins
+### Yearly output: 36 days 3 hours 29 mins
 
-### Monthly output: 3 days 17 mins 33 secs
+### Monthly output: 3 days 17 mins 25 secs
 
-## Time untill 1 year of content: 2 years 205 days
+## Time untill 1 year of content: 2 years 204 days
 
 
 -------------------------------------------------
@@ -32,7 +32,7 @@
 |**Liftoff**|5 days 10 hours 37 mins 25 secs|164|47 mins 47 secs|14 days 25 mins 40 secs|2 days 20 hours 50 mins|26.0|1 hour 43 mins 41 secs|
 |**Mac Power Users**|39 days 14 hours 18 mins 14 secs|614|1 hour 32 mins 51 secs|7 days 11 hours 9 mins|3 days 6 hours 18 mins|48.9|6 hours 18 mins 23 secs|
 |**Make Do**|2 days 16 hours 51 mins 55 secs|91|42 mins 46 secs|14 days 20 hours 50 mins|4 days 20 hours 39 mins|24.5|1 hour 27 mins 29 secs|
-|**Material**|16 days 16 hours 8 mins|334|1 hour 11 mins 52 secs|6 days 23 hours 36 mins|1 day 9 hours 25 mins|52.3|5 hours 13 mins 4 secs|
+|**Material**|16 days 17 hours 17 mins 29 secs|335|1 hour 11 mins 52 secs|6 days 23 hours 39 mins|1 day 9 hours 23 mins|52.3|5 hours 12 mins 57 secs|
 |**Originality**|1 day 10 hours 34 mins 1 sec|32|1 hour 4 mins 48 secs|32 days 9 hours 31 mins|37 days 10 hours 56 mins|11.3|1 hour 51 secs|
 |**Parallel**|2 days 8 hours 35 mins 45 secs|63|53 mins 54 secs|19 days 6 hours 19 mins|17 days 9 hours 34 mins|18.9|1 hour 25 mins 6 secs|
 |**Pictorial**|1 day 3 hours 36 mins 48 secs|48|34 mins 31 secs|15 days 4 hours 37 mins|6 days 4 hours 24 mins|24.0|1 hour 9 mins 6 secs|
@@ -72,4 +72,4 @@
 
 New show needs adding - conduit
 New show needs adding - downstream
-Generated at: 18:00:03 20/11/2021
+Generated at: 00:00:03 21/11/2021
