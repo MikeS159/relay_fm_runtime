@@ -1,12 +1,12 @@
 ## Total shows: 46
 
-### Total shows length: 272 days 10 hours 41 mins 46 secs
+### Total shows length: 272 days 11 hours 48 mins 13 secs
 
 ## Total active shows: 31
 
-### Yearly output: 36 days 3 hours 29 mins
+### Yearly output: 36 days 3 hours 7 mins
 
-### Monthly output: 3 days 17 mins 25 secs
+### Monthly output: 3 days 15 mins 37 secs
 
 ## Time untill 1 year of content: 2 years 204 days
 
@@ -19,7 +19,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**20 Macs for 2020**|13 hours 20 mins 53 secs|28|28 mins 36 secs|8 days 16 hours 53 mins|7 days 6 hours 15 mins|41.9|1 hour 39 mins 57 secs|
 |**Adapt**|1 day 20 hours 48 mins 45 secs|41|1 hour 5 mins 34 secs|14 days 17 hours 19 mins|3 days 1 hour 12 mins|24.8|2 hours 15 mins 29 secs|
-|**Analog(ue)**|9 days 18 hours 51 mins 22 secs|194|1 hour 12 mins 38 secs|13 days 12 hours 37 mins|7 days 12 hours 7 mins|27.0|2 hours 43 mins 20 secs|
+|**Analog(ue)**|9 days 19 hours 57 mins 49 secs|195|1 hour 12 mins 36 secs|13 days 16 hours 6 mins|7 days 18 hours 4 mins|26.7|2 hours 41 mins 32 secs|
 |**Automators**|4 days 10 hours 10 mins 58 secs|90|1 hour 10 mins 47 secs|13 days 21 hours 23 mins|1 day 1 hour 10 mins|26.3|2 hours 35 mins|
 |**BONANZA**|1 day 14 hours 7 mins 16 secs|39|58 mins 38 secs|58 days 10 hours 33 mins|71 days 20 hours 56 mins|6.2|30 mins 31 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
@@ -72,4 +72,4 @@
 
 New show needs adding - conduit
 New show needs adding - downstream
-Generated at: 12:00:03 21/11/2021
+Generated at: 18:00:04 21/11/2021
