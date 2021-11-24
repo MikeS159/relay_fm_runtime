@@ -1,12 +1,12 @@
 ## Total shows: 46
 
-### Total shows length: 272 days 19 hours 16 mins 22 secs
+### Total shows length: 272 days 19 hours 43 mins 20 secs
 
 ## Total active shows: 31
 
 ### Yearly output: 36 days 2 hours 58 mins
 
-### Monthly output: 3 days 14 mins 53 secs
+### Monthly output: 3 days 14 mins 54 secs
 
 ## Time untill 1 year of content: 2 years 201 days
 
@@ -23,7 +23,7 @@
 |**Automators**|4 days 10 hours 10 mins 58 secs|90|1 hour 10 mins 47 secs|13 days 21 hours 23 mins|1 day 1 hour 10 mins|26.3|2 hours 35 mins|
 |**BONANZA**|1 day 14 hours 7 mins 16 secs|39|58 mins 38 secs|58 days 10 hours 33 mins|71 days 20 hours 56 mins|6.2|30 mins 31 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
-|**Clockwise**|7 days 15 hours 9 mins 20 secs|373|29 mins 27 secs|8 days 7 hours 2 mins|23 days 19 hours 29 mins|44.0|1 hour 48 mins 3 secs|
+|**Clockwise**|7 days 15 hours 36 mins 18 secs|374|29 mins 27 secs|8 days 6 hours 56 mins|23 days 18 hours 43 mins|44.0|1 hour 48 mins 4 secs|
 |**Connected**|22 days 20 hours 55 mins 53 secs|372|1 hour 28 mins 32 secs|7 days 3 hours 20 mins|1 day 4 hours 31 mins|51.1|6 hours 17 mins 13 secs|
 |**Cortex**|8 days 8 hours 34 mins 47 secs|122|1 hour 38 mins 38 secs|19 days 12 hours 6 mins|9 days 7 hours 9 mins|18.7|2 hours 33 mins 50 secs|
 |**Departures**|1 day 1 hour 47 mins 13 secs|7|3 hours 41 mins 1 sec|126 days 12 hours 47 mins|144 days 18 hours 19 mins|2.9|53 mins 7 secs|
@@ -71,5 +71,4 @@
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
 New show needs adding - conduit
-New show needs adding - downstream
-Generated at: 18:00:04 24/11/2021
+Generated at: 00:00:04 25/11/2021
