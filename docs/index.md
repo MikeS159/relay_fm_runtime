@@ -1,6 +1,6 @@
 ## Total shows: 46
 
-### Total shows length: 272 days 18 hours 26 mins 2 secs
+### Total shows length: 272 days 19 hours 16 mins 22 secs
 
 ## Total active shows: 31
 
@@ -41,7 +41,7 @@
 |**Remaster**|4 days 8 mins 49 secs|102|56 mins 33 secs|20 days 23 hours 34 mins|12 days 2 hours 27 mins|17.4|1 hour 21 mins 59 secs|
 |**Roboism**|1 day 11 hours 14 mins 40 secs|50|42 mins 17 secs|33 days 14 hours 15 mins|76 days 17 hours 57 mins|10.9|38 mins 17 secs|
 |**Rocket**|16 days 17 hours 36 mins 49 secs|360|1 hour 6 mins 56 secs|6 days 22 hours 47 mins|20 hours 9 mins 17 secs|52.5|4 hours 52 mins 58 secs|
-|**The Pen Addict**|21 days 13 mins 20 secs|488|1 hour 1 min 59 secs|7 days 7 hours 56 mins|3 days 19 hours 59 mins|49.8|4 hours 17 mins 13 secs|
+|**The Pen Addict**|21 days 1 hour 3 mins 40 secs|489|1 hour 1 min 58 secs|7 days 7 hours 52 mins|3 days 19 hours 53 mins|49.8|4 hours 17 mins 13 secs|
 |**The Test Drivers**|2 days 3 hours 53 mins 19 secs|45|1 hour 9 mins 11 secs|14 days 18 hours 7 mins|4 days 5 hours 11 mins|24.7|2 hours 22 mins 36 secs|
 |**Thoroughly Considered**|2 days 4 hours 59 mins 29 secs|73|43 mins 33 secs|31 days 6 hours 2 mins|13 days 11 hours 49 mins|11.7|42 mins 23 secs|
 |**Top Four**|2 days 15 hours 4 mins 44 secs|81|46 mins 43 secs|28 days 6 hours 36 mins|10 days 4 hours 40 mins|12.9|50 mins 15 secs|
@@ -72,4 +72,4 @@
 
 New show needs adding - conduit
 New show needs adding - downstream
-Generated at: 12:00:05 24/11/2021
+Generated at: 18:00:04 24/11/2021
