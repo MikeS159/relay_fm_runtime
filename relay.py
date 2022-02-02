@@ -97,7 +97,7 @@ def parse_prediction_feed(feed_name, last_checked):
         if (e['id'] == 'http://relay.fm/penaddict/438'):
             length = '5006'
         if (e['id'] == 'http://relay.fm/rocket/362'):
-            length == '3542'
+            length = '3542'
         if(not length):
             print(e['id'])
         total_len += int(float("".join(length.split()))) #2
@@ -126,7 +126,7 @@ def parse_prediction_feed(feed_name, last_checked):
 
 def getShows():
     master_Feed = "https://www.relay.fm/master/feed"
-    d = feedparser.parse(master_Feed)    
+    d = feedparser.parse(master_Feed)
     ents = d['entries']
     newest_Shows = []
     names = []
@@ -150,11 +150,11 @@ def readShowList(path):
         old_shows.append(f.rstrip())
     file = open(path + "currentShows.txt", "r")
     for f in file:
-        showInfo = f.rstrip().split(":")        
+        showInfo = f.rstrip().split(":")
         if(len(showInfo) == 2):
-            showToAdd = Show(name=showInfo[0], lastCheckedEpisode=showInfo[1])            
-            current_shows.append(showToAdd)            
-    return old_shows, current_shows      
+            showToAdd = Show(name=showInfo[0], lastCheckedEpisode=showInfo[1])
+            current_shows.append(showToAdd)
+    return old_shows, current_shows
 
 def compareShows(latest_shows, shows_list):
     needs_update = []
@@ -235,7 +235,7 @@ def main():
 
     for new_show in new_shows:
         file.write("\nNew show needs adding - " + new_show)
-    
+
     current_time = now.strftime("%H:%M:%S %d/%m/%Y")
     file.write("\nGenerated at: " + current_time + "\n")
 
