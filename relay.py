@@ -53,7 +53,7 @@ def parse_feed(feed_name):
     base_feed = 'https://www.relay.fm/'
     end_feed = '/feed'
     total_feed = base_feed + feed_name + end_feed
-    d = feedparser.parse(total_feed)    
+    d = feedparser.parse(total_feed)
     ents = d['entries']
     total_len = 0
     num_shows = len(ents)
@@ -71,7 +71,7 @@ def parse_prediction_feed(feed_name, last_checked):
     base_feed = 'https://www.relay.fm/'
     end_feed = '/feed'
     total_feed = base_feed + feed_name + end_feed
-    d = feedparser.parse(total_feed)    
+    d = feedparser.parse(total_feed)
     ents = d['entries']
     total_len = 0
     num_shows = len(ents)
@@ -87,7 +87,7 @@ def parse_prediction_feed(feed_name, last_checked):
         if int(ss[1]) > int(last_checked):
             update_needed = True
             print("Update Needed")
-    
+
     for e in ents:
         length = e['itunes_duration']
         if (e['id'] == 'http://relay.fm/parallel/39'):
@@ -96,6 +96,8 @@ def parse_prediction_feed(feed_name, last_checked):
             length = '2550'
         if (e['id'] == 'http://relay.fm/penaddict/438'):
             length = '5006'
+        if (e['id'] == 'http://relay.fm/rocket/362'):
+            length == '3542'
         if(not length):
             print(e['id'])
         total_len += int(float("".join(length.split()))) #2
