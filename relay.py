@@ -190,7 +190,10 @@ def main():
     latest_shows = getShows()
     shows_to_update, new_shows = compareShows(latest_shows, shows_list)
 
-    #sys.exit(0)
+    if(len(shows_to_update) == 0):
+        print("No update needed, exiting...")
+        sys.exit(0)
+
     running_total = 0
     yearly_output = 0
     for show in shows_list:
@@ -234,7 +237,7 @@ def main():
         file.write(s)
 
     for new_show in new_shows:
-        file.write("\nNew show needs adding - " + new_show)
+        file.write("\n New show needs adding - " + new_show)
 
     current_time = now.strftime("%H:%M:%S %d/%m/%Y")
     file.write("\nGenerated at: " + current_time + "\n")
