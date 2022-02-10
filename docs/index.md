@@ -1,10 +1,10 @@
 ## Total shows: 48
 
-### Total shows length: 280 days 12 hours 48 mins 54 secs
+### Total shows length: 280 days 13 hours 38 mins 8 secs
 
 ## Total active shows: 29
 
-### Yearly output: 35 days 1 hour 4 mins
+### Yearly output: 35 days 1 hour 6 mins
 
 ### Monthly output: 2 days 22 hours 5 mins
 
@@ -22,7 +22,7 @@
 |**BONANZA**|1 day 15 hours 7 mins 1 sec|40|58 mins 40 secs|67 days 20 hours 11 mins|91 days 14 hours 36 mins|5.4|26 mins 18 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
 |**Clockwise**|7 days 20 hours 58 mins 27 secs|385|29 mins 27 secs|8 days 6 hours 3 mins|23 days 10 hours 31 mins|44.2|1 hour 48 mins 32 secs|
-|**Conduit**|12 hours 31 mins 28 secs|16|46 mins 58 secs|13 days 11 hours 23 mins|2 days 18 mins 11 secs|27.1|1 hour 46 mins 1 sec|
+|**Conduit**|13 hours 20 mins 42 secs|17|47 mins 6 secs|13 days 11 hours 54 mins|1 day 22 hours 48 mins|27.0|1 hour 46 mins 9 secs|
 |**Connected**|23 days 16 hours 27 mins 29 secs|384|1 hour 28 mins 49 secs|7 days 3 hours 14 mins|1 day 4 hours 5 mins|51.2|6 hours 18 mins 39 secs|
 |**Cortex**|8 days 12 hours 12 mins 3 secs|124|1 hour 38 mins 48 secs|19 days 17 hours 47 mins|9 days 10 hours 28 mins|18.5|2 hours 32 mins 14 secs|
 |**Departures**|1 day 1 hour 47 mins 13 secs|7|3 hours 41 mins 1 sec|126 days 12 hours 47 mins|144 days 18 hours 19 mins|2.9|53 mins 7 secs|
@@ -72,4 +72,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:04 10/02/2022
+Generated at: 18:00:05 10/02/2022
