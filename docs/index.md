@@ -1,14 +1,14 @@
 ## Total shows: 48
 
-### Total shows length: 284 days 4 hours 14 mins 43 secs
+### Total shows length: 284 days 6 hours 39 mins 9 secs
 
 ## Total active shows: 29
 
-### Yearly output: 35 days 1 hour 56 mins
+### Yearly output: 35 days 2 hours 2 mins
 
-### Monthly output: 2 days 22 hours 9 mins
+### Monthly output: 2 days 22 hours 10 mins
 
-## Time untill 1 year of content: 2 years 110 days
+## Time untill 1 year of content: 2 years 109 days
 
 
 -------------------------------------------------
@@ -21,9 +21,9 @@
 |**Automators**|4 days 22 hours 33 mins 16 secs|98|1 hour 12 mins 35 secs|13 days 21 hours 37 mins|1 day 10 mins 32 secs|26.3|2 hours 38 mins 49 secs|
 |**BONANZA**|1 day 15 hours 7 mins 1 sec|40|58 mins 40 secs|67 days 20 hours 11 mins|91 days 14 hours 36 mins|5.4|26 mins 18 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
-|**Clockwise**|7 days 23 hours 27 mins 59 secs|390|29 mins 27 secs|8 days 5 hours 41 mins|23 days 6 hours 54 mins|44.3|1 hour 48 mins 46 secs|
+|**Clockwise**|7 days 23 hours 57 mins 58 secs|391|29 mins 27 secs|8 days 5 hours 35 mins|23 days 6 hours 11 mins|44.3|1 hour 48 mins 49 secs|
 |**Conduit**|15 hours 23 mins 19 secs|19|48 mins 35 secs|13 days 13 hours 15 mins|1 day 20 hours 18 mins|26.9|1 hour 49 mins 3 secs|
-|**Connected**|23 days 23 hours 48 mins 3 secs|389|1 hour 28 mins 48 secs|7 days 3 hours 14 mins|1 day 3 hours 55 mins|51.2|6 hours 18 mins 35 secs|
+|**Connected**|24 days 1 hour 42 mins 30 secs|390|1 hour 28 mins 52 secs|7 days 3 hours 11 mins|1 day 3 hours 54 mins|51.2|6 hours 19 mins|
 |**Cortex**|8 days 15 hours 18 mins 31 secs|126|1 hour 38 mins 43 secs|19 days 18 hours 12 mins|9 days 9 hours 26 mins|18.5|2 hours 31 mins 58 secs|
 |**Departures**|1 day 1 hour 47 mins 13 secs|7|3 hours 41 mins 1 sec|126 days 12 hours 47 mins|144 days 18 hours 19 mins|2.9|53 mins 7 secs|
 |**Downstream**|15 hours 4 mins 14 secs|14|1 hour 4 mins 35 secs|13 days 9 hours 20 mins|1 day 20 hours 30 mins|27.3|2 hours 26 mins 43 secs|
@@ -73,4 +73,4 @@
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
  New show needs adding - backmarkers
-Generated at: 18:00:03 23/03/2022
+Generated at: 00:00:04 24/03/2022
