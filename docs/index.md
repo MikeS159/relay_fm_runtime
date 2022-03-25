@@ -1,14 +1,14 @@
 ## Total shows: 48
 
-### Total shows length: 284 days 12 hours 17 mins 3 secs
+### Total shows length: 284 days 13 hours 48 mins 6 secs
 
 ## Total active shows: 29
 
-### Yearly output: 35 days 2 hours 19 mins
+### Yearly output: 35 days 2 hours 24 mins
 
-### Monthly output: 2 days 22 hours 11 mins
+### Monthly output: 2 days 22 hours 12 mins
 
-## Time untill 1 year of content: 2 years 107 days
+## Time untill 1 year of content: 2 years 106 days
 
 
 -------------------------------------------------
@@ -18,7 +18,7 @@
 |Show|Total Length|Number of Shows|Average Length|Average Gap|Standard Deviation|Shows Per Year|Monthly Show Output|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**Analog(ue)**|10 days 1 hour 27 mins 34 secs|199|1 hour 12 mins 48 secs|13 days 22 hours 8 mins|7 days 21 hours 14 mins|26.2|2 hours 39 mins 2 secs|
-|**Automators**|4 days 22 hours 33 mins 16 secs|98|1 hour 12 mins 35 secs|13 days 21 hours 37 mins|1 day 10 mins 32 secs|26.3|2 hours 38 mins 49 secs|
+|**Automators**|5 days 4 mins 19 secs|99|1 hour 12 mins 46 secs|13 days 21 hours 35 mins|1 day 3 mins 14 secs|26.3|2 hours 39 mins 14 secs|
 |**BONANZA**|1 day 15 hours 7 mins 1 sec|40|58 mins 40 secs|67 days 20 hours 11 mins|91 days 14 hours 36 mins|5.4|26 mins 18 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
 |**Clockwise**|7 days 23 hours 57 mins 58 secs|391|29 mins 27 secs|8 days 5 hours 35 mins|23 days 6 hours 11 mins|44.3|1 hour 48 mins 49 secs|
@@ -73,4 +73,4 @@
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
  New show needs adding - backmarkers
-Generated at: 18:00:02 25/03/2022
+Generated at: 00:00:03 26/03/2022
