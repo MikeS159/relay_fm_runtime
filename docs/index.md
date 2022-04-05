@@ -1,14 +1,14 @@
 ## Total shows: 48
 
-### Total shows length: 285 days 8 hours 44 mins 52 secs
+### Total shows length: 285 days 10 hours 18 mins 4 secs
 
 ## Total active shows: 29
 
-### Yearly output: 35 days 2 hours 35 mins
+### Yearly output: 35 days 3 hours 5 mins
 
-### Monthly output: 2 days 22 hours 12 mins
+### Monthly output: 2 days 22 hours 15 mins
 
-## Time untill 1 year of content: 2 years 97 days
+## Time untill 1 year of content: 2 years 96 days
 
 
 -------------------------------------------------
@@ -26,7 +26,7 @@
 |**Connected**|24 days 3 hours 10 mins 17 secs|391|1 hour 28 mins 52 secs|7 days 3 hours 10 mins|1 day 3 hours 52 mins|51.2|6 hours 19 mins 1 sec|
 |**Cortex**|8 days 16 hours 45 mins 56 secs|127|1 hour 38 mins 37 secs|19 days 18 hours 40 mins|9 days 8 hours 36 mins|18.5|2 hours 31 mins 40 secs|
 |**Departures**|1 day 1 hour 47 mins 13 secs|7|3 hours 41 mins 1 sec|126 days 12 hours 47 mins|144 days 18 hours 19 mins|2.9|53 mins 7 secs|
-|**Downstream**|15 hours 4 mins 14 secs|14|1 hour 4 mins 35 secs|13 days 9 hours 20 mins|1 day 20 hours 30 mins|27.3|2 hours 26 mins 43 secs|
+|**Downstream**|16 hours 27 mins 17 secs|15|1 hour 5 mins 49 secs|13 days 10 hours 3 mins|1 day 18 hours 57 mins|27.2|2 hours 29 mins 11 secs|
 |**Focused**|6 days 23 hours 18 mins 25 secs|148|1 hour 7 mins 49 secs|14 days 2 hours 16 mins|1 day 2 hours 59 mins|25.9|2 hours 26 mins 22 secs|
 |**Liftoff**|5 days 12 hours 20 mins 48 secs|167|47 mins 32 secs|14 days 17 mins 10 secs|2 days 20 hours 14 mins|26.0|1 hour 43 mins 13 secs|
 |**Mac Power Users**|41 days 13 mins 6 secs|634|1 hour 33 mins 8 secs|7 days 10 hours 48 mins|3 days 5 hours 5 mins|49.0|6 hours 20 mins 16 secs|
@@ -44,7 +44,7 @@
 |**Thoroughly Considered**|2 days 8 hours 54 mins 45 secs|77|44 mins 20 secs|31 days 6 hours 16 mins|13 days 4 hours 52 mins|11.7|43 mins 8 secs|
 |**Top Four**|2 days 18 hours 40 mins 15 secs|86|46 mins 30 secs|28 days 10 hours 9 mins|10 days 25 mins|12.8|49 mins 46 secs|
 |**Under the Radar**|4 days 20 hours 41 mins 48 secs|239|29 mins 17 secs|9 days 19 hours 56 mins|5 days 9 hours 59 mins|37.1|1 hour 30 mins 38 secs|
-|**Ungeniused**|1 day 4 hours 57 mins 53 secs|147|11 mins 49 secs|14 days 11 hours 18 mins|3 days 21 hours 49 mins|25.2|24 mins 50 secs|
+|**Ungeniused**|1 day 5 hours 8 mins 2 secs|148|11 mins 48 secs|14 days 11 hours 13 mins|3 days 21 hours 30 mins|25.2|24 mins 49 secs|
 |**Upgrade**|26 days 8 hours 22 mins 3 secs|401|1 hour 34 mins 37 secs|6 days 21 hours 24 mins|19 hours 5 mins 32 secs|53.0|6 hours 57 mins 35 secs|
 
 -------------------------------------------------
@@ -73,4 +73,4 @@
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
  New show needs adding - backmarkers
-Generated at: 00:00:06 05/04/2022
+Generated at: 18:00:04 05/04/2022
