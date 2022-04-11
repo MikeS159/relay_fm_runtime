@@ -1,14 +1,14 @@
 ## Total shows: 48
 
-### Total shows length: 285 days 21 hours 15 mins 16 secs
+### Total shows length: 285 days 23 hours 40 mins 31 secs
 
 ## Total active shows: 29
 
-### Yearly output: 35 days 3 hours 30 mins
+### Yearly output: 34 days 22 hours 19 mins
 
-### Monthly output: 2 days 22 hours 17 mins
+### Monthly output: 2 days 21 hours 51 mins
 
-## Time untill 1 year of content: 2 years 91 days
+## Time untill 1 year of content: 2 years 95 days
 
 
 -------------------------------------------------
@@ -32,7 +32,7 @@
 |**Mac Power Users**|41 days 1 hour 47 mins 18 secs|635|1 hour 33 mins 8 secs|7 days 10 hours 47 mins|3 days 5 hours 1 min|49.0|6 hours 20 mins 19 secs|
 |**Make Do**|2 days 22 hours 25 mins 11 secs|100|42 mins 15 secs|14 days 22 hours 8 mins|4 days 18 hours 42 mins|24.5|1 hour 26 mins 7 secs|
 |**Material**|17 days 16 hours 25 mins 27 secs|355|1 hour 11 mins 44 secs|6 days 23 hours 33 mins|1 day 8 hours 57 mins|52.3|5 hours 12 mins 31 secs|
-|**Originality**|1 day 10 hours 34 mins 1 sec|32|1 hour 4 mins 48 secs|32 days 9 hours 31 mins|37 days 10 hours 56 mins|11.3|1 hour 51 secs|
+|**Originality**|1 day 11 hours 26 mins 18 secs|33|1 hour 4 mins 26 secs|56 days 7 mins 1 sec|136 days 12 hours 23 mins|6.5|34 mins 59 secs|
 |**Parallel**|2 days 13 hours 51 mins 30 secs|70|53 mins 1 sec|19 days 3 hours 17 mins|16 days 14 hours 18 mins|19.1|1 hour 24 mins 16 secs|
 |**Pictorial**|1 day 8 hours 5 mins 11 secs|56|34 mins 22 secs|15 days 6 hours 31 mins|5 days 23 hours 23 mins|23.9|1 hour 8 mins 28 secs|
 |**Reconcilable Differences**|13 days 9 hours 42 mins 40 secs|179|1 hour 47 mins 50 secs|14 days 3 mins 32 secs|1 day 19 hours 36 mins|26.1|3 hours 54 mins 14 secs|
@@ -45,7 +45,7 @@
 |**Top Four**|2 days 19 hours 25 mins 14 secs|87|46 mins 29 secs|28 days 5 hours 52 secs|10 days 3 hours 40 mins|12.9|50 mins 8 secs|
 |**Under the Radar**|4 days 20 hours 41 mins 48 secs|239|29 mins 17 secs|9 days 19 hours 56 mins|5 days 9 hours 59 mins|37.1|1 hour 30 mins 38 secs|
 |**Ungeniused**|1 day 5 hours 8 mins 2 secs|148|11 mins 48 secs|14 days 11 hours 13 mins|3 days 21 hours 30 mins|25.2|24 mins 49 secs|
-|**Upgrade**|26 days 8 hours 22 mins 3 secs|401|1 hour 34 mins 37 secs|6 days 21 hours 24 mins|19 hours 5 mins 32 secs|53.0|6 hours 57 mins 35 secs|
+|**Upgrade**|26 days 9 hours 55 mins 1 sec|402|1 hour 34 mins 36 secs|6 days 21 hours 24 mins|19 hours 4 mins 8 secs|53.0|6 hours 57 mins 33 secs|
 
 -------------------------------------------------
 
@@ -73,4 +73,4 @@
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
  New show needs adding - backmarkers
-Generated at: 00:00:03 11/04/2022
+Generated at: 00:00:04 12/04/2022
