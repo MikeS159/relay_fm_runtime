@@ -1,14 +1,14 @@
 ## Total shows: 48
 
-### Total shows length: 286 days 9 hours 35 mins 53 secs
+### Total shows length: 286 days 13 hours 4 mins 39 secs
 
 ## Total active shows: 29
 
-### Yearly output: 34 days 22 hours 19 mins
+### Yearly output: 34 days 22 hours 5 mins
 
-### Monthly output: 2 days 21 hours 51 mins
+### Monthly output: 2 days 21 hours 50 mins
 
-## Time untill 1 year of content: 2 years 91 days
+## Time untill 1 year of content: 2 years 90 days
 
 
 -------------------------------------------------
@@ -17,7 +17,7 @@
 ## Active Shows
 |Show|Total Length|Number of Shows|Average Length|Average Gap|Standard Deviation|Shows Per Year|Monthly Show Output|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**Analog(ue)**|10 days 1 hour 27 mins 34 secs|199|1 hour 12 mins 48 secs|13 days 22 hours 8 mins|7 days 21 hours 14 mins|26.2|2 hours 39 mins 2 secs|
+|**Analog(ue)**|10 days 3 hours 17 mins 24 secs|200|1 hour 12 mins 59 secs|14 days 1 hour 37 mins|8 days 3 hours 1 min|25.9|2 hours 37 mins 48 secs|
 |**Automators**|5 days 1 hour 47 mins 20 secs|100|1 hour 13 mins 4 secs|13 days 21 hours 38 mins|23 hours 56 mins 10 secs|26.3|2 hours 39 mins 52 secs|
 |**BONANZA**|1 day 15 hours 7 mins 1 sec|40|58 mins 40 secs|67 days 20 hours 11 mins|91 days 14 hours 36 mins|5.4|26 mins 18 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
@@ -29,7 +29,7 @@
 |**Downstream**|16 hours 27 mins 17 secs|15|1 hour 5 mins 49 secs|13 days 10 hours 3 mins|1 day 18 hours 57 mins|27.2|2 hours 29 mins 11 secs|
 |**Focused**|7 days 31 mins 11 secs|149|1 hour 7 mins 51 secs|14 days 2 hours 16 mins|1 day 2 hours 54 mins|25.9|2 hours 26 mins 26 secs|
 |**Liftoff**|5 days 12 hours 20 mins 48 secs|167|47 mins 32 secs|14 days 17 mins 10 secs|2 days 20 hours 14 mins|26.0|1 hour 43 mins 13 secs|
-|**Mac Power Users**|41 days 1 hour 47 mins 18 secs|635|1 hour 33 mins 8 secs|7 days 10 hours 47 mins|3 days 5 hours 1 min|49.0|6 hours 20 mins 19 secs|
+|**Mac Power Users**|41 days 3 hours 26 mins 14 secs|636|1 hour 33 mins 9 secs|7 days 10 hours 46 mins|3 days 4 hours 57 mins|49.0|6 hours 20 mins 23 secs|
 |**Make Do**|2 days 22 hours 25 mins 11 secs|100|42 mins 15 secs|14 days 22 hours 8 mins|4 days 18 hours 42 mins|24.5|1 hour 26 mins 7 secs|
 |**Material**|17 days 17 hours 46 mins 49 secs|356|1 hour 11 mins 45 secs|6 days 23 hours 37 mins|1 day 8 hours 55 mins|52.3|5 hours 12 mins 31 secs|
 |**Originality**|1 day 11 hours 26 mins 18 secs|33|1 hour 4 mins 26 secs|56 days 7 mins 1 sec|136 days 12 hours 23 mins|6.5|34 mins 59 secs|
@@ -73,4 +73,4 @@
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
  New show needs adding - backmarkers
-Generated at: 06:00:02 16/04/2022
+Generated at: 00:00:03 18/04/2022
