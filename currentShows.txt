@@ -1,5 +1,5 @@
 analogue:200
-automators:99
+automators:100
 bonanza:40
 b-sides:43
 clockwise:447
