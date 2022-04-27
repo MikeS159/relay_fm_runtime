@@ -1,14 +1,14 @@
 ## Total shows: 49
 
-### Total shows length: 287 days 16 hours 10 mins 5 secs
+### Total shows length: 287 days 18 hours 8 mins 33 secs
 
 ## Total active shows: 30
 
-### Yearly output: 36 days 7 hours 3 mins
+### Yearly output: 36 days 7 hours 4 mins
 
-### Monthly output: 3 days 35 mins 18 secs
+### Monthly output: 3 days 35 mins 21 secs
 
-## Time untill 1 year of content: 2 years 47 days
+## Time untill 1 year of content: 2 years 46 days
 
 
 -------------------------------------------------
@@ -21,9 +21,9 @@
 |**Automators**|5 days 3 hours 11 mins 45 secs|101|1 hour 13 mins 11 secs|13 days 21 hours 44 mins|23 hours 50 mins 4 secs|26.2|2 hours 40 mins 5 secs|
 |**BONANZA**|1 day 15 hours 7 mins 1 sec|40|58 mins 40 secs|67 days 20 hours 11 mins|91 days 14 hours 36 mins|5.4|26 mins 18 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
-|**Clockwise**|8 days 1 hour 54 mins 19 secs|395|29 mins 27 secs|8 days 5 hours 17 mins|23 days 3 hours 21 mins|44.4|1 hour 48 mins 58 secs|
+|**Clockwise**|8 days 2 hours 24 mins 14 secs|396|29 mins 27 secs|8 days 5 hours 13 mins|23 days 2 hours 39 mins|44.4|1 hour 49 mins 1 sec|
 |**Conduit**|18 hours 24 mins 28 secs|22|50 mins 12 secs|13 days 14 hours 45 mins|1 day 17 hours 10 mins|26.8|1 hour 52 mins 9 secs|
-|**Connected**|24 days 7 hours 36 mins 47 secs|394|1 hour 28 mins 52 secs|7 days 3 hours 8 mins|1 day 3 hours 46 mins|51.2|6 hours 19 mins 4 secs|
+|**Connected**|24 days 9 hours 5 mins 20 secs|395|1 hour 28 mins 52 secs|7 days 3 hours 8 mins|1 day 3 hours 44 mins|51.2|6 hours 19 mins 5 secs|
 |**Cortex**|8 days 18 hours 10 mins 15 secs|128|1 hour 38 mins 31 secs|19 days 20 hours 13 mins|9 days 8 hours 24 mins|18.4|2 hours 31 mins|
 |**Departures**|1 day 1 hour 47 mins 13 secs|7|3 hours 41 mins 1 sec|126 days 12 hours 47 mins|144 days 18 hours 19 mins|2.9|53 mins 7 secs|
 |**Downstream**|18 hours 12 mins 52 secs|17|1 hour 4 mins 17 secs|12 days 19 hours 36 mins|3 days 1 hour 31 mins|28.5|2 hours 32 mins 33 secs|
@@ -73,4 +73,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 18:00:04 27/04/2022
+Generated at: 00:00:06 28/04/2022
