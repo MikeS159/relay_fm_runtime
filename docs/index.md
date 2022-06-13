@@ -1,14 +1,14 @@
 ## Total shows: 49
 
-### Total shows length: 291 days 21 hours 21 mins 35 secs
+### Total shows length: 292 days 1 hour 1 min 44 secs
 
 ## Total active shows: 30
 
-### Yearly output: 36 days 8 hours 53 mins
+### Yearly output: 36 days 8 hours 58 mins
 
-### Monthly output: 3 days 44 mins 25 secs
+### Monthly output: 3 days 44 mins 53 secs
 
-## Time untill 1 year of content: 2 years 3 days
+## Time untill 1 year of content: 2 years 2 days
 
 
 -------------------------------------------------
@@ -24,7 +24,7 @@
 |**Clockwise**|8 days 5 hours 18 mins 35 secs|402|29 mins 26 secs|8 days 4 hours 54 mins|22 days 22 hours 29 mins|44.5|1 hour 49 mins 10 secs|
 |**Conduit**|21 hours 29 mins 49 secs|25|51 mins 35 secs|13 days 15 hours 53 mins|1 day 14 hours 38 mins|26.7|1 hour 54 mins 51 secs|
 |**Connected**|24 days 18 hours 6 mins 24 secs|401|1 hour 28 mins 53 secs|7 days 3 hours 3 mins|1 day 3 hours 32 mins|51.2|6 hours 19 mins 22 secs|
-|**Cortex**|8 days 19 hours 40 mins 55 secs|129|1 hour 38 mins 27 secs|19 days 21 hours 33 mins|9 days 8 hours 1 min|18.3|2 hours 30 mins 30 secs|
+|**Cortex**|8 days 21 hours 23 mins 42 secs|130|1 hour 38 mins 29 secs|19 days 21 hours 28 mins|9 days 7 hours 9 mins|18.3|2 hours 30 mins 34 secs|
 |**Departures**|1 day 1 hour 47 mins 13 secs|7|3 hours 41 mins 1 sec|126 days 12 hours 47 mins|144 days 18 hours 19 mins|2.9|53 mins 7 secs|
 |**Downstream**|21 hours 56 mins 42 secs|20|1 hour 5 mins 50 secs|12 days 20 hours 17 mins|2 days 19 hours 54 mins|28.4|2 hours 35 mins 53 secs|
 |**Focused**|7 days 5 hours 25 mins 33 secs|153|1 hour 8 mins|14 days 2 hours 11 mins|1 day 2 hours 33 mins|25.9|2 hours 26 mins 48 secs|
@@ -46,7 +46,7 @@
 |**Top Four**|2 days 20 hours 18 mins 9 secs|88|46 mins 34 secs|28 days 11 hours 55 mins|10 days 10 hours 35 mins|12.8|49 mins 42 secs|
 |**Under the Radar**|4 days 23 hours 25 mins 8 secs|244|29 mins 21 secs|9 days 21 hours 46 mins|5 days 9 hours 22 mins|36.8|1 hour 30 mins 9 secs|
 |**Ungeniused**|1 day 5 hours 53 mins 15 secs|152|11 mins 47 secs|14 days 10 hours 56 mins|3 days 20 hours 17 mins|25.2|24 mins 49 secs|
-|**Upgrade**|26 days 22 hours 25 mins 40 secs|410|1 hour 34 mins 35 secs|6 days 21 hours 28 mins|18 hours 53 mins 25 secs|52.9|6 hours 57 mins 18 secs|
+|**Upgrade**|27 days 23 mins 2 secs|411|1 hour 34 mins 39 secs|6 days 21 hours 25 mins|18 hours 54 mins 26 secs|53.0|6 hours 57 mins 42 secs|
 
 -------------------------------------------------
 
@@ -73,4 +73,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:04 13/06/2022
+Generated at: 06:00:04 13/06/2022
