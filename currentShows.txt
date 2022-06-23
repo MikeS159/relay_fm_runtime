@@ -4,9 +4,9 @@ bonanza:40
 b-sides:43
 clockwise:456
 conduit:25
-connected:402
+connected:403
 cortex:130
-departures:7
+departures:8
 downstream:20
 focused:154
 liftoff:168
