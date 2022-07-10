@@ -1,14 +1,14 @@
 ## Total shows: 49
 
-### Total shows length: 294 days 3 hours 57 mins 47 secs
+### Total shows length: 294 days 7 hours 43 mins 24 secs
 
 ## Total active shows: 30
 
-### Yearly output: 36 days 2 hours 12 mins
+### Yearly output: 36 days 3 hours 8 mins
 
-### Monthly output: 3 days 11 mins
+### Monthly output: 3 days 15 mins 40 secs
 
-## Time untill 1 year of content: 1 year 351 days
+## Time untill 1 year of content: 1 year 349 days
 
 
 -------------------------------------------------
@@ -17,7 +17,7 @@
 ## Active Shows
 |Show|Total Length|Number of Shows|Average Length|Average Gap|Standard Deviation|Shows Per Year|Monthly Show Output|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**Analog(ue)**|10 days 6 hours 14 mins 40 secs|202|1 hour 13 mins 8 secs|14 days 5 hours 44 mins|8 days 6 hours 33 mins|25.6|2 hours 36 mins 14 secs|
+|**Analog(ue)**|10 days 7 hours 41 mins 10 secs|203|1 hour 13 mins 12 secs|14 days 6 hours 34 mins|8 days 6 hours 24 mins|25.6|2 hours 35 mins 59 secs|
 |**Automators**|5 days 10 hours 14 mins 26 secs|106|1 hour 13 mins 43 secs|13 days 21 hours 51 mins|23 hours 16 mins 56 secs|26.2|2 hours 41 mins 11 secs|
 |**BONANZA**|1 day 15 hours 7 mins 1 sec|40|58 mins 40 secs|67 days 20 hours 11 mins|91 days 14 hours 36 mins|5.4|26 mins 18 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
@@ -29,7 +29,7 @@
 |**Downstream**|1 day 17 mins 34 secs|22|1 hour 6 mins 15 secs|12 days 22 hours 54 mins|2 days 17 hours 5 mins|28.2|2 hours 35 mins 33 secs|
 |**Focused**|7 days 7 hours 48 mins 45 secs|155|1 hour 8 mins 3 secs|14 days 2 hours 11 mins|1 day 2 hours 23 mins|25.9|2 hours 26 mins 54 secs|
 |**Liftoff**|5 days 13 hours 28 mins 3 secs|169|47 mins 23 secs|14 days 12 hours 31 mins|8 days 4 hours 46 mins|25.1|1 hour 39 mins 14 secs|
-|**Mac Power Users**|41 days 20 hours 46 mins 21 secs|647|1 hour 33 mins 10 secs|7 days 10 hours 35 mins|3 days 4 hours 20 mins|49.1|6 hours 20 mins 52 secs|
+|**Mac Power Users**|41 days 22 hours 16 mins 46 secs|648|1 hour 33 mins 10 secs|7 days 10 hours 34 mins|3 days 4 hours 16 mins|49.1|6 hours 20 mins 53 secs|
 |**Make Do**|3 days 24 mins 44 secs|103|42 mins 10 secs|15 days 2 hours 24 mins|4 days 23 hours 22 mins|24.2|1 hour 24 mins 58 secs|
 |**Material**|18 days 8 hours 35 mins 30 secs|368|1 hour 11 mins 50 secs|6 days 23 hours 42 mins|1 day 8 hours 37 mins|52.2|5 hours 12 mins 41 secs|
 |**Originality**|1 day 13 hours 9 mins 17 secs|35|1 hour 3 mins 41 secs|54 days 20 hours 32 mins|132 days 13 hours 10 mins|6.7|35 mins 19 secs|
@@ -39,7 +39,7 @@
 |**Remaster**|4 days 7 hours 24 mins 56 secs|109|56 mins 55 secs|21 days 13 hours 34 mins|11 days 23 hours 47 mins|16.9|1 hour 20 mins 17 secs|
 |**Roboism**|1 day 19 hours 40 mins 12 secs|59|44 mins 24 secs|32 days 10 hours 4 mins|70 days 19 hours 9 mins|11.3|41 mins 39 secs|
 |**Rocket**|18 days 3 hours 20 mins 11 secs|393|1 hour 6 mins 27 secs|6 days 22 hours 53 mins|19 hours 21 mins 54 secs|52.5|4 hours 50 mins 43 secs|
-|**The Backmarkers**|9 hours 12 mins 29 secs|9|1 hour 1 min 23 secs|13 days 3 hours 5 mins|4 days 4 hours 48 mins|27.8|2 hours 22 mins 13 secs|
+|**The Backmarkers**|10 hours 1 min 11 secs|10|1 hour 7 secs|12 days 10 hours 20 mins|4 days 10 hours 12 mins|29.4|2 hours 27 mins 6 secs|
 |**The Pen Addict**|22 days 10 hours 20 mins 16 secs|520|1 hour 2 mins 6 secs|7 days 7 hours 43 mins|3 days 17 hours 23 mins|49.9|4 hours 18 mins 2 secs|
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|15 days 1 hour 31 mins|4 days 3 hours 15 mins|24.2|2 hours 17 mins 42 secs|
 |**Thoroughly Considered**|2 days 10 hours 55 mins 19 secs|80|44 mins 11 secs|31 days 7 hours 23 mins|13 days 29 mins 34 secs|11.7|42 mins 55 secs|
@@ -73,4 +73,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 06:00:06 10/07/2022
+Generated at: 00:00:04 11/07/2022
