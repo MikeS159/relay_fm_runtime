@@ -1,5 +1,5 @@
 analogue:203
-automators:105
+automators:106
 bonanza:40
 b-sides:43
 clockwise:459
@@ -12,7 +12,7 @@ focused:155
 liftoff:168
 mpu:648
 makedo:103
-material:367
+material:368
 originality:35
 parallel:73
 pictorial:62
