@@ -1,12 +1,12 @@
 ## Total shows: 49
 
-### Total shows length: 295 days 20 hours 40 mins 59 secs
+### Total shows length: 295 days 21 hours 23 mins 27 secs
 
 ## Total active shows: 30
 
-### Yearly output: 36 days 1 hour 25 mins
+### Yearly output: 36 days 1 hour 24 mins
 
-### Monthly output: 3 days 7 mins 8 secs
+### Monthly output: 3 days 7 mins 4 secs
 
 ## Time untill 1 year of content: 1 year 334 days
 
@@ -43,7 +43,7 @@
 |**The Pen Addict**|22 days 13 hours 19 mins 16 secs|523|1 hour 2 mins 6 secs|7 days 7 hours 40 mins|3 days 17 hours 8 mins|49.9|4 hours 18 mins 2 secs|
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|15 days 1 hour 31 mins|4 days 3 hours 15 mins|24.2|2 hours 17 mins 42 secs|
 |**Thoroughly Considered**|2 days 11 hours 55 mins 4 secs|81|44 mins 23 secs|31 days 3 hours 39 mins|13 days 18 mins 25 secs|11.7|43 mins 20 secs|
-|**Top Four**|2 days 21 hours 3 mins 43 secs|89|46 mins 33 secs|28 days 12 hours 18 mins|10 days 9 hours 11 mins|12.8|49 mins 40 secs|
+|**Top Four**|2 days 21 hours 46 mins 11 secs|90|46 mins 30 secs|28 days 12 hours 39 mins|10 days 7 hours 48 mins|12.8|49 mins 35 secs|
 |**Under the Radar**|5 days 53 mins 31 secs|247|29 mins 21 secs|9 days 23 hours 5 mins|5 days 9 hours 12 mins|36.6|1 hour 29 mins 39 secs|
 |**Ungeniused**|1 day 6 hours 21 mins 29 secs|155|11 mins 45 secs|14 days 12 hours 54 mins|3 days 23 hours 3 mins|25.1|24 mins 35 secs|
 |**Upgrade**|27 days 10 hours 12 mins 23 secs|417|1 hour 34 mins 42 secs|6 days 21 hours 29 mins|18 hours 55 mins 41 secs|52.9|6 hours 57 mins 45 secs|
@@ -73,4 +73,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 06:00:03 30/07/2022
+Generated at: 18:00:03 30/07/2022
