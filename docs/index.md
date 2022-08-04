@@ -1,12 +1,12 @@
 ## Total shows: 49
 
-### Total shows length: 296 days 7 hours 25 mins 35 secs
+### Total shows length: 296 days 8 hours 29 mins 57 secs
 
 ## Total active shows: 30
 
-### Yearly output: 36 days 2 hours 25 mins
+### Yearly output: 36 days 2 hours 24 mins
 
-### Monthly output: 3 days 12 mins 6 secs
+### Monthly output: 3 days 12 mins 4 secs
 
 ## Time untill 1 year of content: 1 year 329 days
 
@@ -38,7 +38,7 @@
 |**Reconcilable Differences**|13 days 23 hours 26 mins 14 secs|187|1 hour 47 mins 37 secs|14 days 18 mins 3 secs|1 day 19 hours 21 mins|26.0|3 hours 53 mins 37 secs|
 |**Remaster**|4 days 7 hours 24 mins 56 secs|109|56 mins 55 secs|21 days 13 hours 34 mins|11 days 23 hours 47 mins|16.9|1 hour 20 mins 17 secs|
 |**Roboism**|1 day 19 hours 40 mins 12 secs|59|44 mins 24 secs|32 days 10 hours 4 mins|70 days 19 hours 9 mins|11.3|41 mins 39 secs|
-|**Rocket**|18 days 6 hours 10 mins 48 secs|396|1 hour 6 mins 23 secs|6 days 22 hours 53 mins|19 hours 17 mins 29 secs|52.5|4 hours 50 mins 24 secs|
+|**Rocket**|18 days 7 hours 15 mins 10 secs|397|1 hour 6 mins 23 secs|6 days 22 hours 53 mins|19 hours 16 mins 2 secs|52.5|4 hours 50 mins 23 secs|
 |**The Backmarkers**|11 hours 45 mins 29 secs|12|58 mins 47 secs|12 days 1 hour 58 mins|4 days 8 hours 1 min|30.2|2 hours 28 mins|
 |**The Pen Addict**|22 days 14 hours 16 mins 30 secs|524|1 hour 2 mins 5 secs|7 days 7 hours 40 mins|3 days 17 hours 3 mins|49.9|4 hours 18 mins 1 sec|
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|15 days 1 hour 31 mins|4 days 3 hours 15 mins|24.2|2 hours 17 mins 42 secs|
@@ -73,4 +73,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:04 04/08/2022
+Generated at: 18:00:04 04/08/2022
