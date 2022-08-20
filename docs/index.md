@@ -1,6 +1,6 @@
 ## Total shows: 49
 
-### Total shows length: 297 days 15 hours 23 mins 6 secs
+### Total shows length: 297 days 17 hours 3 mins 27 secs
 
 ## Total active shows: 30
 
@@ -8,7 +8,7 @@
 
 ### Monthly output: 3 days 10 mins 30 secs
 
-## Time untill 1 year of content: 1 year 316 days
+## Time untill 1 year of content: 1 year 315 days
 
 
 -------------------------------------------------
@@ -35,7 +35,7 @@
 |**Originality**|1 day 13 hours 59 mins 53 secs|36|1 hour 3 mins 19 secs|54 days 15 hours 9 mins|130 days 15 hours 33 mins|6.7|35 mins 15 secs|
 |**Parallel**|2 days 17 hours 38 mins 52 secs|74|53 mins 13 secs|19 days 1 hour 1 min|16 days 7 hours 8 mins|19.2|1 hour 25 mins 1 sec|
 |**Pictorial**|1 day 11 hours 57 mins 56 secs|62|34 mins 48 secs|15 days 6 hours 11 mins|5 days 17 hours 36 mins|23.9|1 hour 9 mins 23 secs|
-|**Reconcilable Differences**|14 days 31 mins 42 secs|188|1 hour 47 mins 24 secs|14 days 24 mins 51 secs|1 day 19 hours 16 mins|26.0|3 hours 53 mins 3 secs|
+|**Reconcilable Differences**|14 days 2 hours 12 mins 3 secs|189|1 hour 47 mins 21 secs|14 days 18 mins 6 secs|1 day 19 hours 11 mins|26.0|3 hours 53 mins 3 secs|
 |**Remaster**|4 days 8 hours 12 mins 23 secs|110|56 mins 50 secs|22 days 28 mins 12 secs|12 days 20 hours 3 mins|16.6|1 hour 18 mins 30 secs|
 |**Roboism**|1 day 19 hours 40 mins 12 secs|59|44 mins 24 secs|32 days 10 hours 4 mins|70 days 19 hours 9 mins|11.3|41 mins 39 secs|
 |**Rocket**|18 days 9 hours 11 mins 53 secs|399|1 hour 6 mins 20 secs|6 days 22 hours 53 mins|19 hours 13 mins 13 secs|52.5|4 hours 50 mins 11 secs|
@@ -73,4 +73,4 @@
 |**The Prompt**|3 days 47 mins 35 secs|57|1 hour 16 mins 37 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 06:00:04 19/08/2022
+Generated at: 06:00:02 20/08/2022
