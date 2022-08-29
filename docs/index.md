@@ -1,14 +1,14 @@
 ## Total shows: 49
 
-### Total shows length: 298 days 8 hours 12 mins 32 secs
+### Total shows length: 298 days 9 hours 29 mins 5 secs
 
 ## Total active shows: 29
 
-### Yearly output: 34 days 22 hours 29 mins
+### Yearly output: 34 days 22 hours 27 mins
 
 ### Monthly output: 2 days 21 hours 52 mins
 
-## Time untill 1 year of content: 1 year 331 days
+## Time untill 1 year of content: 1 year 330 days
 
 
 -------------------------------------------------
@@ -45,7 +45,7 @@
 |**Top Four**|2 days 21 hours 46 mins 11 secs|90|46 mins 30 secs|28 days 12 hours 39 mins|10 days 7 hours 48 mins|12.8|49 mins 35 secs|
 |**Under the Radar**|5 days 1 hour 53 mins 14 secs|249|29 mins 22 secs|9 days 23 hours 48 mins|5 days 8 hours 56 mins|36.5|1 hour 29 mins 24 secs|
 |**Ungeniused**|1 day 6 hours 40 mins|157|11 mins 43 secs|14 days 12 hours 44 mins|3 days 22 hours 27 mins|25.1|24 mins 31 secs|
-|**Upgrade**|27 days 16 hours 38 mins 39 secs|421|1 hour 34 mins 43 secs|6 days 21 hours 31 mins|18 hours 50 mins 38 secs|52.9|6 hours 57 mins 43 secs|
+|**Upgrade**|27 days 17 hours 55 mins 12 secs|422|1 hour 34 mins 40 secs|6 days 21 hours 32 mins|18 hours 49 mins 19 secs|52.9|6 hours 57 mins 31 secs|
 
 -------------------------------------------------
 
@@ -73,4 +73,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:03 29/08/2022
+Generated at: 00:00:05 30/08/2022
