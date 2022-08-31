@@ -1,10 +1,10 @@
 ## Total shows: 49
 
-### Total shows length: 298 days 11 hours 33 mins 59 secs
+### Total shows length: 298 days 13 hours 4 mins 7 secs
 
 ## Total active shows: 29
 
-### Yearly output: 34 days 22 hours 28 mins
+### Yearly output: 34 days 22 hours 26 mins
 
 ### Monthly output: 2 days 21 hours 52 mins
 
@@ -40,10 +40,10 @@
 |**Roboism**|1 day 20 hours 34 mins 9 secs|60|44 mins 34 secs|32 days 16 hours 1 min|70 days 5 hours 18 mins|11.2|41 mins 29 secs|
 |**Rocket**|18 days 10 hours 23 mins 13 secs|400|1 hour 6 mins 21 secs|6 days 22 hours 58 mins|19 hours 15 mins 15 secs|52.5|4 hours 50 mins 7 secs|
 |**The Backmarkers**|11 hours 45 mins 29 secs|12|58 mins 47 secs|12 days 1 hour 58 mins|4 days 8 hours 1 min|30.2|2 hours 28 mins|
-|**The Pen Addict**|22 days 16 hours 54 mins 18 secs|527|1 hour 2 mins 2 secs|7 days 7 hours 37 mins|3 days 16 hours 47 mins|49.9|4 hours 17 mins 52 secs|
+|**The Pen Addict**|22 days 17 hours 55 mins|528|1 hour 2 mins 2 secs|7 days 7 hours 36 mins|3 days 16 hours 42 mins|49.9|4 hours 17 mins 52 secs|
 |**Thoroughly Considered**|2 days 13 hours 48 mins 55 secs|83|44 mins 41 secs|30 days 16 hours 20 mins|13 days 4 hours 52 mins|11.9|44 mins 18 secs|
 |**Top Four**|2 days 22 hours 44 mins 2 secs|91|46 mins 38 secs|28 days 13 hours 23 mins|10 days 6 hours 31 mins|12.8|49 mins 40 secs|
-|**Under the Radar**|5 days 1 hour 53 mins 14 secs|249|29 mins 22 secs|9 days 23 hours 48 mins|5 days 8 hours 56 mins|36.5|1 hour 29 mins 24 secs|
+|**Under the Radar**|5 days 2 hours 22 mins 40 secs|250|29 mins 22 secs|10 days 11 mins 26 secs|5 days 8 hours 48 mins|36.5|1 hour 29 mins 15 secs|
 |**Ungeniused**|1 day 6 hours 40 mins|157|11 mins 43 secs|14 days 12 hours 44 mins|3 days 22 hours 27 mins|25.1|24 mins 31 secs|
 |**Upgrade**|27 days 17 hours 55 mins 12 secs|422|1 hour 34 mins 40 secs|6 days 21 hours 32 mins|18 hours 49 mins 19 secs|52.9|6 hours 57 mins 31 secs|
 
@@ -73,4 +73,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:04 31/08/2022
+Generated at: 18:00:04 31/08/2022
