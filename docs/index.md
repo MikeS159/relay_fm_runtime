@@ -1,14 +1,14 @@
 ## Total shows: 49
 
-### Total shows length: 298 days 22 hours 57 mins 44 secs
+### Total shows length: 299 days 39 mins 43 secs
 
 ## Total active shows: 29
 
-### Yearly output: 34 days 20 hours 45 mins
+### Yearly output: 34 days 20 hours 47 mins
 
 ### Monthly output: 2 days 21 hours 43 mins
 
-## Time untill 1 year of content: 1 year 326 days
+## Time untill 1 year of content: 1 year 325 days
 
 
 -------------------------------------------------
@@ -24,7 +24,7 @@
 |**Clockwise**|8 days 11 hours 8 mins 26 secs|414|29 mins 26 secs|8 days 3 hours 56 mins|22 days 14 hours 28 mins|44.7|1 hour 49 mins 40 secs|
 |**Conduit**|1 day 4 hours 21 mins 39 secs|31|54 mins 53 secs|13 days 17 hours 44 mins|1 day 10 hours 46 mins|26.6|2 hours 1 min 31 secs|
 |**Connected**|25 days 11 hours 43 mins 47 secs|413|1 hour 28 mins 52 secs|7 days 3 hours 28 secs|1 day 3 hours 32 mins|51.2|6 hours 19 mins 22 secs|
-|**Cortex**|9 days 19 mins 54 secs|132|1 hour 38 mins 19 secs|20 days 2 hours 22 mins|9 days 13 hours 22 mins|18.2|2 hours 28 mins 48 secs|
+|**Cortex**|9 days 2 hours 1 min 53 secs|133|1 hour 38 mins 21 secs|20 days 1 hour 58 mins|9 days 12 hours 33 mins|18.2|2 hours 28 mins 58 secs|
 |**Departures**|1 day 2 hours 47 mins 20 secs|8|3 hours 20 mins 55 secs|147 days 17 hours 53 mins|143 days 17 hours 52 mins|2.5|41 mins 21 secs|
 |**Downstream**|1 day 4 hours 38 mins 34 secs|26|1 hour 6 mins 5 secs|13 days 4 hours 48 mins|2 days 13 hours 45 mins|27.7|2 hours 32 mins 18 secs|
 |**Focused**|7 days 13 hours 16 mins 22 secs|159|1 hour 8 mins 24 secs|14 days 2 hours 8 mins|1 day 2 hours 3 mins|25.9|2 hours 27 mins 40 secs|
@@ -73,4 +73,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:04 05/09/2022
+Generated at: 18:00:07 05/09/2022
