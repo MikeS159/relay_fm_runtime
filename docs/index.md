@@ -1,14 +1,14 @@
 ## Total shows: 49
 
-### Total shows length: 301 days 11 hours 14 mins 14 secs
+### Total shows length: 301 days 13 hours 26 mins 15 secs
 
 ## Total active shows: 29
 
-### Yearly output: 34 days 22 hours 4 mins
+### Yearly output: 34 days 22 hours 5 mins
 
 ### Monthly output: 2 days 21 hours 50 mins
 
-## Time untill 1 year of content: 1 year 299 days
+## Time untill 1 year of content: 1 year 298 days
 
 
 -------------------------------------------------
@@ -23,7 +23,7 @@
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
 |**Clockwise**|8 days 12 hours 38 mins 22 secs|417|29 mins 26 secs|8 days 3 hours 45 mins|22 days 12 hours 31 mins|44.8|1 hour 49 mins 48 secs|
 |**Conduit**|1 day 6 hours 46 mins 28 secs|33|55 mins 57 secs|13 days 17 hours 57 mins|1 day 9 hours 41 mins|26.5|2 hours 3 mins 47 secs|
-|**Connected**|25 days 16 hours 29 mins 13 secs|416|1 hour 28 mins 54 secs|7 days 2 hours 59 mins|1 day 3 hours 26 mins|51.2|6 hours 19 mins 37 secs|
+|**Connected**|25 days 18 hours 11 mins 37 secs|417|1 hour 28 mins 56 secs|7 days 2 hours 58 mins|1 day 3 hours 24 mins|51.2|6 hours 19 mins 46 secs|
 |**Cortex**|9 days 2 hours 1 min 53 secs|133|1 hour 38 mins 21 secs|20 days 1 hour 58 mins|9 days 12 hours 33 mins|18.2|2 hours 28 mins 58 secs|
 |**Departures**|1 day 11 hours 1 min 57 secs|9|3 hours 53 mins 33 secs|140 days 4 hours 15 mins|135 days 22 hours 39 mins|2.6|50 mins 40 secs|
 |**Downstream**|1 day 6 hours 21 mins 57 secs|28|1 hour 5 mins 4 secs|13 days 5 hours 23 mins|2 days 12 hours 16 mins|27.6|2 hours 29 mins 39 secs|
@@ -43,7 +43,7 @@
 |**The Pen Addict**|22 days 22 hours 13 mins 19 secs|532|1 hour 2 mins 3 secs|7 days 7 hours 33 mins|3 days 16 hours 23 mins|49.9|4 hours 18 mins 2 secs|
 |**Thoroughly Considered**|2 days 16 hours 11 mins|85|45 mins 18 secs|30 days 9 hours 58 mins|13 days 4 hours 38 mins|12.0|45 mins 18 secs|
 |**Top Four**|2 days 22 hours 44 mins 2 secs|91|46 mins 38 secs|28 days 13 hours 23 mins|10 days 6 hours 31 mins|12.8|49 mins 40 secs|
-|**Under the Radar**|5 days 2 hours 52 mins 11 secs|251|29 mins 22 secs|10 days 39 mins 57 secs|5 days 8 hours 46 mins|36.4|1 hour 29 mins 5 secs|
+|**Under the Radar**|5 days 3 hours 21 mins 48 secs|252|29 mins 22 secs|10 days 58 mins 41 secs|5 days 8 hours 36 mins|36.4|1 hour 28 mins 58 secs|
 |**Ungeniused**|1 day 6 hours 58 mins 8 secs|159|11 mins 41 secs|14 days 12 hours 34 mins|3 days 21 hours 51 mins|25.1|24 mins 28 secs|
 |**Upgrade**|28 days 40 mins 13 secs|426|1 hour 34 mins 44 secs|6 days 21 hours 33 mins|19 hours 4 mins 5 secs|52.9|6 hours 57 mins 44 secs|
 
@@ -73,4 +73,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 18:00:04 28/09/2022
+Generated at: 00:00:05 29/09/2022
