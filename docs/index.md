@@ -1,6 +1,6 @@
 ## Total shows: 49
 
-### Total shows length: 302 days 2 hours 38 mins 30 secs
+### Total shows length: 302 days 3 hours 8 mins 29 secs
 
 ## Total active shows: 29
 
@@ -21,7 +21,7 @@
 |**Automators**|5 days 19 hours 9 mins 34 secs|112|1 hour 14 mins 32 secs|13 days 21 hours 56 mins|22 hours 39 mins 40 secs|26.2|2 hours 42 mins 57 secs|
 |**BONANZA**|1 day 15 hours 7 mins 1 sec|40|58 mins 40 secs|67 days 20 hours 11 mins|91 days 14 hours 36 mins|5.4|26 mins 18 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
-|**Clockwise**|8 days 13 hours 8 mins 21 secs|418|29 mins 26 secs|8 days 3 hours 40 mins|22 days 11 hours 52 mins|44.8|1 hour 49 mins 51 secs|
+|**Clockwise**|8 days 13 hours 38 mins 20 secs|419|29 mins 26 secs|8 days 3 hours 37 mins|22 days 11 hours 13 mins|44.8|1 hour 49 mins 53 secs|
 |**Conduit**|1 day 6 hours 46 mins 28 secs|33|55 mins 57 secs|13 days 17 hours 57 mins|1 day 9 hours 41 mins|26.5|2 hours 3 mins 47 secs|
 |**Connected**|25 days 18 hours 11 mins 37 secs|417|1 hour 28 mins 56 secs|7 days 2 hours 58 mins|1 day 3 hours 24 mins|51.2|6 hours 19 mins 46 secs|
 |**Cortex**|9 days 2 hours 1 min 53 secs|133|1 hour 38 mins 21 secs|20 days 1 hour 58 mins|9 days 12 hours 33 mins|18.2|2 hours 28 mins 58 secs|
@@ -73,4 +73,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 18:00:03 05/10/2022
+Generated at: 00:00:04 06/10/2022
