@@ -1,6 +1,6 @@
 ## Total shows: 49
 
-### Total shows length: 303 days 3 hours 46 mins 39 secs
+### Total shows length: 303 days 3 hours 55 mins 55 secs
 
 ## Total active shows: 29
 
@@ -44,7 +44,7 @@
 |**Thoroughly Considered**|2 days 16 hours 11 mins|85|45 mins 18 secs|30 days 9 hours 58 mins|13 days 4 hours 38 mins|12.0|45 mins 18 secs|
 |**Top Four**|2 days 23 hours 49 mins 31 secs|92|46 mins 50 secs|28 days 14 hours 2 mins|10 days 5 hours 14 mins|12.8|49 mins 50 secs|
 |**Under the Radar**|5 days 3 hours 51 mins 35 secs|253|29 mins 22 secs|10 days 1 hour 14 mins|5 days 8 hours 25 mins|36.3|1 hour 28 mins 53 secs|
-|**Ungeniused**|1 day 7 hours 9 mins|160|11 mins 40 secs|14 days 12 hours 29 mins|3 days 21 hours 34 mins|25.1|24 mins 28 secs|
+|**Ungeniused**|1 day 7 hours 18 mins 16 secs|161|11 mins 39 secs|14 days 12 hours 25 mins|3 days 21 hours 17 mins|25.1|24 mins 26 secs|
 |**Upgrade**|28 days 5 hours 6 mins 52 secs|429|1 hour 34 mins 42 secs|6 days 21 hours 34 mins|19 hours 10 secs|52.9|6 hours 57 mins 30 secs|
 
 -------------------------------------------------
@@ -73,4 +73,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 06:00:04 18/10/2022
+Generated at: 18:00:04 18/10/2022
