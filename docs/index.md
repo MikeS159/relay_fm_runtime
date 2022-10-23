@@ -1,14 +1,14 @@
 ## Total shows: 49
 
-### Total shows length: 303 days 16 hours 23 mins 47 secs
+### Total shows length: 303 days 18 hours 21 mins 12 secs
 
 ## Total active shows: 29
 
-### Yearly output: 34 days 21 hours 22 mins
+### Yearly output: 34 days 21 hours 24 mins
 
-### Monthly output: 2 days 21 hours 46 mins
+### Monthly output: 2 days 21 hours 47 mins
 
-## Time untill 1 year of content: 1 year 276 days
+## Time untill 1 year of content: 1 year 275 days
 
 
 -------------------------------------------------
@@ -29,7 +29,7 @@
 |**Downstream**|1 day 8 hours 17 mins 36 secs|30|1 hour 4 mins 35 secs|13 days 5 hours 43 mins|2 days 10 hours 14 mins|27.6|2 hours 28 mins 23 secs|
 |**Focused**|7 days 17 hours 1 min 5 secs|162|1 hour 8 mins 31 secs|14 days 2 hours 4 mins|1 day 1 hour 49 mins|25.9|2 hours 27 mins 58 secs|
 |**Liftoff**|5 days 14 hours 6 mins 40 secs|170|47 mins 20 secs|15 days 42 mins 4 secs|10 days 11 hours 46 mins|24.3|1 hour 35 mins 47 secs|
-|**Mac Power Users**|42 days 21 hours 34 mins 19 secs|662|1 hour 33 mins 18 secs|7 days 10 hours 20 mins|3 days 3 hours 34 mins|49.1|6 hours 21 mins 57 secs|
+|**Mac Power Users**|42 days 23 hours 31 mins 44 secs|663|1 hour 33 mins 21 secs|7 days 10 hours 19 mins|3 days 3 hours 31 mins|49.1|6 hours 22 mins 8 secs|
 |**Make Do**|3 days 24 mins 44 secs|103|42 mins 10 secs|15 days 2 hours 24 mins|4 days 23 hours 22 mins|24.2|1 hour 24 mins 58 secs|
 |**Material**|19 days 2 hours 1 min 30 secs|383|1 hour 11 mins 45 secs|6 days 23 hours 39 mins|1 day 8 hours 50 mins|52.3|5 hours 12 mins 25 secs|
 |**Originality**|1 day 15 hours 19 secs|37|1 hour 3 mins 15 secs|54 days 13 hours 35 mins|128 days 19 hours 43 mins|6.7|35 mins 15 secs|
@@ -73,4 +73,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 18:00:04 23/10/2022
+Generated at: 00:00:05 24/10/2022
