@@ -2,9 +2,9 @@ analogue:207
 automators:114
 bonanza:40
 b-sides:43
-clockwise:475
+clockwise:476
 conduit:35
-connected:422
+connected:423
 cortex:134
 departures:9
 downstream:30
@@ -12,7 +12,7 @@ focused:164
 liftoff:169
 mpu:665
 makedo:103
-material:383
+material:384
 originality:37
 parallel:76
 pictorial:65
