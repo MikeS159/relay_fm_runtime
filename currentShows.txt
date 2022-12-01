@@ -3,7 +3,7 @@ automators:115
 bonanza:40
 b-sides:43
 clockwise:479
-conduit:36
+conduit:37
 connected:426
 cortex:135
 departures:9
@@ -15,11 +15,11 @@ makedo:103
 material:387
 originality:38
 parallel:76
-pictorial:66
+pictorial:67
 rd:196
 remaster:113
 roboism:60
-rocket:413
+rocket:414
 backmarkers:22
 penaddict:541
 tc:89
