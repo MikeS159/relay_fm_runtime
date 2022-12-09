@@ -5,7 +5,7 @@ b-sides:43
 clockwise:480
 conduit:37
 connected:427
-cortex:135
+cortex:136
 departures:9
 downstream:32
 focused:166
@@ -22,8 +22,8 @@ roboism:60
 rocket:415
 backmarkers:22
 penaddict:542
-tc:89
+tc:90
 topfour:94
-radar:256
+radar:257
 ungeniused:164
 upgrade:436
