@@ -1,10 +1,10 @@
 ## Total shows: 49
 
-### Total shows length: 309 days 13 hours 29 mins 26 secs
+### Total shows length: 309 days 14 hours 30 mins 27 secs
 
 ## Total active shows: 29
 
-### Yearly output: 34 days 20 hours 33 mins
+### Yearly output: 34 days 20 hours 31 mins
 
 ### Monthly output: 2 days 21 hours 42 mins
 
@@ -22,7 +22,7 @@
 |**BONANZA**|1 day 15 hours 7 mins 1 sec|40|58 mins 40 secs|67 days 20 hours 11 mins|91 days 14 hours 36 mins|5.4|26 mins 18 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
 |**Clockwise**|8 days 19 hours 36 mins 3 secs|431|29 mins 27 secs|8 days 2 hours 50 mins|22 days 3 hours 40 mins|45.0|1 hour 50 mins 21 secs|
-|**Conduit**|1 day 13 hours 13 mins 25 secs|39|57 mins 16 secs|13 days 18 hours 54 mins|1 day 6 hours 59 mins|26.5|2 hours 6 mins 20 secs|
+|**Conduit**|1 day 14 hours 7 mins 26 secs|40|57 mins 11 secs|13 days 19 hours 2 mins|1 day 6 hours 36 mins|26.5|2 hours 6 mins 6 secs|
 |**Connected**|26 days 12 hours 10 mins 3 secs|430|1 hour 28 mins 46 secs|7 days 2 hours 48 mins|1 day 3 hours 3 mins|51.3|6 hours 19 mins 22 secs|
 |**Cortex**|9 days 9 hours 38 mins 23 secs|136|1 hour 39 mins 32 secs|20 days 8 hours 10 mins|9 days 15 hours 51 mins|17.9|2 hours 28 mins 51 secs|
 |**Departures**|1 day 11 hours 1 min 57 secs|9|3 hours 53 mins 33 secs|140 days 4 hours 15 mins|135 days 22 hours 39 mins|2.6|50 mins 40 secs|
@@ -44,7 +44,7 @@
 |**Thoroughly Considered**|2 days 21 hours 30 mins 27 secs|90|46 mins 20 secs|29 days 16 hours 25 mins|13 days 7 hours 18 mins|12.3|47 mins 28 secs|
 |**Top Four**|3 days 2 hours 30 mins 24 secs|95|47 mins 3 secs|28 days 13 hours 32 mins|10 days 2 hours 53 mins|12.8|50 mins 6 secs|
 |**Under the Radar**|5 days 6 hours 20 mins 7 secs|258|29 mins 22 secs|10 days 3 hours 14 mins|5 days 8 hours 10 mins|36.0|1 hour 28 mins 10 secs|
-|**Ungeniused**|1 day 8 hours 14 mins 37 secs|170|11 mins 22 secs|14 days 3 hours 57 mins|4 days 7 hours 27 mins|25.8|24 mins 26 secs|
+|**Ungeniused**|1 day 8 hours 21 mins 37 secs|171|11 mins 21 secs|14 days 2 hours 5 mins|4 days 9 hours 56 mins|25.9|24 mins 30 secs|
 |**Upgrade**|28 days 23 hours 20 mins 15 secs|439|1 hour 35 mins 2 secs|6 days 21 hours 37 mins|18 hours 47 mins 23 secs|52.9|6 hours 58 mins 52 secs|
 
 -------------------------------------------------
@@ -73,4 +73,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:03 29/12/2022
+Generated at: 18:00:03 29/12/2022
