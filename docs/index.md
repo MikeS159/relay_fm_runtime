@@ -1,6 +1,6 @@
 ## Total shows: 49
 
-### Total shows length: 309 days 21 hours 15 mins 19 secs
+### Total shows length: 309 days 22 hours 39 mins 33 secs
 
 ## Total active shows: 29
 
@@ -8,7 +8,7 @@
 
 ### Monthly output: 2 days 21 hours 42 mins
 
-## Time untill 1 year of content: 1 year 212 days
+## Time untill 1 year of content: 1 year 211 days
 
 
 -------------------------------------------------
@@ -23,7 +23,7 @@
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
 |**Clockwise**|8 days 19 hours 36 mins 3 secs|431|29 mins 27 secs|8 days 2 hours 50 mins|22 days 3 hours 40 mins|45.0|1 hour 50 mins 21 secs|
 |**Conduit**|1 day 14 hours 7 mins 26 secs|40|57 mins 11 secs|13 days 19 hours 2 mins|1 day 6 hours 36 mins|26.5|2 hours 6 mins 6 secs|
-|**Connected**|26 days 12 hours 10 mins 3 secs|430|1 hour 28 mins 46 secs|7 days 2 hours 48 mins|1 day 3 hours 3 mins|51.3|6 hours 19 mins 22 secs|
+|**Connected**|26 days 13 hours 33 mins 16 secs|431|1 hour 28 mins 45 secs|7 days 2 hours 48 mins|1 day 3 hours 1 min|51.3|6 hours 19 mins 20 secs|
 |**Cortex**|9 days 9 hours 38 mins 23 secs|136|1 hour 39 mins 32 secs|20 days 8 hours 10 mins|9 days 15 hours 51 mins|17.9|2 hours 28 mins 51 secs|
 |**Departures**|1 day 11 hours 1 min 57 secs|9|3 hours 53 mins 33 secs|140 days 4 hours 15 mins|135 days 22 hours 39 mins|2.6|50 mins 40 secs|
 |**Downstream**|1 day 13 hours 5 mins 4 secs|35|1 hour 3 mins 34 secs|13 days 8 hours 24 mins|2 days 6 hours 11 mins|27.3|2 hours 24 mins 50 secs|
@@ -44,7 +44,7 @@
 |**Thoroughly Considered**|2 days 21 hours 30 mins 27 secs|90|46 mins 20 secs|29 days 16 hours 25 mins|13 days 7 hours 18 mins|12.3|47 mins 28 secs|
 |**Top Four**|3 days 2 hours 30 mins 24 secs|95|47 mins 3 secs|28 days 13 hours 32 mins|10 days 2 hours 53 mins|12.8|50 mins 6 secs|
 |**Under the Radar**|5 days 6 hours 20 mins 7 secs|258|29 mins 22 secs|10 days 3 hours 14 mins|5 days 8 hours 10 mins|36.0|1 hour 28 mins 10 secs|
-|**Ungeniused**|1 day 8 hours 29 mins 29 secs|175|11 mins 8 secs|13 days 18 hours 52 mins|4 days 18 hours 48 mins|26.5|24 mins 34 secs|
+|**Ungeniused**|1 day 8 hours 30 mins 30 secs|176|11 mins 4 secs|13 days 17 hours 7 mins|4 days 20 hours 47 mins|26.6|24 mins 34 secs|
 |**Upgrade**|29 days 58 mins 55 secs|440|1 hour 35 mins 2 secs|6 days 21 hours 38 mins|18 hours 46 mins 18 secs|52.9|6 hours 58 mins 51 secs|
 
 -------------------------------------------------
@@ -73,4 +73,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:03 03/01/2023
+Generated at: 18:00:02 03/01/2023
