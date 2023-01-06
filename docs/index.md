@@ -1,6 +1,6 @@
 ## Total shows: 49
 
-### Total shows length: 310 days 2 hours 31 mins 58 secs
+### Total shows length: 310 days 4 hours 14 mins 43 secs
 
 ## Total active shows: 29
 
@@ -35,7 +35,7 @@
 |**Originality**|1 day 16 hours 9 mins 48 secs|38|1 hour 3 mins 24 secs|54 days 4 hours 40 mins|127 days 2 hours 7 mins|6.7|35 mins 35 secs|
 |**Parallel**|2 days 20 hours 58 mins|77|53 mins 44 secs|20 days 7 hours 44 mins|19 days 5 hours 26 mins|18.0|1 hour 20 mins 25 secs|
 |**Pictorial**|1 day 15 hours 11 mins 25 secs|67|35 mins 5 secs|16 days 13 hours 53 mins|10 days 9 hours 35 mins|22.0|1 hour 4 mins 23 secs|
-|**Reconcilable Differences**|14 days 16 hours 7 mins 16 secs|198|1 hour 46 mins 42 secs|14 days 16 mins 13 secs|1 day 18 hours 12 mins|26.1|3 hours 51 mins 38 secs|
+|**Reconcilable Differences**|14 days 17 hours 50 mins 1 sec|199|1 hour 46 mins 41 secs|14 days 15 mins 59 secs|1 day 18 hours 5 mins|26.1|3 hours 51 mins 35 secs|
 |**Remaster**|4 days 11 hours 1 min 46 secs|113|56 mins 49 secs|22 days 7 hours 27 mins|12 days 19 hours 36 mins|16.4|1 hour 17 mins 28 secs|
 |**Roboism**|1 day 21 hours 28 mins 16 secs|61|44 mins 43 secs|34 days 2 hours 3 mins|70 days 11 hours 30 mins|10.7|39 mins 54 secs|
 |**Rocket**|19 days 8 hours 36 mins 9 secs|419|1 hour 6 mins 31 secs|6 days 22 hours 57 mins|18 hours 56 mins 51 secs|52.5|4 hours 50 mins 54 secs|
@@ -73,4 +73,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:02 06/01/2023
+Generated at: 00:00:03 07/01/2023
