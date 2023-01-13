@@ -1,14 +1,14 @@
 ## Total shows: 49
 
-### Total shows length: 310 days 19 hours 43 mins 42 secs
+### Total shows length: 310 days 21 hours 24 mins 8 secs
 
 ## Total active shows: 29
 
-### Yearly output: 34 days 20 hours 16 mins
+### Yearly output: 34 days 20 hours 21 mins
 
 ### Monthly output: 2 days 21 hours 41 mins
 
-## Time untill 1 year of content: 1 year 202 days
+## Time untill 1 year of content: 1 year 201 days
 
 
 -------------------------------------------------
@@ -18,7 +18,7 @@
 |Show|Total Length|Number of Shows|Average Length|Average Gap|Standard Deviation|Shows Per Year|Monthly Show Output|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**Analog(ue)**|10 days 16 hours 50 mins 54 secs|209|1 hour 13 mins 44 secs|14 days 17 hours 40 mins|8 days 15 hours 22 mins|24.8|2 hours 32 mins 11 secs|
-|**Automators**|6 days 5 hours 20 mins 59 secs|119|1 hour 15 mins 18 secs|13 days 22 hours 1 min|21 hours 59 mins 31 secs|26.2|2 hours 44 mins 34 secs|
+|**Automators**|6 days 7 hours 1 min 25 secs|120|1 hour 15 mins 30 secs|13 days 22 hours 2 mins|21 hours 53 mins 58 secs|26.2|2 hours 45 mins 1 sec|
 |**BONANZA**|1 day 15 hours 7 mins 1 sec|40|58 mins 40 secs|67 days 20 hours 11 mins|91 days 14 hours 36 mins|5.4|26 mins 18 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
 |**Clockwise**|8 days 20 hours 36 mins 2 secs|433|29 mins 27 secs|8 days 2 hours 43 mins|22 days 2 hours 26 mins|45.0|1 hour 50 mins 26 secs|
@@ -73,4 +73,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 06:00:03 13/01/2023
+Generated at: 00:00:04 14/01/2023
