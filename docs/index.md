@@ -1,14 +1,14 @@
 ## Total shows: 49
 
-### Total shows length: 311 days 40 mins 11 secs
+### Total shows length: 311 days 2 hours 4 mins 3 secs
 
 ## Total active shows: 29
 
-### Yearly output: 34 days 20 hours 22 mins
+### Yearly output: 34 days 20 hours 24 mins
 
-### Monthly output: 2 days 21 hours 41 mins
+### Monthly output: 2 days 21 hours 42 mins
 
-## Time untill 1 year of content: 1 year 200 days
+## Time untill 1 year of content: 1 year 199 days
 
 
 -------------------------------------------------
@@ -27,7 +27,7 @@
 |**Cortex**|9 days 9 hours 38 mins 23 secs|136|1 hour 39 mins 32 secs|20 days 8 hours 10 mins|9 days 15 hours 51 mins|17.9|2 hours 28 mins 51 secs|
 |**Departures**|1 day 11 hours 1 min 57 secs|9|3 hours 53 mins 33 secs|140 days 4 hours 15 mins|135 days 22 hours 39 mins|2.6|50 mins 40 secs|
 |**Downstream**|1 day 14 hours 14 mins 3 secs|36|1 hour 3 mins 43 secs|13 days 8 hours 58 mins|2 days 5 hours 30 mins|27.3|2 hours 24 mins 55 secs|
-|**Focused**|7 days 23 hours 50 mins 5 secs|168|1 hour 8 mins 30 secs|14 days 2 hours 48 secs|1 day 1 hour 21 mins|25.9|2 hours 27 mins 57 secs|
+|**Focused**|8 days 1 hour 13 mins 57 secs|169|1 hour 8 mins 36 secs|14 days 1 hour 59 mins|1 day 1 hour 17 mins|25.9|2 hours 28 mins 10 secs|
 |**Liftoff**|5 days 15 hours 15 mins 46 secs|172|47 mins 11 secs|15 days 15 hours 8 mins|12 days 18 hours 7 mins|23.4|1 hour 31 mins 49 secs|
 |**Mac Power Users**|43 days 18 hours 54 mins 53 secs|675|1 hour 33 mins 24 secs|7 days 10 hours 8 mins|3 days 2 hours 51 mins|49.2|6 hours 22 mins 47 secs|
 |**Make Do**|3 days 24 mins 44 secs|103|42 mins 10 secs|15 days 2 hours 24 mins|4 days 23 hours 22 mins|24.2|1 hour 24 mins 58 secs|
@@ -73,4 +73,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:12 17/01/2023
+Generated at: 18:00:03 17/01/2023
