@@ -1,6 +1,6 @@
 ## Total shows: 49
 
-### Total shows length: 311 days 3 hours 32 mins 27 secs
+### Total shows length: 311 days 5 hours 26 mins 35 secs
 
 ## Total active shows: 29
 
@@ -8,7 +8,7 @@
 
 ### Monthly output: 2 days 21 hours 42 mins
 
-## Time untill 1 year of content: 1 year 199 days
+## Time untill 1 year of content: 1 year 198 days
 
 
 -------------------------------------------------
@@ -21,9 +21,9 @@
 |**Automators**|6 days 7 hours 1 min 25 secs|120|1 hour 15 mins 30 secs|13 days 22 hours 2 mins|21 hours 53 mins 58 secs|26.2|2 hours 45 mins 1 sec|
 |**BONANZA**|1 day 15 hours 7 mins 1 sec|40|58 mins 40 secs|67 days 20 hours 11 mins|91 days 14 hours 36 mins|5.4|26 mins 18 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
-|**Clockwise**|8 days 20 hours 36 mins 2 secs|433|29 mins 27 secs|8 days 2 hours 43 mins|22 days 2 hours 26 mins|45.0|1 hour 50 mins 26 secs|
+|**Clockwise**|8 days 21 hours 6 mins 1 sec|434|29 mins 27 secs|8 days 2 hours 39 mins|22 days 1 hour 50 mins|45.0|1 hour 50 mins 29 secs|
 |**Conduit**|1 day 15 hours 11 mins 34 secs|41|57 mins 21 secs|13 days 19 hours 15 mins|1 day 6 hours 15 mins|26.4|2 hours 6 mins 23 secs|
-|**Connected**|26 days 14 hours 52 mins 46 secs|432|1 hour 28 mins 43 secs|7 days 2 hours 52 mins|1 day 3 hours 1 min|51.3|6 hours 19 mins 5 secs|
+|**Connected**|26 days 16 hours 16 mins 55 secs|433|1 hour 28 mins 43 secs|7 days 2 hours 52 mins|1 day 2 hours 59 mins|51.3|6 hours 19 mins 3 secs|
 |**Cortex**|9 days 9 hours 38 mins 23 secs|136|1 hour 39 mins 32 secs|20 days 8 hours 10 mins|9 days 15 hours 51 mins|17.9|2 hours 28 mins 51 secs|
 |**Departures**|1 day 11 hours 1 min 57 secs|9|3 hours 53 mins 33 secs|140 days 4 hours 15 mins|135 days 22 hours 39 mins|2.6|50 mins 40 secs|
 |**Downstream**|1 day 14 hours 14 mins 3 secs|36|1 hour 3 mins 43 secs|13 days 8 hours 58 mins|2 days 5 hours 30 mins|27.3|2 hours 24 mins 55 secs|
@@ -73,4 +73,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 18:00:03 18/01/2023
+Generated at: 00:00:03 19/01/2023
