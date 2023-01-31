@@ -1,14 +1,14 @@
 ## Total shows: 49
 
-### Total shows length: 312 days 5 hours 7 mins 20 secs
+### Total shows length: 312 days 7 hours 52 mins 27 secs
 
 ## Total active shows: 29
 
-### Yearly output: 34 days 20 hours 13 mins
+### Yearly output: 34 days 20 hours 15 mins
 
 ### Monthly output: 2 days 21 hours 41 mins
 
-## Time untill 1 year of content: 1 year 187 days
+## Time untill 1 year of content: 1 year 186 days
 
 
 -------------------------------------------------
@@ -37,7 +37,7 @@
 |**Pictorial**|1 day 16 hours 13 mins 39 secs|69|34 mins 58 secs|16 days 22 hours|10 days 16 hours 27 mins|21.6|1 hour 2 mins 53 secs|
 |**Reconcilable Differences**|14 days 20 hours 16 mins 37 secs|200|1 hour 46 mins 52 secs|14 days 16 mins 57 secs|1 day 17 hours 59 mins|26.0|3 hours 52 mins 1 sec|
 |**Remaster**|4 days 12 hours 6 mins 39 secs|114|56 mins 54 secs|22 days 17 hours 26 mins|13 days 11 hours 55 mins|16.1|1 hour 16 mins 9 secs|
-|**Roboism**|1 day 21 hours 28 mins 16 secs|61|44 mins 43 secs|34 days 2 hours 3 mins|70 days 11 hours 30 mins|10.7|39 mins 54 secs|
+|**Roboism**|1 day 22 hours 33 mins 15 secs|62|45 mins 3 secs|34 days 4 hours 52 mins|69 days 21 hours 44 mins|10.7|40 mins 3 secs|
 |**Rocket**|19 days 12 hours 1 min 15 secs|422|1 hour 6 mins 32 secs|6 days 22 hours 58 mins|18 hours 52 mins 54 secs|52.5|4 hours 50 mins 55 secs|
 |**The Backmarkers**|20 hours 14 mins 17 secs|21|57 mins 49 secs|12 days 5 hours 51 mins|6 days 10 hours 18 mins|29.8|2 hours 23 mins 38 secs|
 |**The Pen Addict**|23 days 14 hours 2 mins 4 secs|548|1 hour 1 min 58 secs|7 days 7 hours 38 mins|3 days 15 hours 21 mins|49.9|4 hours 17 mins 34 secs|
@@ -45,7 +45,7 @@
 |**Top Four**|3 days 3 hours 14 mins 2 secs|96|47 mins 1 sec|28 days 14 hours 39 mins|10 days 1 hour 51 mins|12.8|49 mins 59 secs|
 |**Under the Radar**|5 days 7 hours 48 mins 57 secs|260|29 mins 29 secs|10 days 3 hours 53 mins|5 days 8 hours 16 mins|35.9|1 hour 28 mins 17 secs|
 |**Ungeniused**|1 day 8 hours 51 mins 58 secs|180|10 mins 57 secs|13 days 12 hours 34 mins|5 days 50 mins 8 secs|27.0|24 mins 38 secs|
-|**Upgrade**|29 days 5 hours 40 mins 38 secs|443|1 hour 35 mins 2 secs|6 days 21 hours 39 mins|18 hours 42 mins 32 secs|52.9|6 hours 58 mins 47 secs|
+|**Upgrade**|29 days 7 hours 20 mins 46 secs|444|1 hour 35 mins 2 secs|6 days 21 hours 39 mins|18 hours 41 mins 19 secs|52.9|6 hours 58 mins 49 secs|
 
 -------------------------------------------------
 
@@ -73,4 +73,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:03 30/01/2023
+Generated at: 06:00:02 31/01/2023
