@@ -1,4 +1,4 @@
-analogue:209
+analogue:210
 automators:120
 bonanza:40
 b-sides:43
@@ -15,7 +15,7 @@ makedo:103
 material:397
 originality:38
 parallel:76
-pictorial:69
+pictorial:70
 rd:201
 remaster:114
 roboism:62

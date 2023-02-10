@@ -1,14 +1,14 @@
 ## Total shows: 49
 
-### Total shows length: 313 days 3 hours 34 mins 25 secs
+### Total shows length: 313 days 5 hours 26 mins 46 secs
 
 ## Total active shows: 29
 
-### Yearly output: 34 days 20 hours 16 mins
+### Yearly output: 34 days 20 hours 5 mins
 
-### Monthly output: 2 days 21 hours 41 mins
+### Monthly output: 2 days 21 hours 40 mins
 
-## Time untill 1 year of content: 1 year 178 days
+## Time untill 1 year of content: 1 year 177 days
 
 
 -------------------------------------------------
@@ -17,7 +17,7 @@
 ## Active Shows
 |Show|Total Length|Number of Shows|Average Length|Average Gap|Standard Deviation|Shows Per Year|Monthly Show Output|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**Analog(ue)**|10 days 16 hours 50 mins 54 secs|209|1 hour 13 mins 44 secs|14 days 17 hours 40 mins|8 days 15 hours 22 mins|24.8|2 hours 32 mins 11 secs|
+|**Analog(ue)**|10 days 18 hours 16 mins 45 secs|210|1 hour 13 mins 47 secs|14 days 19 hours 47 mins|8 days 17 hours 6 mins|24.6|2 hours 31 mins 24 secs|
 |**Automators**|6 days 8 hours 23 mins 52 secs|121|1 hour 15 mins 34 secs|13 days 22 hours 3 mins|21 hours 48 mins 36 secs|26.2|2 hours 45 mins 8 secs|
 |**BONANZA**|1 day 15 hours 7 mins 1 sec|40|58 mins 40 secs|67 days 20 hours 11 mins|91 days 14 hours 36 mins|5.4|26 mins 18 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
@@ -34,7 +34,7 @@
 |**Material**|19 days 19 hours 25 mins 39 secs|398|1 hour 11 mins 40 secs|6 days 23 hours 47 mins|1 day 10 hours 33 secs|52.2|5 hours 11 mins 49 secs|
 |**Originality**|1 day 16 hours 9 mins 48 secs|38|1 hour 3 mins 24 secs|54 days 4 hours 40 mins|127 days 2 hours 7 mins|6.7|35 mins 35 secs|
 |**Parallel**|2 days 20 hours 58 mins|77|53 mins 44 secs|20 days 7 hours 44 mins|19 days 5 hours 26 mins|18.0|1 hour 20 mins 25 secs|
-|**Pictorial**|1 day 16 hours 13 mins 39 secs|69|34 mins 58 secs|16 days 22 hours|10 days 16 hours 27 mins|21.6|1 hour 2 mins 53 secs|
+|**Pictorial**|1 day 16 hours 40 mins 9 secs|70|34 mins 51 secs|16 days 21 hours 10 mins|10 days 14 hours 41 mins|21.6|1 hour 2 mins 48 secs|
 |**Reconcilable Differences**|14 days 22 hours 6 mins 16 secs|201|1 hour 46 mins 53 secs|14 days 16 mins 43 secs|1 day 17 hours 53 mins|26.0|3 hours 52 mins 3 secs|
 |**Remaster**|4 days 12 hours 6 mins 39 secs|114|56 mins 54 secs|22 days 17 hours 26 mins|13 days 11 hours 55 mins|16.1|1 hour 16 mins 9 secs|
 |**Roboism**|1 day 22 hours 33 mins 15 secs|62|45 mins 3 secs|34 days 4 hours 52 mins|69 days 21 hours 44 mins|10.7|40 mins 3 secs|
@@ -73,4 +73,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:03 10/02/2023
+Generated at: 18:00:02 10/02/2023
