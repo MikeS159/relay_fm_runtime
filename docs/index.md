@@ -1,12 +1,12 @@
 ## Total shows: 49
 
-### Total shows length: 313 days 11 hours 42 mins 2 secs
+### Total shows length: 313 days 14 hours 2 mins 6 secs
 
 ## Total active shows: 29
 
-### Yearly output: 34 days 20 hours 11 mins
+### Yearly output: 34 days 19 hours 15 mins
 
-### Monthly output: 2 days 21 hours 40 mins
+### Monthly output: 2 days 21 hours 36 mins
 
 ## Time untill 1 year of content: 1 year 174 days
 
@@ -31,9 +31,9 @@
 |**Liftoff**|5 days 15 hours 15 mins 46 secs|172|47 mins 11 secs|15 days 15 hours 8 mins|12 days 18 hours 7 mins|23.4|1 hour 31 mins 49 secs|
 |**Mac Power Users**|44 days 1 hour 14 mins 14 secs|679|1 hour 33 mins 25 secs|7 days 10 hours 5 mins|3 days 2 hours 38 mins|49.2|6 hours 22 mins 56 secs|
 |**Make Do**|3 days 24 mins 44 secs|103|42 mins 10 secs|15 days 2 hours 24 mins|4 days 23 hours 22 mins|24.2|1 hour 24 mins 58 secs|
-|**Material**|19 days 19 hours 25 mins 39 secs|398|1 hour 11 mins 40 secs|6 days 23 hours 47 mins|1 day 10 hours 33 secs|52.2|5 hours 11 mins 49 secs|
+|**Material**|19 days 21 hours 9 mins 30 secs|399|1 hour 11 mins 45 secs|6 days 23 hours 54 mins|1 day 10 hours 3 mins|52.2|5 hours 11 mins 57 secs|
 |**Originality**|1 day 16 hours 9 mins 48 secs|38|1 hour 3 mins 24 secs|54 days 4 hours 40 mins|127 days 2 hours 7 mins|6.7|35 mins 35 secs|
-|**Parallel**|2 days 20 hours 58 mins|77|53 mins 44 secs|20 days 7 hours 44 mins|19 days 5 hours 26 mins|18.0|1 hour 20 mins 25 secs|
+|**Parallel**|2 days 21 hours 34 mins 13 secs|78|53 mins 30 secs|21 days 12 hours 19 mins|21 days 17 hours 46 mins|17.0|1 hour 15 mins 39 secs|
 |**Pictorial**|1 day 16 hours 40 mins 9 secs|70|34 mins 51 secs|16 days 21 hours 10 mins|10 days 14 hours 41 mins|21.6|1 hour 2 mins 48 secs|
 |**Reconcilable Differences**|14 days 22 hours 6 mins 16 secs|201|1 hour 46 mins 53 secs|14 days 16 mins 43 secs|1 day 17 hours 53 mins|26.0|3 hours 52 mins 3 secs|
 |**Remaster**|4 days 12 hours 6 mins 39 secs|114|56 mins 54 secs|22 days 17 hours 26 mins|13 days 11 hours 55 mins|16.1|1 hour 16 mins 9 secs|
@@ -73,4 +73,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:03 15/02/2023
+Generated at: 06:00:03 15/02/2023
