@@ -3,9 +3,9 @@ automators:121
 bonanza:40
 b-sides:43
 clockwise:491
-conduit:42
+conduit:43
 connected:438
-cortex:137
+cortex:138
 departures:9
 downstream:38
 focused:171
@@ -15,7 +15,7 @@ makedo:103
 material:399
 originality:38
 parallel:77
-pictorial:70
+pictorial:71
 rd:202
 remaster:114
 roboism:62
