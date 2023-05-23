@@ -14,7 +14,7 @@ mpu:693
 makedo:103
 material:412
 originality:40
-parallel:82
+parallel:83
 pictorial:75
 rd:208
 remaster:117
