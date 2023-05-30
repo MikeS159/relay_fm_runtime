@@ -50,7 +50,7 @@ def display_time(seconds, granularity=2):
     return ' '.join(result[:granularity])
 
 def parse_feed(feed_name):
-#    print("Parsing - " + feed_name)
+    print("Parsing - " + feed_name)
     base_feed = 'https://www.relay.fm/'
     end_feed = '/feed'
     total_feed = base_feed + feed_name + end_feed
