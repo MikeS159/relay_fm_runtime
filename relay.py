@@ -50,6 +50,24 @@ def display_time(seconds, granularity=2):
     return ' '.join(result[:granularity])
 
 def parse_feed(feed_name):
+    if(feed_name == "almanac"):
+        total_len = 5388
+        num_shows = 1
+        old_show_output.append("|**" + d['feed']['title'] + "**|")
+        old_show_output.append(display_time(total_len,4) + "|")
+        old_show_output.append(str(num_shows) + "|")
+        avg = total_len / num_shows
+        old_show_output.append(display_time(avg,4) + "|\n")
+        return total_len
+    if(feed_name = "subnet"):
+        total_len = 25040
+        num_shows = 228
+        old_show_output.append("|**" + d['feed']['title'] + "**|")
+        old_show_output.append(display_time(total_len,4) + "|")
+        old_show_output.append(str(num_shows) + "|")
+        avg = total_len / num_shows
+        old_show_output.append(display_time(avg,4) + "|\n")
+        return total_len
     print("Parsing - " + feed_name)
     base_feed = 'https://www.relay.fm/'
     end_feed = '/feed'
