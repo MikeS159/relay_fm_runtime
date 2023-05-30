@@ -59,7 +59,7 @@ def parse_feed(feed_name):
         avg = total_len / num_shows
         old_show_output.append(display_time(avg,4) + "|\n")
         return total_len
-    if(feed_name = "subnet"):
+    if(feed_name == "subnet"):
         total_len = 25040
         num_shows = 228
         old_show_output.append("|**" + d['feed']['title'] + "**|")
