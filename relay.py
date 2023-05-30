@@ -86,7 +86,7 @@ def parse_prediction_feed(feed_name, last_checked):
         shows_Checked.append(show_Checked)
         if int(ss[1]) > int(last_checked):
             update_needed = True
-            print("Update Needed")
+            print(ss[0] + ": Update Needed")
 
     for e in ents:
         length = e['itunes_duration']
