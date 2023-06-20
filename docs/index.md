@@ -1,12 +1,12 @@
 ## Total shows: 49
 
-### Total shows length: 323 days 21 hours 27 mins 22 secs
+### Total shows length: 323 days 22 hours 14 mins 37 secs
 
 ## Total active shows: 29
 
-### Yearly output: 34 days 7 hours 24 mins
+### Yearly output: 34 days 7 hours 20 mins
 
-### Monthly output: 2 days 20 hours 37 mins
+### Monthly output: 2 days 20 hours 36 mins
 
 ## Time untill 1 year of content: 1 year 72 days
 
@@ -33,7 +33,7 @@
 |**Make Do**|3 days 24 mins 44 secs|103|42 mins 10 secs|15 days 2 hours 24 mins|4 days 23 hours 22 mins|24.2|1 hour 24 mins 58 secs|
 |**Material**|20 days 17 hours 48 mins 55 secs|417|1 hour 11 mins 37 secs|6 days 23 hours 36 mins|1 day 9 hours 49 mins|52.3|5 hours 11 mins 58 secs|
 |**Originality**|1 day 18 hours 2 mins 41 secs|40|1 hour 3 mins 4 secs|55 days 12 hours 21 mins|124 days 2 hours 32 mins|6.6|34 mins 33 secs|
-|**Parallel**|3 days 3 hours 15 mins 10 secs|84|53 mins 45 secs|21 days 3 hours 16 mins|21 days 1 hour 45 mins|17.3|1 hour 17 mins 21 secs|
+|**Parallel**|3 days 4 hours 2 mins 25 secs|85|53 mins 40 secs|21 days 5 hours 9 mins|20 days 23 hours 1 min|17.2|1 hour 16 mins 57 secs|
 |**Pictorial**|1 day 20 hours 8 mins 53 secs|76|34 mins 51 secs|17 days 25 mins 36 secs|10 days 7 hours 5 mins|21.4|1 hour 2 mins 17 secs|
 |**Reconcilable Differences**|15 days 11 hours 53 mins 29 secs|210|1 hour 46 mins 15 secs|14 days 15 mins 34 secs|1 day 16 hours 58 mins|26.1|3 hours 50 mins 40 secs|
 |**Remaster**|4 days 14 hours 46 mins 6 secs|117|56 mins 48 secs|22 days 23 hours 45 mins|13 days 10 hours 13 mins|15.9|1 hour 15 mins 9 secs|
@@ -73,4 +73,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:03 20/06/2023
+Generated at: 18:00:04 20/06/2023
