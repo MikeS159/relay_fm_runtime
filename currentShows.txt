@@ -1,5 +1,5 @@
 analogue:214
-automators:130
+automators:131
 bonanza:40
 b-sides:43
 clockwise:509
@@ -22,7 +22,7 @@ roboism:64
 rocket:444
 backmarkers:24
 penaddict:570
-tc:99
+tc:100
 topfour:101
 radar:271
 ungeniused:189
