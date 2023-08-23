@@ -1,10 +1,10 @@
 ## Total shows: 49
 
-### Total shows length: 329 days 1 hour 40 mins 31 secs
+### Total shows length: 329 days 3 hours 8 mins 50 secs
 
 ## Total active shows: 29
 
-### Yearly output: 34 days 3 hours 53 mins
+### Yearly output: 34 days 3 hours 54 mins
 
 ### Monthly output: 2 days 20 hours 19 mins
 
@@ -21,7 +21,7 @@
 |**Automators**|7 days 3 hours 2 mins 5 secs|135|1 hour 16 mins|13 days 22 hours 15 mins|21 hours 49 mins 9 secs|26.2|2 hours 46 mins|
 |**BONANZA**|1 day 15 hours 7 mins 1 sec|40|58 mins 40 secs|67 days 20 hours 11 mins|91 days 14 hours 36 mins|5.4|26 mins 18 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
-|**Clockwise**|9 days 11 hours 59 mins 25 secs|464|29 mins 28 secs|8 days 55 mins 43 secs|21 days 8 hours 25 mins|45.4|1 hour 51 mins 33 secs|
+|**Clockwise**|9 days 12 hours 26 mins 22 secs|465|29 mins 28 secs|8 days 52 mins 22 secs|21 days 7 hours 52 mins|45.4|1 hour 51 mins 33 secs|
 |**Conduit**|2 days 5 hours 49 mins 48 secs|56|57 mins 40 secs|13 days 20 hours 34 mins|1 day 1 hour 54 mins|26.3|2 hours 6 mins 35 secs|
 |**Connected**|28 days 9 hours 56 mins 19 secs|464|1 hour 28 mins 10 secs|7 days 2 hours 37 mins|1 day 2 hours 12 mins|51.3|6 hours 17 mins 16 secs|
 |**Cortex**|10 days 1 hour 11 mins 4 secs|145|1 hour 39 mins 48 secs|20 days 20 hours 18 mins|10 days 2 hours 43 mins|17.5|2 hours 25 mins 37 secs|
@@ -40,7 +40,7 @@
 |**Roboism**|2 days 1 hour 39 mins 20 secs|66|45 mins 8 secs|35 days 3 hours 23 mins|68 days 20 hours 19 mins|10.4|39 mins 4 secs|
 |**Rocket**|20 days 18 hours 16 mins 53 secs|451|1 hour 6 mins 17 secs|6 days 23 hours 1 min|18 hours 20 mins 8 secs|52.4|4 hours 49 mins 43 secs|
 |**The Backmarkers**|1 day 6 mins 10 secs|24|1 hour 15 secs|21 days 19 hours 47 mins|25 days 20 hours 51 mins|16.7|1 hour 23 mins 58 secs|
-|**The Pen Addict**|24 days 17 hours 24 mins 20 secs|577|1 hour 1 min 42 secs|7 days 7 hours 15 mins|3 days 13 hours 9 mins|50.0|4 hours 17 mins 1 sec|
+|**The Pen Addict**|24 days 18 hours 25 mins 42 secs|578|1 hour 1 min 42 secs|7 days 7 hours 14 mins|3 days 13 hours 4 mins|50.0|4 hours 17 mins 2 secs|
 |**Thoroughly Considered**|3 days 9 hours 53 mins 21 secs|101|48 mins 38 secs|28 days 20 hours 53 mins|13 days 51 mins 53 secs|12.6|51 mins 15 secs|
 |**Top Four**|3 days 8 hours 21 mins 41 secs|101|47 mins 44 secs|28 days 17 hours 45 mins|9 days 21 hours 36 mins|12.7|50 mins 31 secs|
 |**Under the Radar**|5 days 15 hours 24 mins 1 sec|275|29 mins 32 secs|10 days 8 hours 55 mins|5 days 6 hours 50 mins|35.2|1 hour 26 mins 37 secs|
@@ -73,4 +73,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:03 23/08/2023
+Generated at: 18:00:02 23/08/2023
