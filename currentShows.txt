@@ -15,7 +15,7 @@ makedo:103
 material:426
 originality:40
 parallel:85
-pictorial:76
+pictorial:77
 rd:215
 remaster:119
 roboism:66
