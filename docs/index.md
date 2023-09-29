@@ -1,14 +1,14 @@
 ## Total shows: 49
 
-### Total shows length: 332 days 14 hours 41 mins 49 secs
+### Total shows length: 332 days 17 hours 6 mins 27 secs
 
 ## Total active shows: 29
 
-### Yearly output: 34 days 3 hours 7 mins
+### Yearly output: 34 days 3 hours 2 mins
 
 ### Monthly output: 2 days 20 hours 15 mins
 
-## Time untill 1 year of content: 346 days 8 hours
+## Time untill 1 year of content: 345 days 7 hours
 
 
 -------------------------------------------------
@@ -31,11 +31,11 @@
 |**Liftoff**|5 days 15 hours 15 mins 46 secs|172|47 mins 11 secs|15 days 15 hours 8 mins|12 days 18 hours 7 mins|23.4|1 hour 31 mins 49 secs|
 |**Mac Power Users**|46 days 5 hours 25 mins 50 secs|711|1 hour 33 mins 37 secs|7 days 9 hours 37 mins|3 days 1 hour 19 mins|49.3|6 hours 24 mins 45 secs|
 |**Make Do**|3 days 24 mins 44 secs|103|42 mins 10 secs|15 days 2 hours 24 mins|4 days 23 hours 22 mins|24.2|1 hour 24 mins 58 secs|
-|**Material**|21 days 10 hours 19 mins 31 secs|431|1 hour 11 mins 35 secs|6 days 23 hours 38 mins|1 day 9 hours 20 mins|52.3|5 hours 11 mins 47 secs|
+|**Material**|21 days 11 hours 31 mins 26 secs|432|1 hour 11 mins 36 secs|6 days 23 hours 40 mins|1 day 9 hours 19 mins|52.2|5 hours 11 mins 43 secs|
 |**Originality**|1 day 18 hours 2 mins 41 secs|40|1 hour 3 mins 4 secs|55 days 12 hours 21 mins|124 days 2 hours 32 mins|6.6|34 mins 33 secs|
 |**Parallel**|3 days 5 hours 40 mins 59 secs|87|53 mins 34 secs|21 days 16 hours 54 mins|21 days 56 mins 55 secs|16.8|1 hour 15 mins 4 secs|
 |**Pictorial**|1 day 22 hours 21 mins 9 secs|79|35 mins 12 secs|17 days 21 hours 14 mins|13 days 2 hours 13 mins|20.4|59 mins 52 secs|
-|**Reconcilable Differences**|15 days 23 hours 29 mins 59 secs|217|1 hour 46 mins 2 secs|14 days 15 mins 20 secs|1 day 16 hours 22 mins|26.1|3 hours 50 mins 12 secs|
+|**Reconcilable Differences**|16 days 42 mins 42 secs|218|1 hour 45 mins 53 secs|14 days 14 mins 35 secs|1 day 16 hours 16 mins|26.1|3 hours 49 mins 52 secs|
 |**Remaster**|4 days 16 hours 30 mins 15 secs|119|56 mins 43 secs|23 days 11 hours 23 mins|13 days 19 hours 39 mins|15.5|1 hour 13 mins 29 secs|
 |**Roboism**|2 days 3 hours 1 min 46 secs|67|45 mins 41 secs|35 days 3 hours 44 mins|68 days 7 hours 45 mins|10.4|39 mins 32 secs|
 |**Rocket**|21 days 1 min 27 secs|457|1 hour 6 mins 10 secs|6 days 23 hours 2 mins|18 hours 14 mins 4 secs|52.4|4 hours 49 mins 11 secs|
@@ -73,4 +73,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:05 29/09/2023
+Generated at: 00:00:04 30/09/2023
