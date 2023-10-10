@@ -8,13 +8,13 @@ connected:470
 cortex:147
 departures:10
 downstream:54
-focused:187
+focused:188
 liftoff:171
 mpu:713
 makedo:103
 material:432
 originality:40
-parallel:86
+parallel:87
 pictorial:79
 rd:218
 remaster:120
