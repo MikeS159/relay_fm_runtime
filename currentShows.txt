@@ -15,11 +15,11 @@ makedo:103
 material:436
 originality:40
 parallel:87
-pictorial:80
+pictorial:81
 rd:220
 remaster:121
 roboism:68
-rocket:462
+rocket:463
 backmarkers:26
 penaddict:589
 tc:105
