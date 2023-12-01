@@ -1,5 +1,5 @@
 analogue:219
-automators:141
+automators:142
 bonanza:40
 b-sides:43
 clockwise:531
@@ -15,7 +15,7 @@ makedo:103
 material:440
 originality:40
 parallel:88
-pictorial:81
+pictorial:82
 rd:222
 remaster:121
 roboism:68
