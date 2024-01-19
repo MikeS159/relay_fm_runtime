@@ -16,7 +16,7 @@ material:446
 originality:40
 parallel:89
 pictorial:85
-rd:225
+rd:226
 remaster:122
 roboism:69
 rocket:470
