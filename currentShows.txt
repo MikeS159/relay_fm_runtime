@@ -4,7 +4,7 @@ bonanza:40
 b-sides:43
 clockwise:541
 conduit:68
-connected:488
+connected:489
 cortex:152
 departures:10
 downstream:62
@@ -16,8 +16,8 @@ material:451
 originality:40
 parallel:90
 pictorial:85
-rd:227
-remaster:122
+rd:228
+remaster:123
 roboism:69
 rocket:470
 backmarkers:28
