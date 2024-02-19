@@ -26,4 +26,4 @@ tc:107
 topfour:101
 radar:286
 ungeniused:205
-upgrade:499
+upgrade:500
