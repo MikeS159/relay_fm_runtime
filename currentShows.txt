@@ -3,7 +3,7 @@ automators:149
 bonanza:40
 b-sides:43
 clockwise:546
-conduit:70
+conduit:71
 connected:494
 cortex:152
 departures:10
@@ -22,7 +22,7 @@ roboism:70
 rocket:470
 backmarkers:29
 penaddict:607
-tc:109
+tc:110
 topfour:101
 radar:288
 ungeniused:208
