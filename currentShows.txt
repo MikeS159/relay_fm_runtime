@@ -2,9 +2,9 @@ analogue:223
 automators:151
 bonanza:40
 b-sides:43
-clockwise:548
+clockwise:549
 conduit:72
-connected:496
+connected:497
 cortex:153
 departures:10
 downstream:66
@@ -24,6 +24,6 @@ backmarkers:29
 penaddict:610
 tc:110
 topfour:101
-radar:289
+radar:290
 ungeniused:209
 upgrade:507
