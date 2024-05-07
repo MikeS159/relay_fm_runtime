@@ -227,6 +227,9 @@ def main():
         print("New Show List:")
         for show in new_shows:
             print(show);
+        print("Latest Show List:")
+        for show in latest_shows:
+            print(show);
     
     for new_show in new_shows:
         file.write("\n New show needs adding - " + new_show)
