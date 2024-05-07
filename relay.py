@@ -108,6 +108,7 @@ def parse_prediction_feed(feed_name, last_checked):
             print(ss[0] + ": Update Needed")
 
     for e in ents:
+        time_list.append(0.0)
         length = e['itunes_duration']
         if (e['id'] == 'http://relay.fm/parallel/39'):
             length = '3929'
