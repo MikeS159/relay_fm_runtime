@@ -18,7 +18,7 @@ rd:233
 remaster:125
 roboism:70
 backmarkers:29
-paperplaces:0
+paperplaces:-1
 penaddict:613
 tc:111
 topfour:101
