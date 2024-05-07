@@ -4,11 +4,11 @@
 
 ## Total active shows: 27
 
-### Yearly output: nan years nan days nan hours
+### Yearly output: 30 days 3 hours 39 mins
 
-### Monthly output: nan years nan days nan hours
+### Monthly output: 2 days 12 hours 18 mins
 
-## Time untill 1 year of content: nan years nan days
+## Time untill 1 year of content: 196 days 18 hours
 
 
 -------------------------------------------------
@@ -37,7 +37,7 @@
 |**Remaster**|4 days 21 hours 40 mins 37 secs|125|56 mins 29 secs|24 days 9 hours 16 mins|14 days 15 hours 20 mins|15.0|1 hour 10 mins 27 secs|
 |**Roboism**|2 days 5 hours 46 mins 47 secs|70|46 mins 5 secs|36 days 5 hours 20 mins|67 days 6 hours 13 mins|10.1|38 mins 42 secs|
 |**The Backmarkers**|1 day 4 hours 51 mins 10 secs|28|1 hour 1 min 49 secs|26 days 6 hours 13 mins|29 days 8 hours 39 mins|13.9|1 hour 11 mins 36 secs|
-|**Paper Places**|13 mins 57 secs|1|13 mins 57 secs|nan years nan days nan hours|nan years nan days nan hours|nan|nan years nan days nan hours nan mins|
+|**Paper Places**|13 mins 57 secs|1|13 mins 57 secs|1 year||1.0|1 min 9 secs|
 |**The Pen Addict**|26 days 5 hours 6 mins 30 secs|613|1 hour 1 min 34 secs|7 days 7 hours 6 mins|3 days 10 hours 54 mins|50.0|4 hours 16 mins 42 secs|
 |**Thoroughly Considered**|3 days 18 hours 21 mins 1 sec|110|49 mins 16 secs|28 days 20 hours 30 mins|13 days 4 hours 10 mins|12.6|51 mins 57 secs|
 |**Top Four**|3 days 8 hours 21 mins 41 secs|101|47 mins 44 secs|28 days 17 hours 45 mins|9 days 21 hours 36 mins|12.7|50 mins 31 secs|
@@ -74,4 +74,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 17:12:39 07/05/2024
+Generated at: 17:23:56 07/05/2024
