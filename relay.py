@@ -122,6 +122,9 @@ def parse_prediction_feed(feed_name, last_checked):
         total_len += int(float("".join(length.split()))) #2
         time_list.append(time.mktime(e['published_parsed']))
     time_list = list(reversed(time_list))
+    if len(time_list) < 2:
+        diff_gap = 0
+        avg_gap = 0
     diff_gap = numpy.diff(time_list)
     avg_gap = numpy.average(diff_gap)
     if feed_name == "paperplaces":
