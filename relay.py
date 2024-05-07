@@ -188,7 +188,7 @@ def compareShows(latest_shows, shows_list):
                 last_Episode = show.lastCheckedEpisode
                 break
         if found:
-            if int(last_Episode) < int(latest.episode):
+            if int(last_Episode) < int(latest.episode) or int(last_Episode) == 0:
                 needs_update.append(showName)
         else:
             new_shows.append(showName)
