@@ -192,6 +192,7 @@ def compareShows(latest_shows, shows_list):
                 needs_update.append(showName)
         else:
             new_shows.append(showName)
+            print("New show - " + showName + "\n");
     return needs_update, new_shows
 
 def main():
