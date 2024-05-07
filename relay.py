@@ -229,7 +229,7 @@ def main():
             print(show);
         print("Latest Show List:")
         for show in latest_shows:
-            print(show);
+            print(show.name);
     
     for new_show in new_shows:
         file.write("\n New show needs adding - " + new_show)
