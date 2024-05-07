@@ -122,8 +122,11 @@ def parse_prediction_feed(feed_name, last_checked):
         total_len += int(float("".join(length.split()))) #2
         time_list.append(time.mktime(e['published_parsed']))
     time_list = list(reversed(time_list))
+    print(time_list)
     diff_gap = numpy.diff(time_list)
+    print(diff_gap)
     avg_gap = numpy.average(diff_gap)
+    print(avg_gap)
     avg_length = total_len / num_shows
     shows_per_year = 31536000 / avg_gap
     yearly_output = avg_length * shows_per_year
