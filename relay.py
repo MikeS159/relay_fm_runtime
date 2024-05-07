@@ -103,7 +103,7 @@ def parse_prediction_feed(feed_name, last_checked):
     if(len(ss) == 2):
         show_Checked = Show(name=ss[0], episode=ss[1])
         shows_Checked.append(show_Checked)
-        if int(ss[1]) > int(last_checked):
+        if int(ss[1]) > int(last_checked) or int(ss[1]) == 0:
             update_needed = True
             print(ss[0] + ": Update Needed")
 
