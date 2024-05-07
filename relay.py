@@ -128,10 +128,6 @@ def parse_prediction_feed(feed_name, last_checked):
     else:
         diff_gap = numpy.diff(time_list)
         avg_gap = numpy.average(diff_gap)
-    if feed_name == "paperplaces":
-        print(avg_gap)
-        print(diff_gap)
-        print(time_list)
     avg_length = total_len / num_shows
     shows_per_year = 31536000 / avg_gap
     yearly_output = avg_length * shows_per_year
