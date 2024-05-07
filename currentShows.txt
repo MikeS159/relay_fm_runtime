@@ -13,12 +13,12 @@ mpu:743
 makedo:103
 material:462
 originality:40
+paperplaces:0
 parallel:91
 rd:233
 remaster:125
 roboism:70
 backmarkers:29
-paperplaces:0
 penaddict:613
 tc:111
 topfour:101
