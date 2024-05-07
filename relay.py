@@ -209,6 +209,12 @@ def main():
     latest_shows = getShows()
     shows_to_update, new_shows = compareShows(latest_shows, shows_list)
 
+    file = 0
+    if use_git:
+        file = open(path + "docs/index.md","w")
+    else:
+        file = open("docs/index.md","w")
+    
     for new_show in new_shows:
         file.write("\n New show needs adding - " + new_show)
     
@@ -235,11 +241,6 @@ def main():
     summary_output.append(h2 + "Time untill 1 year of content: " + display_time(time_to_one_year, 2) + dblel)
     summary_output.append("\n-------------------------------------------------\n\n")
 
-    file = 0
-    if use_git:
-        file = open(path + "docs/index.md","w")
-    else:
-        file = open("docs/index.md","w")
 
     for s in summary_output:
         file.write(s)
