@@ -209,6 +209,7 @@ def main():
     old_shows_list, shows_list = readShowList(path)
     latest_shows = getShows()
     shows_to_update, new_shows = compareShows(latest_shows, shows_list)
+    shows_to_update.append("paperplaces")
 
     file = 0
     if use_git:
