@@ -209,6 +209,9 @@ def main():
     latest_shows = getShows()
     shows_to_update, new_shows = compareShows(latest_shows, shows_list)
 
+    for new_show in new_shows:
+        file.write("\n New show needs adding - " + new_show)
+    
     if(len(shows_to_update) == 0):
         print("No update needed, exiting...")
         sys.exit(0)
@@ -254,9 +257,6 @@ def main():
     file.write(vert_sep_old + "\n")
     for s in old_show_output:
         file.write(s)
-
-    for new_show in new_shows:
-        file.write("\n New show needs adding - " + new_show)
 
     current_time = now.strftime("%H:%M:%S %d/%m/%Y")
     file.write("\nGenerated at: " + current_time + "\n")
