@@ -215,16 +215,16 @@ def main():
         file = open(path + "docs/index.md","w")
     else:
         file = open("docs/index.md","w")
-        print("Old Show List")
+        print("Old Show List:")
         for show in old_shows_list:
             print(show);
-        print("Current Show List")
+        print("Current Show List:")
         for show in shows_list:
-            print(show);
-        print("Update Show List")
+            print(show.name);
+        print("Update Show List:")
         for show in shows_to_update:
             print(show);
-        print("New Show List")
+        print("New Show List:")
         for show in new_shows:
             print(show);
     
