@@ -1,14 +1,14 @@
 ## Total shows: 50
 
-### Total shows length: 348 days 17 hours 54 mins 26 secs
+### Total shows length: 348 days 21 hours 16 mins 5 secs
 
 ## Total active shows: 27
 
-### Yearly output: 30 days 3 hours 39 mins
+### Yearly output: 30 days 3 hours 41 mins
 
 ### Monthly output: 2 days 12 hours 18 mins
 
-## Time untill 1 year of content: 196 days 18 hours
+## Time untill 1 year of content: 195 days 1 hour
 
 
 -------------------------------------------------
@@ -27,7 +27,7 @@
 |**Cortex**|10 days 17 hours 11 mins 57 secs|154|1 hour 40 mins 12 secs|21 days 5 hours 38 mins|10 days 4 hours 46 mins|17.2|2 hours 23 mins 32 secs|
 |**Departures**|1 day 23 hours 1 min 51 secs|10|4 hours 42 mins 11 secs|165 days 21 hours 30 mins|147 days 9 hours 1 min|2.2|51 mins 44 secs|
 |**Downstream**|2 days 20 hours 22 mins 59 secs|69|59 mins 27 secs|13 days 22 hours 16 mins|2 days 13 hours 53 mins|26.2|2 hours 9 mins 51 secs|
-|**Focused**|9 days 20 hours 43 mins 49 secs|202|1 hour 10 mins 18 secs|14 days 1 hour 40 mins|23 hours 10 mins 34 secs|25.9|2 hours 32 mins|
+|**Focused**|9 days 22 hours 7 mins 36 secs|203|1 hour 10 mins 22 secs|14 days 1 hour 40 mins|23 hours 7 mins 7 secs|25.9|2 hours 32 mins 9 secs|
 |**Mac Power Users**|48 days 5 hours 56 mins 1 sec|743|1 hour 33 mins 30 secs|7 days 9 hours 13 mins|2 days 23 hours 45 mins|49.4|6 hours 25 mins 10 secs|
 |**Make Do**|3 days 24 mins 44 secs|103|42 mins 10 secs|15 days 2 hours 24 mins|4 days 23 hours 22 mins|24.2|1 hour 24 mins 58 secs|
 |**Material**|22 days 23 hours 17 mins 40 secs|463|1 hour 11 mins 26 secs|6 days 23 hours 39 mins|1 day 8 hours 26 mins|52.2|5 hours 11 mins 3 secs|
@@ -43,7 +43,7 @@
 |**Top Four**|3 days 8 hours 21 mins 41 secs|101|47 mins 44 secs|28 days 17 hours 45 mins|9 days 21 hours 36 mins|12.7|50 mins 31 secs|
 |**Under the Radar**|5 days 23 hours 17 mins 4 secs|291|29 mins 32 secs|10 days 16 hours 33 mins|5 days 9 hours 56 mins|34.1|1 hour 24 mins 3 secs|
 |**Ungeniused**|1 day 14 hours 17 mins 10 secs|210|10 mins 56 secs|13 days 17 hours 25 mins|4 days 20 hours 51 mins|26.6|24 mins 14 secs|
-|**Upgrade**|33 days 16 hours 38 mins 44 secs|510|1 hour 35 mins 8 secs|6 days 21 hours 38 mins|18 hours 10 mins 23 secs|52.9|6 hours 59 mins 16 secs|
+|**Upgrade**|33 days 18 hours 36 mins 36 secs|511|1 hour 35 mins 10 secs|6 days 21 hours 41 mins|18 hours 12 mins 1 sec|52.9|6 hours 59 mins 19 secs|
 
 -------------------------------------------------
 
@@ -74,4 +74,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:03 08/05/2024
+Generated at: 06:00:03 08/05/2024
