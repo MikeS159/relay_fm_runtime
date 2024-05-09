@@ -256,7 +256,7 @@ def main():
     summary_output.append(h3 + "Yearly output: " + display_time(yearly_output, 3) + dblel)
     summary_output.append(h3 + "Monthly output: " + display_time(yearly_output/12, 3) + dblel)
 
-    summary_output.append(h2 + "Time untill 1 year of content: " + display_time(time_to_one_year, 2) + dblel)
+    summary_output.append(h2 + "Estimated time untill 1 year of content: " + display_time(time_to_one_year, 2) + dblel)
     summary_output.append("\n-------------------------------------------------\n\n")
 
 
