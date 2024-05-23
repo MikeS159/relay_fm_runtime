@@ -1,14 +1,14 @@
 ## Total shows: 50
 
-### Total shows length: 349 days 22 hours 23 mins 29 secs
+### Total shows length: 350 days 1 hour 26 mins 17 secs
 
 ## Total active shows: 27
 
-### Yearly output: 32 days 14 hours 10 mins
+### Yearly output: 32 days 14 hours 11 mins
 
 ### Monthly output: 2 days 17 hours 10 mins
 
-## Estimated time untill 1 year of content: 168 days 17 hours
+## Estimated time untill 1 year of content: 167 days 7 hours
 
 
 -------------------------------------------------
@@ -24,7 +24,7 @@
 |**Clockwise**|10 days 7 hours 20 mins 1 sec|503|29 mins 30 secs|7 days 23 hours 19 mins|20 days 12 hours 12 mins|45.8|1 hour 52 mins 33 secs|
 |**Conduit**|3 days 1 hour 37 mins 29 secs|76|58 mins 7 secs|13 days 21 hours 32 mins|22 hours 21 mins 21 secs|26.3|2 hours 7 mins 12 secs|
 |**Connected**|30 days 13 hours 42 mins 18 secs|503|1 hour 27 mins 31 secs|7 days 2 hours 27 mins|1 day 1 hour 45 mins|51.4|6 hours 14 mins 47 secs|
-|**Cortex**|10 days 17 hours 11 mins 57 secs|154|1 hour 40 mins 12 secs|21 days 5 hours 38 mins|10 days 4 hours 46 mins|17.2|2 hours 23 mins 32 secs|
+|**Cortex**|10 days 19 hours 46 mins 18 secs|155|1 hour 40 mins 33 secs|21 days 6 hours 40 mins|10 days 4 hours 19 mins|17.2|2 hours 23 mins 44 secs|
 |**Departures**|1 day 23 hours 1 min 51 secs|10|4 hours 42 mins 11 secs|165 days 21 hours 30 mins|147 days 9 hours 1 min|2.2|51 mins 44 secs|
 |**Downstream**|2 days 21 hours 33 mins 14 secs|70|59 mins 37 secs|13 days 22 hours 20 mins|2 days 13 hours 27 mins|26.2|2 hours 10 mins 10 secs|
 |**Focused**|9 days 23 hours 29 mins 55 secs|204|1 hour 10 mins 26 secs|14 days 1 hour 40 mins|23 hours 3 mins 43 secs|25.9|2 hours 32 mins 17 secs|
@@ -41,7 +41,7 @@
 |**The Pen Addict**|26 days 8 hours 6 mins 38 secs|616|1 hour 1 min 34 secs|7 days 7 hours 4 mins|3 days 10 hours 42 mins|50.0|4 hours 16 mins 43 secs|
 |**Thoroughly Considered**|3 days 18 hours 21 mins 1 sec|110|49 mins 16 secs|28 days 20 hours 30 mins|13 days 4 hours 10 mins|12.6|51 mins 57 secs|
 |**Top Four**|3 days 8 hours 21 mins 41 secs|101|47 mins 44 secs|28 days 17 hours 45 mins|9 days 21 hours 36 mins|12.7|50 mins 31 secs|
-|**Under the Radar**|5 days 23 hours 46 mins 42 secs|292|29 mins 32 secs|10 days 16 hours 24 mins|5 days 9 hours 44 mins|34.2|1 hour 24 mins 6 secs|
+|**Under the Radar**|6 days 15 mins 9 secs|293|29 mins 32 secs|10 days 16 hours 41 mins|5 days 9 hours 36 mins|34.1|1 hour 24 mins|
 |**Ungeniused**|1 day 14 hours 27 mins 25 secs|211|10 mins 56 secs|13 days 19 hours 3 mins|4 days 22 hours 56 mins|26.5|24 mins 6 secs|
 |**Upgrade**|33 days 22 hours 11 mins 14 secs|513|1 hour 35 mins 13 secs|6 days 21 hours 39 mins|18 hours 11 mins 42 secs|52.9|6 hours 59 mins 38 secs|
 
@@ -74,4 +74,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:04 23/05/2024
+Generated at: 18:00:03 23/05/2024
