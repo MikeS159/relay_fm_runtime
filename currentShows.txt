@@ -2,9 +2,9 @@ analogue:225
 automators:154
 bonanza:40
 b-sides:43
-clockwise:555
+clockwise:556
 conduit:75
-connected:503
+connected:504
 cortex:155
 departures:10
 downstream:69
@@ -14,7 +14,7 @@ makedo:103
 material:465
 originality:40
 paperplaces:1
-parallel:91
+parallel:92
 rd:235
 remaster:126
 roboism:70
