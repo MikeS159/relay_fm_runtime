@@ -13,7 +13,7 @@ mpu:746
 makedo:103
 material:466
 originality:40
-paperplaces:1
+paperplaces:2
 parallel:92
 rd:235
 remaster:126
