@@ -1,14 +1,14 @@
 ## Total shows: 50
 
-### Total shows length: 351 days 33 mins 45 secs
+### Total shows length: 351 days 2 hours 40 mins 38 secs
 
 ## Total active shows: 27
 
-### Yearly output: 31 days 3 hours 35 mins
+### Yearly output: 31 days 3 hours 37 mins
 
-### Monthly output: 2 days 14 hours 17 mins
+### Monthly output: 2 days 14 hours 18 mins
 
-## Estimated time untill 1 year of content: 163 days 18 hours
+## Estimated time untill 1 year of content: 162 days 17 hours
 
 
 -------------------------------------------------
@@ -21,9 +21,9 @@
 |**Automators**|8 days 1 hour 38 mins 47 secs|156|1 hour 14 mins 28 secs|13 days 22 hours 29 mins|20 hours 22 mins 49 secs|26.2|2 hours 42 mins 32 secs|
 |**BONANZA**|1 day 15 hours 7 mins 1 sec|40|58 mins 40 secs|67 days 20 hours 11 mins|91 days 14 hours 36 mins|5.4|26 mins 18 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
-|**Clockwise**|10 days 7 hours 50 mins|504|29 mins 30 secs|7 days 23 hours 16 mins|20 days 11 hours 43 mins|45.8|1 hour 52 mins 35 secs|
+|**Clockwise**|10 days 8 hours 19 mins 59 secs|505|29 mins 30 secs|7 days 23 hours 14 mins|20 days 11 hours 14 mins|45.8|1 hour 52 mins 37 secs|
 |**Conduit**|3 days 2 hours 43 mins 47 secs|77|58 mins 13 secs|13 days 21 hours 32 mins|22 hours 12 mins 30 secs|26.3|2 hours 7 mins 26 secs|
-|**Connected**|30 days 15 hours 2 mins 18 secs|504|1 hour 27 mins 30 secs|7 days 2 hours 27 mins|1 day 1 hour 43 mins|51.4|6 hours 14 mins 44 secs|
+|**Connected**|30 days 16 hours 39 mins 12 secs|505|1 hour 27 mins 31 secs|7 days 2 hours 27 mins|1 day 1 hour 42 mins|51.4|6 hours 14 mins 49 secs|
 |**Cortex**|10 days 19 hours 46 mins 18 secs|155|1 hour 40 mins 33 secs|21 days 6 hours 40 mins|10 days 4 hours 19 mins|17.2|2 hours 23 mins 44 secs|
 |**Departures**|1 day 23 hours 1 min 51 secs|10|4 hours 42 mins 11 secs|165 days 21 hours 30 mins|147 days 9 hours 1 min|2.2|51 mins 44 secs|
 |**Downstream**|2 days 22 hours 19 mins 37 secs|71|59 mins 25 secs|13 days 21 hours 59 mins|2 days 13 hours 4 mins|26.2|2 hours 9 mins 53 secs|
@@ -74,4 +74,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 18:00:03 05/06/2024
+Generated at: 00:00:05 06/06/2024
