@@ -3,7 +3,7 @@ automators:155
 bonanza:40
 b-sides:43
 clockwise:558
-conduit:76
+conduit:77
 connected:505
 cortex:155
 departures:10
@@ -22,6 +22,6 @@ backmarkers:29
 penaddict:619
 tc:112
 topfour:101
-radar:294
+radar:295
 ungeniused:213
 upgrade:516
