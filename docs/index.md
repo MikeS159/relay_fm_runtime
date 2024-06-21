@@ -1,14 +1,14 @@
 ## Total shows: 50
 
-### Total shows length: 352 days 6 hours 41 mins 3 secs
+### Total shows length: 352 days 7 hours 40 mins 38 secs
 
 ## Total active shows: 27
 
-### Yearly output: 31 days 5 hours 37 mins
+### Yearly output: 31 days 5 hours 35 mins
 
-### Monthly output: 2 days 14 hours 28 mins
+### Monthly output: 2 days 14 hours 27 mins
 
-## Estimated time untill 1 year of content: 148 days 15 hours
+## Estimated time untill 1 year of content: 148 days 4 hours
 
 
 -------------------------------------------------
@@ -30,7 +30,7 @@
 |**Focused**|10 days 2 hours 5 mins 6 secs|206|1 hour 10 mins 30 secs|14 days 1 hour 39 mins|22 hours 57 mins 50 secs|25.9|2 hours 32 mins 26 secs|
 |**Mac Power Users**|48 days 14 hours 39 mins 46 secs|749|1 hour 33 mins 27 secs|7 days 9 hours 3 mins|2 days 23 hours 42 mins|49.5|6 hours 25 mins 20 secs|
 |**Make Do**|3 days 24 mins 44 secs|103|42 mins 10 secs|15 days 2 hours 24 mins|4 days 23 hours 22 mins|24.2|1 hour 24 mins 58 secs|
-|**Material**|23 days 6 hours 7 mins 55 secs|469|1 hour 11 mins 24 secs|6 days 23 hours 39 mins|1 day 8 hours 16 mins|52.2|5 hours 10 mins 52 secs|
+|**Material**|23 days 7 hours 7 mins 30 secs|470|1 hour 11 mins 22 secs|6 days 23 hours 42 mins|1 day 8 hours 15 mins|52.2|5 hours 10 mins 41 secs|
 |**Originality**|1 day 18 hours 2 mins 41 secs|40|1 hour 3 mins 4 secs|55 days 12 hours 21 mins|124 days 2 hours 32 mins|6.6|34 mins 33 secs|
 |**Paper Places**|3 hours 46 mins 10 secs|4|56 mins 32 secs|13 days|6 days 21 hours 25 mins|28.1|2 hours 12 mins 17 secs|
 |**Parallel**|3 days 10 hours 59 mins 57 secs|93|53 mins 32 secs|23 days 2 hours 38 mins|21 days 7 hours 45 mins|15.8|1 hour 10 mins 28 secs|
@@ -74,4 +74,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 18:00:03 20/06/2024
+Generated at: 00:00:03 22/06/2024
