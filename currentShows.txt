@@ -3,7 +3,7 @@ automators:158
 bonanza:40
 b-sides:43
 clockwise:562
-conduit:78
+conduit:79
 connected:510
 cortex:156
 departures:10
@@ -11,7 +11,7 @@ downstream:72
 focused:207
 mpu:752
 makedo:103
-material:471
+material:472
 originality:40
 paperplaces:3
 parallel:93
@@ -20,7 +20,7 @@ remaster:126
 roboism:70
 backmarkers:29
 penaddict:623
-tc:113
+tc:114
 topfour:101
 radar:297
 ungeniused:215
