@@ -1,4 +1,3 @@
-20macs
 adapt
 almanac
 bionic

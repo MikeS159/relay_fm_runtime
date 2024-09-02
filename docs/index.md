@@ -2,13 +2,13 @@
 
 ### Total shows length: 357 days 6 hours 54 mins 18 secs
 
-## Total active shows: 27
+## Total active shows: 28
 
-### Yearly output: 30 days 13 hours 3 secs
+### Yearly output: 30 days 16 hours 16 mins
 
-### Monthly output: 2 days 13 hours 5 mins
+### Monthly output: 2 days 13 hours 21 mins
 
-## Estimated time untill 1 year of content: 92 days 4 hours
+## Estimated time untill 1 year of content: 91 days 18 hours
 
 
 -------------------------------------------------
@@ -17,6 +17,7 @@
 ## Active Shows
 |Show|Total Length|Number of Shows|Average Length|Average Gap|Standard Deviation|Shows Per Year|Monthly Show Output|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|**20 Macs**|13 hours 48 mins 9 secs|29|28 mins 33 secs|53 days 46 mins 4 secs|230 days 10 hours 40 mins|6.9|16 mins 22 secs|
 |**Analog(ue)**|11 days 20 hours 47 mins 14 secs|228|1 hour 14 mins 56 secs|16 days 1 hour 29 mins|9 days 16 hours 2 mins|22.7|2 hours 21 mins 55 secs|
 |**Automators**|8 days 7 hours 15 mins 4 secs|162|1 hour 13 mins 47 secs|13 days 22 hours 32 mins|20 hours 6 mins 4 secs|26.2|2 hours 41 mins 1 sec|
 |**BONANZA**|1 day 15 hours 7 mins 1 sec|40|58 mins 40 secs|67 days 20 hours 11 mins|91 days 14 hours 36 mins|5.4|26 mins 18 secs|
@@ -50,7 +51,6 @@
 ## Retired Shows
 |Show|Total Length|Number of Shows|Average Length|
 |:---:|:---:|:---:|:---:|
-|**20 Macs**|13 hours 48 mins 9 secs|29|28 mins 33 secs|
 |**Adapt**|1 day 20 hours 48 mins 45 secs|41|1 hour 5 mins 34 secs|
 |**Almanac**|1 hour 29 mins 48 secs|1|1 hour 29 mins 48 secs|
 |**Bionic**|1 day 19 hours 46 mins 15 secs|45|58 mins 21 secs|
@@ -74,5 +74,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
- New show needs adding - 20macs
-Generated at: 00:00:03 02/09/2024
+Generated at: 16:16:37 02/09/2024
