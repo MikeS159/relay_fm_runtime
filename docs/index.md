@@ -1,14 +1,14 @@
 ## Total shows: 50
 
-### Total shows length: 358 days 2 hours 12 mins 46 secs
+### Total shows length: 358 days 3 hours 40 mins 52 secs
 
 ## Total active shows: 28
 
-### Yearly output: 30 days 16 hours 19 mins
+### Yearly output: 30 days 16 hours 21 mins
 
 ### Monthly output: 2 days 13 hours 21 mins
 
-## Estimated time untill 1 year of content: 82 days 4 hours
+## Estimated time untill 1 year of content: 81 days 10 hours
 
 
 -------------------------------------------------
@@ -40,9 +40,9 @@
 |**Roboism**|2 days 5 hours 46 mins 47 secs|70|46 mins 5 secs|36 days 5 hours 20 mins|67 days 6 hours 13 mins|10.1|38 mins 42 secs|
 |**The Backmarkers**|1 day 7 hours 13 mins 56 secs|30|1 hour 2 mins 27 secs|30 days 17 hours 20 mins|36 days 16 hours 12 mins|11.9|1 hour 1 min 50 secs|
 |**The Pen Addict**|26 days 23 hours 10 mins 41 secs|631|1 hour 1 min 32 secs|7 days 7 hours 9 mins|3 days 10 hours 1 min|50.0|4 hours 16 mins 27 secs|
-|**Thoroughly Considered**|3 days 22 hours 5 mins 16 secs|114|49 mins 31 secs|28 days 19 hours 57 mins|13 days 2 hours 17 mins|12.7|52 mins 14 secs|
+|**Thoroughly Considered**|3 days 23 hours 5 mins 28 secs|115|49 mins 36 secs|28 days 18 hours 18 mins|13 days 1 hour 24 mins|12.7|52 mins 27 secs|
 |**Top Four**|3 days 8 hours 21 mins 41 secs|101|47 mins 44 secs|28 days 17 hours 45 mins|9 days 21 hours 36 mins|12.7|50 mins 31 secs|
-|**Under the Radar**|6 days 3 hours 42 mins 2 secs|300|29 mins 32 secs|10 days 18 hours 37 mins|5 days 11 hours 9 mins|33.9|1 hour 23 mins 22 secs|
+|**Under the Radar**|6 days 4 hours 9 mins 56 secs|301|29 mins 32 secs|10 days 18 hours 47 mins|5 days 10 hours 57 mins|33.8|1 hour 23 mins 18 secs|
 |**Ungeniused**|1 day 15 hours 39 mins 22 secs|219|10 mins 51 secs|13 days 19 hours 14 mins|4 days 20 hours 44 mins|26.4|23 mins 56 secs|
 |**Upgrade**|34 days 23 hours 3 mins 3 secs|528|1 hour 35 mins 20 secs|6 days 22 hours 2 mins|19 hours 34 mins 35 secs|52.8|6 hours 59 mins 10 secs|
 
@@ -74,4 +74,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:02 12/09/2024
+Generated at: 18:00:03 12/09/2024
