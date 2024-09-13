@@ -1,14 +1,14 @@
 ## Total shows: 50
 
-### Total shows length: 358 days 3 hours 40 mins 52 secs
+### Total shows length: 358 days 5 hours 5 mins 36 secs
 
 ## Total active shows: 28
 
-### Yearly output: 30 days 16 hours 21 mins
+### Yearly output: 30 days 16 hours 18 mins
 
 ### Monthly output: 2 days 13 hours 21 mins
 
-## Estimated time untill 1 year of content: 81 days 10 hours
+## Estimated time untill 1 year of content: 80 days 18 hours
 
 
 -------------------------------------------------
@@ -35,7 +35,7 @@
 |**Originality**|1 day 18 hours 2 mins 41 secs|40|1 hour 3 mins 4 secs|55 days 12 hours 21 mins|124 days 2 hours 32 mins|6.6|34 mins 33 secs|
 |**Paper Places**|5 hours 42 mins 3 secs|6|57 mins|23 days 4 hours 54 mins|14 days 15 hours 2 mins|15.7|1 hour 14 mins 43 secs|
 |**Parallel**|3 days 12 hours 30 mins 5 secs|94|53 mins 56 secs|23 days 3 hours 44 mins|21 days 5 hours 6 mins|15.8|1 hour 10 mins 50 secs|
-|**Reconcilable Differences**|17 days 15 hours 1 min 39 secs|242|1 hour 44 mins 52 secs|14 days 7 mins 20 secs|1 day 15 hours 40 mins|26.1|3 hours 47 mins 47 secs|
+|**Reconcilable Differences**|17 days 16 hours 26 mins 23 secs|243|1 hour 44 mins 47 secs|14 days 12 mins 31 secs|1 day 15 hours 36 mins|26.1|3 hours 47 mins 32 secs|
 |**Remaster**|5 days 28 mins 12 secs|128|56 mins 28 secs|24 days 19 hours 6 mins|14 days 18 hours 17 mins|14.7|1 hour 9 mins 16 secs|
 |**Roboism**|2 days 5 hours 46 mins 47 secs|70|46 mins 5 secs|36 days 5 hours 20 mins|67 days 6 hours 13 mins|10.1|38 mins 42 secs|
 |**The Backmarkers**|1 day 7 hours 13 mins 56 secs|30|1 hour 2 mins 27 secs|30 days 17 hours 20 mins|36 days 16 hours 12 mins|11.9|1 hour 1 min 50 secs|
@@ -74,4 +74,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 18:00:03 12/09/2024
+Generated at: 00:00:02 14/09/2024
