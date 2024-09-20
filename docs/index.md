@@ -1,14 +1,14 @@
 ## Total shows: 50
 
-### Total shows length: 358 days 14 hours 57 mins 52 secs
+### Total shows length: 358 days 15 hours 40 mins 34 secs
 
 ## Total active shows: 28
 
-### Yearly output: 30 days 16 hours 10 mins
+### Yearly output: 30 days 16 hours 5 mins
 
 ### Monthly output: 2 days 13 hours 20 mins
 
-## Estimated time untill 1 year of content: 75 days 21 hours
+## Estimated time untill 1 year of content: 75 days 12 hours
 
 
 -------------------------------------------------
@@ -19,7 +19,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**20 Macs**|13 hours 48 mins 9 secs|29|28 mins 33 secs|53 days 46 mins 4 secs|230 days 10 hours 40 mins|6.9|16 mins 22 secs|
 |**Analog(ue)**|11 days 21 hours 53 mins 57 secs|229|1 hour 14 mins 54 secs|16 days 2 hours 38 mins|9 days 16 hours 10 mins|22.7|2 hours 21 mins 25 secs|
-|**Automators**|8 days 8 hours 13 mins 42 secs|163|1 hour 13 mins 42 secs|13 days 22 hours 33 mins|20 hours 2 mins 26 secs|26.2|2 hours 40 mins 49 secs|
+|**Automators**|8 days 8 hours 56 mins 24 secs|164|1 hour 13 mins 30 secs|13 days 22 hours 34 mins|19 hours 58 mins 49 secs|26.2|2 hours 40 mins 23 secs|
 |**BONANZA**|1 day 15 hours 7 mins 1 sec|40|58 mins 40 secs|67 days 20 hours 11 mins|91 days 14 hours 36 mins|5.4|26 mins 18 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
 |**Clockwise**|10 days 15 hours 51 mins 31 secs|520|29 mins 31 secs|7 days 22 hours 33 mins|20 days 4 hours 6 mins|46.0|1 hour 53 mins 5 secs|
@@ -74,4 +74,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 18:00:02 20/09/2024
+Generated at: 00:00:03 21/09/2024
