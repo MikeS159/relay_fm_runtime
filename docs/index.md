@@ -1,14 +1,14 @@
 ## Total shows: 50
 
-### Total shows length: 359 days 21 hours 55 mins 10 secs
+### Total shows length: 359 days 22 hours 25 mins 4 secs
 
 ## Total active shows: 28
 
-### Yearly output: 30 days 16 hours 33 mins
+### Yearly output: 30 days 16 hours 34 mins
 
 ### Monthly output: 2 days 13 hours 22 mins
 
-## Estimated time untill 1 year of content: 60 days 11 hours
+## Estimated time untill 1 year of content: 60 days 5 hours
 
 
 -------------------------------------------------
@@ -22,7 +22,7 @@
 |**Automators**|8 days 8 hours 56 mins 24 secs|164|1 hour 13 mins 30 secs|13 days 22 hours 34 mins|19 hours 58 mins 49 secs|26.2|2 hours 40 mins 23 secs|
 |**BONANZA**|1 day 15 hours 7 mins 1 sec|40|58 mins 40 secs|67 days 20 hours 11 mins|91 days 14 hours 36 mins|5.4|26 mins 18 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
-|**Clockwise**|10 days 16 hours 19 mins 25 secs|521|29 mins 31 secs|7 days 22 hours 31 mins|20 days 3 hours 38 mins|46.0|1 hour 53 mins 6 secs|
+|**Clockwise**|10 days 16 hours 49 mins 19 secs|522|29 mins 31 secs|7 days 22 hours 28 mins|20 days 3 hours 10 mins|46.0|1 hour 53 mins 8 secs|
 |**Conduit**|3 days 10 hours 34 mins 48 secs|85|58 mins 17 secs|13 days 21 hours 39 mins|21 hours 14 mins 56 secs|26.3|2 hours 7 mins 31 secs|
 |**Connected**|31 days 18 hours 1 min 17 secs|521|1 hour 27 mins 45 secs|7 days 2 hours 42 mins|1 day 2 hours 30 mins|51.3|6 hours 15 mins 17 secs|
 |**Cortex**|11 days 1 hour 45 mins 20 secs|159|1 hour 40 mins 17 secs|21 days 11 hours 25 mins|10 days 3 hours 39 mins|17.0|2 hours 22 mins 1 sec|
@@ -74,4 +74,4 @@
 |**The Test Drivers**|2 days 11 hours 6 mins 28 secs|52|1 hour 8 mins 12 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:03 03/10/2024
+Generated at: 06:00:02 03/10/2024
