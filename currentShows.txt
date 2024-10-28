@@ -6,7 +6,7 @@ b-sides:43
 clockwise:577
 conduit:86
 connected:524
-cortex:159
+cortex:160
 departures:13
 downstream:80
 focused:215
@@ -25,4 +25,4 @@ tc:117
 topfour:101
 radar:304
 ungeniused:221
-upgrade:534
+upgrade:535
