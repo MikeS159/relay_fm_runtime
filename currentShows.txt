@@ -1,6 +1,6 @@
 20macs:28
 analogue:230
-automators:167
+automators:168
 bonanza:40
 b-sides:43
 clockwise:580
