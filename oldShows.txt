@@ -1,5 +1,4 @@
 adapt
-almanac
 bionic
 canvas
 cmdspace
@@ -8,15 +7,16 @@ download
 flashback
 inquisitive
 isometric
-liftoff
 ltoe
 mixedfeelings
+originality
+parallel
 pictorial
 playingforfun
 presentable
 query
 rocket
-subnet
 prompt
 testdrivers
+topfour
 virtual
