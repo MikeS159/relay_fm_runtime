@@ -3,9 +3,9 @@ analogue:231
 automators:168
 bonanza:40
 b-sides:43
-clockwise:581
+clockwise:582
 conduit:88
-connected:528
+connected:529
 cortex:161
 departures:13
 downstream:83
@@ -13,7 +13,7 @@ focused:217
 liftoff:171
 mpu:772
 makedo:103
-material:491
+material:492
 paperplaces:7
 rd:248
 remaster:130
