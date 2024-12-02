@@ -1,14 +1,14 @@
 ## Total shows: 48
 
-### Total shows length: 363 days 15 hours 36 mins 18 secs
+### Total shows length: 363 days 17 hours 23 mins 6 secs
 
 ## Total active shows: 26
 
-### Yearly output: 30 days 2 hours 47 secs
+### Yearly output: 30 days 2 hours 3 mins
 
 ### Monthly output: 2 days 12 hours 10 mins
 
-## Estimated time untill 1 year of content: 16 days 9 hours
+## Estimated time untill 1 year of content: 15 days 11 hours
 
 
 -------------------------------------------------
@@ -42,7 +42,7 @@
 |**Thoroughly Considered**|4 days 1 hour 33 mins 34 secs|117|50 mins 1 sec|28 days 19 hours 37 mins|12 days 23 hours 6 mins|12.7|52 mins 48 secs|
 |**Under the Radar**|6 days 6 hours 37 mins 46 secs|306|29 mins 32 secs|10 days 19 hours 59 mins|5 days 10 hours 44 mins|33.7|1 hour 22 mins 55 secs|
 |**Ungeniused**|1 day 16 hours 15 mins 50 secs|223|10 mins 50 secs|13 days 20 hours 50 mins|4 days 21 hours 54 mins|26.3|23 mins 45 secs|
-|**Upgrade**|35 days 17 hours 26 mins 7 secs|539|1 hour 35 mins 26 secs|6 days 22 hours 4 mins|19 hours 22 mins 57 secs|52.7|6 hours 59 mins 32 secs|
+|**Upgrade**|35 days 19 hours 33 mins 22 secs|540|1 hour 35 mins 30 secs|6 days 22 hours 5 mins|19 hours 21 mins 53 secs|52.7|6 hours 59 mins 47 secs|
 
 -------------------------------------------------
 
@@ -55,7 +55,7 @@
 |**CMD Space**|4 days 4 hours 56 mins 19 secs|103|58 mins 47 secs|
 |**Disruption**|4 days 5 hours 31 mins 12 secs|90|1 hour 7 mins 40 secs|
 |**Download**|4 days 5 hours 20 mins 10 secs|108|56 mins 17 secs|
-|**Flashback**|19 hours 49 mins 32 secs|26|45 mins 45 secs|
+|**Flashback**|19 hours 29 mins 5 secs|26|44 mins 57 secs|
 |**Inquisitive**|2 days 7 hours 8 mins 45 secs|59|56 mins 4 secs|
 |**Isometric**|5 days 21 hours 11 mins 6 secs|102|1 hour 23 mins 3 secs|
 |**Less Than or Equal**|4 days 5 hours 1 min 5 secs|100|1 hour 36 secs|
@@ -72,4 +72,4 @@
 |**Top Four**|3 days 8 hours 21 mins 41 secs|101|47 mins 44 secs|
 |**Virtual**|2 days 13 hours 26 mins 9 secs|61|1 hour 25 secs|
 
-Generated at: 00:00:03 02/12/2024
+Generated at: 00:00:03 03/12/2024
