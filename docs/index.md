@@ -1,14 +1,14 @@
 ## Total shows: 48
 
-### Total shows length: 1 year 11 hours 35 mins 29 secs
+### Total shows length: 1 year 13 hours 51 mins 18 secs
 
 ## Total active shows: 26
 
-### Yearly output: 30 days 36 mins 58 secs
+### Yearly output: 30 days 40 mins 44 secs
 
 ### Monthly output: 2 days 12 hours 3 mins
 
-## Estimated time untill 1 year of content: -1 years 359 days
+## Estimated time untill 1 year of content: -1 years 357 days
 
 
 -------------------------------------------------
@@ -42,7 +42,7 @@
 |**Thoroughly Considered**|4 days 2 hours 32 mins 18 secs|118|50 mins 6 secs|28 days 19 hours 18 mins|12 days 21 hours 47 mins|12.7|52 mins 54 secs|
 |**Under the Radar**|6 days 7 hours 37 mins 6 secs|308|29 mins 32 secs|10 days 20 hours 32 mins|5 days 10 hours 29 mins|33.6|1 hour 22 mins 45 secs|
 |**Ungeniused**|1 day 16 hours 28 mins 13 secs|224|10 mins 50 secs|13 days 22 hours 21 mins|4 days 23 hours 47 mins|26.2|23 mins 40 secs|
-|**Upgrade**|36 days 8 mins 31 secs|543|1 hour 35 mins 29 secs|6 days 22 hours 5 mins|19 hours 18 mins 41 secs|52.7|6 hours 59 mins 41 secs|
+|**Upgrade**|36 days 2 hours 27 mins 49 secs|544|1 hour 35 mins 33 secs|6 days 22 hours 6 mins|19 hours 17 mins 50 secs|52.7|7 hours|
 
 -------------------------------------------------
 
@@ -53,11 +53,11 @@
 |**Bionic**|1 day 19 hours 46 mins 15 secs|45|58 mins 21 secs|
 |**Canvas**|2 days 16 hours 27 mins 52 secs|76|50 mins 53 secs|
 |**CMD Space**|4 days 4 hours 56 mins 19 secs|103|58 mins 47 secs|
-|**Disruption**|4 days 5 hours 31 mins 12 secs|90|1 hour 7 mins 40 secs|
+|**Disruption**|4 days 5 hours 29 mins 23 secs|90|1 hour 7 mins 39 secs|
 |**Download**|4 days 5 hours 20 mins 10 secs|108|56 mins 17 secs|
 |**Flashback**|19 hours 29 mins 5 secs|26|44 mins 57 secs|
-|**Inquisitive**|2 days 7 hours 8 mins 21 secs|59|56 mins 4 secs|
-|**Isometric**|5 days 21 hours 11 mins 6 secs|102|1 hour 23 mins 3 secs|
+|**Inquisitive**|2 days 7 hours 7 mins 28 secs|59|56 mins 3 secs|
+|**Isometric**|5 days 21 hours 10 mins 19 secs|102|1 hour 23 mins 2 secs|
 |**Less Than or Equal**|4 days 5 hours 1 min 5 secs|100|1 hour 36 secs|
 |**Mixed Feelings**|2 days 7 hours 5 mins 51 secs|70|47 mins 13 secs|
 |**Originality**|1 day 18 hours 13 mins 11 secs|40|1 hour 3 mins 19 secs|
@@ -72,4 +72,4 @@
 |**Top Four**|3 days 8 hours 21 mins 41 secs|101|47 mins 44 secs|
 |**Virtual**|2 days 13 hours 25 mins 12 secs|61|1 hour 24 secs|
 
-Generated at: 00:00:02 30/12/2024
+Generated at: 06:00:02 31/12/2024
