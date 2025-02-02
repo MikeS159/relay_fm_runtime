@@ -1,14 +1,14 @@
 ## Total shows: 48
 
-### Total shows length: 1 year 2 days 12 hours 22 mins
+### Total shows length: 1 year 2 days 14 hours 4 secs
 
 ## Total active shows: 26
 
-### Yearly output: 29 days 23 hours 2 mins
+### Yearly output: 29 days 23 hours 3 mins
 
 ### Monthly output: 2 days 11 hours 55 mins
 
-## Estimated time untill 1 year of content: -1 years 334 days
+## Estimated time untill 1 year of content: -1 years 333 days
 
 
 -------------------------------------------------
@@ -30,7 +30,7 @@
 |**Downstream**|3 days 13 hours 53 mins 41 secs|88|58 mins 33 secs|13 days 22 hours 37 mins|2 days 14 hours 33 mins|26.2|2 hours 7 mins 45 secs|
 |**Focused**|10 days 22 hours 14 mins 48 secs|222|1 hour 10 mins 52 secs|14 days 1 hour 32 mins|22 hours 8 mins 26 secs|26.0|2 hours 33 mins 17 secs|
 |**Liftoff**|5 days 15 hours 15 mins 46 secs|172|47 mins 11 secs|15 days 15 hours 8 mins|12 days 18 hours 7 mins|23.4|1 hour 31 mins 49 secs|
-|**Mac Power Users**|50 days 10 hours 1 min 23 secs|781|1 hour 32 mins 57 secs|7 days 8 hours 46 mins|2 days 22 hours 32 mins|49.6|6 hours 23 mins 53 secs|
+|**Mac Power Users**|50 days 11 hours 38 mins 53 secs|782|1 hour 32 mins 57 secs|7 days 8 hours 45 mins|2 days 22 hours 29 mins|49.6|6 hours 23 mins 56 secs|
 |**Make Do**|3 days 24 mins 44 secs|103|42 mins 10 secs|15 days 2 hours 24 mins|4 days 23 hours 22 mins|24.2|1 hour 24 mins 58 secs|
 |**Material**|24 days 14 hours 24 mins 11 secs|502|1 hour 10 mins 33 secs|6 days 23 hours 43 mins|1 day 7 hours 35 mins|52.2|5 hours 7 mins 7 secs|
 |**Paper Places**|9 hours 37 mins 57 secs|11|52 mins 32 secs|26 days 23 hours 37 mins|12 days 5 hours 39 mins|13.5|59 mins 13 secs|
@@ -72,4 +72,4 @@
 |**Top Four**|3 days 8 hours 21 mins 41 secs|101|47 mins 44 secs|
 |**Virtual**|2 days 13 hours 25 mins 12 secs|61|1 hour 24 secs|
 
-Generated at: 00:00:03 01/02/2025
+Generated at: 00:00:03 03/02/2025
