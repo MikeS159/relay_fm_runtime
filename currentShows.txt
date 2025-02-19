@@ -3,10 +3,10 @@ analogue:234
 automators:168
 bonanza:40
 b-sides:43
-clockwise:592
+clockwise:593
 conduit:94
-connected:539
-cortex:163
+connected:540
+cortex:164
 departures:13
 downstream:88
 focused:223
