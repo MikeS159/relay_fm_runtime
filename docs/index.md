@@ -1,6 +1,6 @@
 ## Total shows: 48
 
-### Total shows length: 1 year 7 days 17 hours 45 mins
+### Total shows length: 1 year 7 days 19 hours 38 mins
 
 ## Total active shows: 26
 
@@ -8,7 +8,7 @@
 
 ### Monthly output: 2 days 11 hours 55 mins
 
-## Estimated time untill 1 year of content: -1 years 270 days
+## Estimated time untill 1 year of content: -1 years 269 days
 
 
 -------------------------------------------------
@@ -22,9 +22,9 @@
 |**Automators**|8 days 13 hours 1 min 29 secs|168|1 hour 13 mins 13 secs|13 days 22 hours 37 mins|19 hours 44 mins 55 secs|26.2|2 hours 39 mins 44 secs|
 |**BONANZA**|1 day 15 hours 7 mins 1 sec|40|58 mins 40 secs|67 days 20 hours 11 mins|91 days 14 hours 36 mins|5.4|26 mins 18 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
-|**Clockwise**|11 days 6 hours 41 mins 2 secs|550|29 mins 31 secs|7 days 21 hours 20 mins|15 days 17 hours 33 mins|46.3|1 hour 53 mins 51 secs|
+|**Clockwise**|11 days 7 hours 9 mins 34 secs|551|29 mins 31 secs|7 days 21 hours 17 mins|15 days 17 hours 12 mins|46.3|1 hour 53 mins 52 secs|
 |**Conduit**|4 days 2 hours 58 mins 48 secs|100|59 mins 23 secs|13 days 22 hours 27 secs|19 hours 38 mins 31 secs|26.2|2 hours 9 mins 47 secs|
-|**Connected**|33 days 6 hours 29 mins 20 secs|548|1 hour 27 mins 25 secs|7 days 2 hours 52 mins|1 day 2 hours 49 mins|51.3|6 hours 13 mins 29 secs|
+|**Connected**|33 days 7 hours 54 mins 23 secs|549|1 hour 27 mins 25 secs|7 days 2 hours 52 mins|1 day 2 hours 47 mins|51.3|6 hours 13 mins 28 secs|
 |**Cortex**|11 days 12 hours 16 secs|165|1 hour 40 mins 21 secs|21 days 20 hours 28 mins|10 days 9 hours 58 mins|16.7|2 hours 19 mins 41 secs|
 |**Departures**|2 days 13 hours 6 mins 20 secs|13|4 hours 42 mins 1 sec|154 days 14 hours 58 mins|144 days 23 hours 30 mins|2.4|55 mins 28 secs|
 |**Downstream**|3 days 19 hours 19 mins 11 secs|94|58 mins 17 secs|13 days 21 hours 56 mins|2 days 13 hours 48 mins|26.2|2 hours 7 mins 25 secs|
@@ -72,4 +72,4 @@
 |**Top Four**|3 days 8 hours 21 mins 41 secs|101|47 mins 44 secs|
 |**Virtual**|2 days 13 hours 25 mins 12 secs|61|1 hour 24 secs|
 
-Generated at: 18:00:02 23/04/2025
+Generated at: 00:00:03 24/04/2025
