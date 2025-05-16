@@ -1,14 +1,14 @@
 ## Total shows: 48
 
-### Total shows length: 1 year 9 days 8 hours 21 mins
+### Total shows length: 1 year 9 days 9 hours 33 secs
 
 ## Total active shows: 26
 
-### Yearly output: 29 days 23 hours 12 mins
+### Yearly output: 29 days 23 hours 5 mins
 
-### Monthly output: 2 days 11 hours 56 mins
+### Monthly output: 2 days 11 hours 55 mins
 
-## Estimated time untill 1 year of content: -1 years 251 days
+## Estimated time untill 1 year of content: -1 years 250 days
 
 
 -------------------------------------------------
@@ -27,7 +27,7 @@
 |**Connected**|33 days 12 hours 17 mins 41 secs|552|1 hour 27 mins 25 secs|7 days 2 hours 51 mins|1 day 2 hours 43 mins|51.3|6 hours 13 mins 31 secs|
 |**Cortex**|11 days 13 hours 31 mins 22 secs|166|1 hour 40 mins 18 secs|21 days 21 hours 41 mins|10 days 9 hours 41 mins|16.7|2 hours 19 mins 17 secs|
 |**Departures**|2 days 13 hours 6 mins 20 secs|13|4 hours 42 mins 1 sec|154 days 14 hours 58 mins|144 days 23 hours 30 mins|2.4|55 mins 28 secs|
-|**Downstream**|3 days 20 hours 13 mins 37 secs|95|58 mins 14 secs|13 days 22 hours 15 mins|2 days 13 hours 32 mins|26.2|2 hours 7 mins 12 secs|
+|**Downstream**|3 days 20 hours 52 mins 21 secs|96|58 mins 2 secs|13 days 22 hours 33 mins|2 days 13 hours 17 mins|26.2|2 hours 6 mins 39 secs|
 |**Focused**|11 days 6 hours 7 mins 26 secs|229|1 hour 10 mins 46 secs|14 days 1 hour 28 mins|21 hours 48 mins 29 secs|26.0|2 hours 33 mins 5 secs|
 |**Liftoff**|5 days 15 hours 15 mins 46 secs|172|47 mins 11 secs|15 days 15 hours 8 mins|12 days 18 hours 7 mins|23.4|1 hour 31 mins 49 secs|
 |**Mac Power Users**|51 days 7 hours 59 secs|796|1 hour 32 mins 47 secs|7 days 8 hours 36 mins|2 days 21 hours 53 mins|49.6|6 hours 23 mins 33 secs|
@@ -72,4 +72,4 @@
 |**Top Four**|3 days 8 hours 21 mins 41 secs|101|47 mins 44 secs|
 |**Virtual**|2 days 13 hours 25 mins 12 secs|61|1 hour 24 secs|
 
-Generated at: 00:00:03 16/05/2025
+Generated at: 06:00:03 16/05/2025
