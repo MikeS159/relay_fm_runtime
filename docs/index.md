@@ -1,6 +1,6 @@
 ## Total shows: 48
 
-### Total shows length: 1 year 10 days 10 hours 29 mins
+### Total shows length: 1 year 10 days 11 hours 36 mins
 
 ## Total active shows: 26
 
@@ -28,7 +28,7 @@
 |**Cortex**|11 days 15 hours 6 mins 29 secs|167|1 hour 40 mins 16 secs|21 days 23 hours 26 mins|10 days 9 hours 56 mins|16.6|2 hours 18 mins 47 secs|
 |**Departures**|2 days 13 hours 6 mins 20 secs|13|4 hours 42 mins 1 sec|154 days 14 hours 58 mins|144 days 23 hours 30 mins|2.4|55 mins 28 secs|
 |**Downstream**|3 days 21 hours 48 mins 14 secs|97|58 mins 1 sec|13 days 22 hours 33 mins|2 days 12 hours 58 mins|26.2|2 hours 6 mins 36 secs|
-|**Focused**|11 days 7 hours 27 mins 14 secs|230|1 hour 10 mins 48 secs|14 days 1 hour 28 mins|21 hours 45 mins 40 secs|26.0|2 hours 33 mins 10 secs|
+|**Focused**|11 days 8 hours 34 mins 58 secs|231|1 hour 10 mins 48 secs|14 days 1 hour 27 mins|21 hours 42 mins 50 secs|26.0|2 hours 33 mins 9 secs|
 |**Liftoff**|5 days 15 hours 15 mins 46 secs|172|47 mins 11 secs|15 days 15 hours 8 mins|12 days 18 hours 7 mins|23.4|1 hour 31 mins 49 secs|
 |**Mac Power Users**|51 days 11 hours 15 mins 24 secs|799|1 hour 32 mins 45 secs|7 days 8 hours 34 mins|2 days 21 hours 45 mins|49.6|6 hours 23 mins 30 secs|
 |**Make Do**|3 days 24 mins 44 secs|103|42 mins 10 secs|15 days 2 hours 24 mins|4 days 23 hours 22 mins|24.2|1 hour 24 mins 58 secs|
@@ -72,4 +72,4 @@
 |**Top Four**|3 days 8 hours 21 mins 41 secs|101|47 mins 44 secs|
 |**Virtual**|2 days 13 hours 25 mins 12 secs|61|1 hour 24 secs|
 
-Generated at: 00:00:02 03/06/2025
+Generated at: 00:00:03 04/06/2025
