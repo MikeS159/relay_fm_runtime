@@ -1,10 +1,10 @@
 ## Total shows: 48
 
-### Total shows length: 1 year 14 days 3 hours 8 mins
+### Total shows length: 1 year 14 days 3 hours 37 mins
 
 ## Total active shows: 26
 
-### Yearly output: 29 days 21 hours 25 mins
+### Yearly output: 29 days 21 hours 24 mins
 
 ### Monthly output: 2 days 11 hours 47 mins
 
@@ -40,7 +40,7 @@
 |**The Backmarkers**|1 day 8 hours 13 mins 5 secs|31|1 hour 2 mins 21 secs|33 days 7 hours 11 mins|38 days 15 hours 16 mins|11.0|56 mins 57 secs|
 |**The Pen Addict**|28 days 20 hours 19 mins 8 secs|676|1 hour 1 min 26 secs|7 days 6 hours 56 mins|3 days 7 hours 30 mins|50.1|4 hours 16 mins 25 secs|
 |**Thoroughly Considered**|4 days 9 hours 7 mins 57 secs|124|50 mins 52 secs|29 days 2 hours 9 mins|12 days 23 hours 10 mins|12.5|53 mins 11 secs|
-|**Under the Radar**|6 days 15 hours 38 secs|323|29 mins 32 secs|11 days 5 mins 4 secs|5 days 8 hours 51 mins|33.2|1 hour 21 mins 38 secs|
+|**Under the Radar**|6 days 15 hours 29 mins 57 secs|324|29 mins 32 secs|11 days 17 mins 58 secs|5 days 8 hours 42 mins|33.1|1 hour 21 mins 34 secs|
 |**Ungeniused**|1 day 16 hours 28 mins 13 secs|224|10 mins 50 secs|13 days 22 hours 21 mins|4 days 23 hours 47 mins|26.2|23 mins 40 secs|
 |**Upgrade**|38 days 5 hours 5 mins 7 secs|574|1 hour 35 mins 51 secs|6 days 22 hours 11 mins|18 hours 47 mins 56 secs|52.7|7 hours 1 min 3 secs|
 
@@ -72,4 +72,4 @@
 |**Top Four**|3 days 8 hours 21 mins 36 secs|101|47 mins 44 secs|
 |**Virtual**|2 days 13 hours 25 mins 12 secs|61|1 hour 24 secs|
 
-Generated at: 00:00:03 31/07/2025
+Generated at: 18:00:02 31/07/2025
