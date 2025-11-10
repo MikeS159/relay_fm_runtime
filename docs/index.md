@@ -1,6 +1,6 @@
 ## Total shows: 48
 
-### Total shows length: 1 year 21 days 6 hours 41 mins
+### Total shows length: 1 year 21 days 8 hours 18 mins
 
 ## Total active shows: 26
 
@@ -42,7 +42,7 @@
 |**Thoroughly Considered**|4 days 10 hours 58 mins 28 secs|126|50 mins 56 secs|29 days 10 hours 11 mins|13 days 6 hours 9 mins|12.4|52 mins 39 secs|
 |**Under the Radar**|6 days 18 hours 55 mins 38 secs|331|29 mins 32 secs|11 days 1 hour 49 mins|5 days 8 hours 38 mins|33.0|1 hour 21 mins 6 secs|
 |**Ungeniused**|1 day 16 hours 27 mins 42 secs|224|10 mins 50 secs|13 days 22 hours 21 mins|4 days 23 hours 47 mins|26.2|23 mins 39 secs|
-|**Upgrade**|39 days 5 hours 31 mins 42 secs|588|1 hour 36 mins 4 secs|6 days 22 hours 14 mins|18 hours 40 mins 36 secs|52.7|7 hours 1 min 52 secs|
+|**Upgrade**|39 days 7 hours 8 mins 37 secs|589|1 hour 36 mins 4 secs|6 days 22 hours 14 mins|18 hours 39 mins 38 secs|52.7|7 hours 1 min 53 secs|
 
 -------------------------------------------------
 
@@ -72,4 +72,4 @@
 |**Top Four**|3 days 8 hours 21 mins 36 secs|101|47 mins 44 secs|
 |**Virtual**|2 days 13 hours 25 mins 12 secs|61|1 hour 24 secs|
 
-Generated at: 17:28:02 09/11/2025
+Generated at: 00:00:02 11/11/2025
