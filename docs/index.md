@@ -1,14 +1,14 @@
 ## Total shows: 48
 
-### Total shows length: 1 year 21 days 22 hours 51 mins
+### Total shows length: 1 year 22 days 1 hour 14 mins
 
 ## Total active shows: 26
 
-### Yearly output: 29 days 20 hours 29 mins
+### Yearly output: 29 days 20 hours 26 mins
 
 ### Monthly output: 2 days 11 hours 42 mins
 
-## Estimated time untill 1 year of content: -1 years 96 days
+## Estimated time untill 1 year of content: -1 years 95 days
 
 
 -------------------------------------------------
@@ -23,7 +23,7 @@
 |**BONANZA**|1 day 15 hours 7 mins 1 sec|40|58 mins 40 secs|67 days 20 hours 11 mins|91 days 14 hours 36 mins|5.4|26 mins 18 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
 |**Clockwise**|11 days 21 hours 58 mins 35 secs|581|29 mins 31 secs|7 days 20 hours 11 mins|15 days 7 hours 21 mins|46.5|1 hour 54 mins 33 secs|
-|**Conduit**|4 days 19 hours 17 mins 19 secs|115|1 hour 9 secs|13 days 20 hours 51 mins|1 day 10 mins 36 secs|26.3|2 hours 11 mins 55 secs|
+|**Conduit**|4 days 20 hours 14 mins 47 secs|116|1 hour 7 secs|13 days 20 hours 56 mins|1 day 5 mins 11 secs|26.3|2 hours 11 mins 50 secs|
 |**Connected**|35 days 1 hour 16 mins 38 secs|579|1 hour 27 mins 10 secs|7 days 2 hours 45 mins|1 day 2 hours 6 mins|51.3|6 hours 12 mins 40 secs|
 |**Cortex**|11 days 23 hours 44 mins 4 secs|173|1 hour 39 mins 47 secs|22 days 4 hours 10 mins|10 days 7 hours 52 mins|16.5|2 hours 16 mins 53 secs|
 |**Departures**|3 days 1 hour 39 mins 48 secs|15|4 hours 54 mins 39 secs|158 days 12 hours 47 mins|145 days 22 hours 57 mins|2.3|56 mins 31 secs|
@@ -34,7 +34,7 @@
 |**Make Do**|3 days 24 mins 44 secs|103|42 mins 10 secs|15 days 2 hours 24 mins|4 days 23 hours 22 mins|24.2|1 hour 24 mins 58 secs|
 |**Material**|26 days 11 hours 41 mins 17 secs|543|1 hour 10 mins 14 secs|6 days 23 hours 44 mins|1 day 7 hours 5 mins|52.2|5 hours 5 mins 40 secs|
 |**Paper Places**|18 hours 32 mins 34 secs|20|55 mins 37 secs|28 days 13 hours 46 mins|9 days 8 hours 55 mins|12.8|59 mins 12 secs|
-|**Reconcilable Differences**|19 days 16 hours 27 mins 45 secs|273|1 hour 43 mins 50 secs|14 days 7 mins 30 secs|1 day 13 hours 39 mins|26.1|3 hours 45 mins 30 secs|
+|**Reconcilable Differences**|19 days 17 hours 53 mins 33 secs|274|1 hour 43 mins 46 secs|14 days 7 mins 34 secs|1 day 13 hours 35 mins|26.1|3 hours 45 mins 22 secs|
 |**Remaster**|5 days 3 hours 28 mins 42 secs|131|56 mins 33 secs|25 days 3 hours 40 mins|14 days 20 hours 24 mins|14.5|1 hour 8 mins 23 secs|
 |**Roboism**|2 days 9 hours 27 mins 30 secs|73|47 mins 13 secs|42 days 18 hours 34 mins|73 days 20 hours 25 mins|8.5|33 mins 34 secs|
 |**The Backmarkers**|1 day 8 hours 13 mins 5 secs|31|1 hour 2 mins 21 secs|33 days 7 hours 11 mins|38 days 15 hours 16 mins|11.0|56 mins 57 secs|
@@ -72,4 +72,4 @@
 |**Top Four**|3 days 8 hours 21 mins 36 secs|101|47 mins 44 secs|
 |**Virtual**|2 days 13 hours 25 mins 12 secs|61|1 hour 24 secs|
 
-Generated at: 00:00:02 21/11/2025
+Generated at: 06:00:02 21/11/2025
