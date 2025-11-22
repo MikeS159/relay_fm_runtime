@@ -1,10 +1,10 @@
 ## Total shows: 48
 
-### Total shows length: 1 year 22 days 2 hours 33 mins
+### Total shows length: 1 year 22 days 3 hours 57 mins
 
 ## Total active shows: 26
 
-### Yearly output: 29 days 20 hours 27 mins
+### Yearly output: 29 days 20 hours 32 mins
 
 ### Monthly output: 2 days 11 hours 42 mins
 
@@ -36,7 +36,7 @@
 |**Paper Places**|18 hours 32 mins 34 secs|20|55 mins 37 secs|28 days 13 hours 46 mins|9 days 8 hours 55 mins|12.8|59 mins 12 secs|
 |**Reconcilable Differences**|19 days 17 hours 53 mins 33 secs|274|1 hour 43 mins 46 secs|14 days 7 mins 34 secs|1 day 13 hours 35 mins|26.1|3 hours 45 mins 22 secs|
 |**Remaster**|5 days 3 hours 28 mins 42 secs|131|56 mins 33 secs|25 days 3 hours 40 mins|14 days 20 hours 24 mins|14.5|1 hour 8 mins 23 secs|
-|**Roboism**|2 days 9 hours 27 mins 30 secs|73|47 mins 13 secs|42 days 18 hours 34 mins|73 days 20 hours 25 mins|8.5|33 mins 34 secs|
+|**Roboism**|2 days 10 hours 51 mins 43 secs|74|47 mins 43 secs|42 days 15 hours 16 mins|73 days 8 hours 28 mins|8.6|34 mins 2 secs|
 |**The Backmarkers**|1 day 8 hours 13 mins 5 secs|31|1 hour 2 mins 21 secs|33 days 7 hours 11 mins|38 days 15 hours 16 mins|11.0|56 mins 57 secs|
 |**The Pen Addict**|29 days 12 hours 40 mins 29 secs|692|1 hour 1 min 26 secs|7 days 6 hours 48 mins|3 days 6 hours 35 mins|50.1|4 hours 16 mins 35 secs|
 |**Thoroughly Considered**|4 days 11 hours 59 mins 5 secs|127|51 mins|29 days 11 hours 4 mins|13 days 5 hours 3 mins|12.4|52 mins 40 secs|
@@ -72,4 +72,4 @@
 |**Top Four**|3 days 8 hours 21 mins 36 secs|101|47 mins 44 secs|
 |**Virtual**|2 days 13 hours 25 mins 12 secs|61|1 hour 24 secs|
 
-Generated at: 00:00:03 22/11/2025
+Generated at: 06:00:03 22/11/2025
