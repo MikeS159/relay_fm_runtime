@@ -1,14 +1,14 @@
 ## Total shows: 48
 
-### Total shows length: 1 year 26 days 2 hours 55 mins
+### Total shows length: 1 year 26 days 5 hours 46 mins
 
 ## Total active shows: 26
 
-### Yearly output: 29 days 19 hours 48 mins
+### Yearly output: 29 days 19 hours 56 mins
 
 ### Monthly output: 2 days 11 hours 39 mins
 
-## Estimated time untill 1 year of content: -1 years 45 days
+## Estimated time untill 1 year of content: -1 years 43 days
 
 
 -------------------------------------------------
@@ -36,13 +36,13 @@
 |**Paper Places**|20 hours 16 mins 25 secs|22|55 mins 17 secs|28 days 12 hours 25 mins|8 days 21 hours 59 mins|12.8|58 mins 58 secs|
 |**Reconcilable Differences**|19 days 23 hours 33 mins 51 secs|278|1 hour 43 mins 30 secs|14 days 7 mins 41 secs|1 day 13 hours 21 mins|26.1|3 hours 44 mins 47 secs|
 |**Remaster**|5 days 3 hours 28 mins 42 secs|131|56 mins 33 secs|25 days 3 hours 40 mins|14 days 20 hours 24 mins|14.5|1 hour 8 mins 23 secs|
-|**Roboism**|2 days 13 hours 25 mins 47 secs|76|48 mins 29 secs|42 days 6 hours 52 mins|72 days 9 hours 59 mins|8.6|34 mins 53 secs|
+|**Roboism**|2 days 14 hours 43 mins 50 secs|77|48 mins 52 secs|41 days 19 hours 35 mins|72 days 1 hour 16 mins|8.7|35 mins 33 secs|
 |**The Backmarkers**|1 day 8 hours 13 mins 5 secs|31|1 hour 2 mins 21 secs|33 days 7 hours 11 mins|38 days 15 hours 16 mins|11.0|56 mins 57 secs|
 |**The Pen Addict**|29 days 20 hours 52 mins 41 secs|700|1 hour 1 min 26 secs|7 days 6 hours 58 mins|3 days 6 hours 23 mins|50.1|4 hours 16 mins 21 secs|
 |**Thoroughly Considered**|4 days 13 hours 40 mins 42 secs|129|51 mins|29 days 9 hours 34 mins|13 days 4 hours 3 mins|12.4|52 mins 46 secs|
 |**Under the Radar**|6 days 18 hours 55 mins 38 secs|331|29 mins 32 secs|11 days 1 hour 49 mins|5 days 8 hours 38 mins|33.0|1 hour 21 mins 6 secs|
 |**Ungeniused**|1 day 16 hours 27 mins 42 secs|224|10 mins 50 secs|13 days 22 hours 21 mins|4 days 23 hours 47 mins|26.2|23 mins 39 secs|
-|**Upgrade**|40 days 1 hour 50 mins 19 secs|599|1 hour 36 mins 20 secs|6 days 22 hours 16 mins|18 hours 30 mins 30 secs|52.7|7 hours 2 mins 59 secs|
+|**Upgrade**|40 days 3 hours 23 mins 17 secs|600|1 hour 36 mins 20 secs|6 days 22 hours 16 mins|18 hours 29 mins 35 secs|52.7|7 hours 2 mins 57 secs|
 
 -------------------------------------------------
 
@@ -72,4 +72,4 @@
 |**Top Four**|3 days 8 hours 21 mins 36 secs|101|47 mins 44 secs|
 |**Virtual**|2 days 13 hours 25 mins 12 secs|61|1 hour 24 secs|
 
-Generated at: 18:00:02 25/01/2026
+Generated at: 00:00:02 27/01/2026
