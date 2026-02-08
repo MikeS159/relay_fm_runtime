@@ -1,14 +1,14 @@
 ## Total shows: 48
 
-### Total shows length: 1 year 26 days 22 hours 47 mins
+### Total shows length: 1 year 27 days 1 hour 22 mins
 
 ## Total active shows: 26
 
-### Yearly output: 29 days 19 hours 50 mins
+### Yearly output: 29 days 19 hours 46 mins
 
-### Monthly output: 2 days 11 hours 39 mins
+### Monthly output: 2 days 11 hours 38 mins
 
-## Estimated time untill 1 year of content: -1 years 35 days
+## Estimated time untill 1 year of content: -1 years 33 days
 
 
 -------------------------------------------------
@@ -18,7 +18,7 @@
 |Show|Total Length|Number of Shows|Average Length|Average Gap|Standard Deviation|Shows Per Year|Monthly Show Output|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**20 Macs**|13 hours 48 mins 9 secs|29|28 mins 33 secs|53 days 46 mins 4 secs|230 days 10 hours 40 mins|6.9|16 mins 22 secs|
-|**Analog(ue)**|12 days 21 hours 42 mins 13 secs|245|1 hour 15 mins 50 secs|17 days 1 hour 35 mins|10 days 6 hours 55 secs|21.4|2 hours 15 mins 10 secs|
+|**Analog(ue)**|12 days 23 hours 12 mins 43 secs|246|1 hour 15 mins 54 secs|17 days 2 hours 39 mins|10 days 6 hours 5 mins|21.3|2 hours 14 mins 55 secs|
 |**Automators**|8 days 13 hours 1 min 29 secs|168|1 hour 13 mins 13 secs|13 days 22 hours 37 mins|19 hours 44 mins 55 secs|26.2|2 hours 39 mins 44 secs|
 |**BONANZA**|1 day 15 hours 7 mins 1 sec|40|58 mins 40 secs|67 days 20 hours 11 mins|91 days 14 hours 36 mins|5.4|26 mins 18 secs|
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
@@ -30,7 +30,7 @@
 |**Downstream**|4 days 12 hours 10 mins 42 secs|113|57 mins 26 secs|14 days 4 hours 4 mins|3 days 1 hour 45 mins|25.8|2 hours 3 mins 18 secs|
 |**Focused**|12 days 5 hours 48 mins 13 secs|248|1 hour 11 mins 4 secs|14 days 1 hour 22 mins|20 hours 59 mins 15 secs|26.0|2 hours 33 mins 48 secs|
 |**Liftoff**|5 days 15 hours 15 mins 46 secs|172|47 mins 11 secs|15 days 15 hours 8 mins|12 days 18 hours 7 mins|23.4|1 hour 31 mins 49 secs|
-|**Mac Power Users**|53 days 13 hours 52 mins 32 secs|834|1 hour 32 mins 30 secs|7 days 8 hours 12 mins|2 days 20 hours 44 mins|49.7|6 hours 23 mins 15 secs|
+|**Mac Power Users**|53 days 14 hours 57 mins 37 secs|835|1 hour 32 mins 28 secs|7 days 8 hours 11 mins|2 days 20 hours 41 mins|49.7|6 hours 23 mins 8 secs|
 |**Make Do**|3 days 24 mins 44 secs|103|42 mins 10 secs|15 days 2 hours 24 mins|4 days 23 hours 22 mins|24.2|1 hour 24 mins 58 secs|
 |**Material**|26 days 23 hours 27 mins 57 secs|554|1 hour 10 mins 7 secs|7 days 3 mins 23 secs|1 day 8 hours 29 mins|52.1|5 hours 4 mins 35 secs|
 |**Paper Places**|21 hours 8 mins 41 secs|23|55 mins 9 secs|28 days 19 hours 29 mins|8 days 19 hours 34 mins|12.7|58 mins 13 secs|
@@ -72,4 +72,4 @@
 |**Top Four**|3 days 8 hours 21 mins 36 secs|101|47 mins 44 secs|
 |**Virtual**|2 days 13 hours 25 mins 12 secs|61|1 hour 24 secs|
 
-Generated at: 00:00:03 07/02/2026
+Generated at: 18:00:02 08/02/2026
