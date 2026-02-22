@@ -1,6 +1,6 @@
 ## Total shows: 48
 
-### Total shows length: 1 year 27 days 19 hours 58 secs
+### Total shows length: 1 year 27 days 20 hours 36 mins
 
 ## Total active shows: 26
 
@@ -8,7 +8,7 @@
 
 ### Monthly output: 2 days 11 hours 37 mins
 
-## Estimated time untill 1 year of content: -1 years 24 days
+## Estimated time untill 1 year of content: -1 years 23 days
 
 
 -------------------------------------------------
@@ -30,7 +30,7 @@
 |**Downstream**|4 days 12 hours 46 mins 1 sec|114|57 mins 14 secs|14 days 4 hours 31 mins|3 days 1 hour 35 mins|25.7|2 hours 2 mins 43 secs|
 |**Focused**|12 days 6 hours 47 mins 13 secs|249|1 hour 11 mins 1 sec|14 days 1 hour 22 mins|20 hours 56 mins 43 secs|26.0|2 hours 33 mins 42 secs|
 |**Liftoff**|5 days 15 hours 15 mins 46 secs|172|47 mins 11 secs|15 days 15 hours 8 mins|12 days 18 hours 7 mins|23.4|1 hour 31 mins 49 secs|
-|**Mac Power Users**|53 days 16 hours 34 mins 34 secs|836|1 hour 32 mins 28 secs|7 days 8 hours 11 mins|2 days 20 hours 39 mins|49.7|6 hours 23 mins 11 secs|
+|**Mac Power Users**|53 days 18 hours 10 mins 7 secs|837|1 hour 32 mins 29 secs|7 days 8 hours 10 mins|2 days 20 hours 36 mins|49.7|6 hours 23 mins 13 secs|
 |**Make Do**|3 days 24 mins 44 secs|103|42 mins 10 secs|15 days 2 hours 24 mins|4 days 23 hours 22 mins|24.2|1 hour 24 mins 58 secs|
 |**Material**|27 days 1 hour 32 mins 42 secs|556|1 hour 10 mins 5 secs|7 days 27 secs|1 day 8 hours 27 mins|52.1|5 hours 4 mins 33 secs|
 |**Paper Places**|21 hours 8 mins 41 secs|23|55 mins 9 secs|28 days 19 hours 29 mins|8 days 19 hours 34 mins|12.7|58 mins 13 secs|
@@ -57,7 +57,7 @@
 |**Download**|4 days 5 hours 20 mins 2 secs|108|56 mins 17 secs|
 |**Flashback**|19 hours 29 mins 5 secs|26|44 mins 57 secs|
 |**Inquisitive**|2 days 7 hours 7 mins 28 secs|59|56 mins 3 secs|
-|**Isometric**|5 days 21 hours 10 mins 19 secs|102|1 hour 23 mins 2 secs|
+|**Isometric**|5 days 21 hours 9 mins 58 secs|102|1 hour 23 mins 2 secs|
 |**Less Than or Equal**|4 days 5 hours 26 secs|100|1 hour 36 secs|
 |**Mixed Feelings**|2 days 7 hours 4 mins 47 secs|70|47 mins 12 secs|
 |**Originality**|1 day 18 hours 13 mins 11 secs|40|1 hour 3 mins 19 secs|
@@ -72,4 +72,4 @@
 |**Top Four**|3 days 8 hours 21 mins 36 secs|101|47 mins 44 secs|
 |**Virtual**|2 days 13 hours 25 mins 12 secs|61|1 hour 24 secs|
 
-Generated at: 00:00:03 20/02/2026
+Generated at: 18:00:02 22/02/2026
