@@ -23,4 +23,4 @@ penaddict:706
 tc:132
 radar:331
 ungeniused:224
-upgrade:605
+upgrade:606
