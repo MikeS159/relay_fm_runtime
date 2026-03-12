@@ -1,14 +1,14 @@
 ## Total shows: 48
 
-### Total shows length: 1 year 29 days 1 hour 48 mins
+### Total shows length: 1 year 29 days 2 hours 58 mins
 
 ## Total active shows: 26
 
-### Yearly output: 29 days 19 hours 32 mins
+### Yearly output: 29 days 19 hours 30 mins
 
 ### Monthly output: 2 days 11 hours 37 mins
 
-## Estimated time untill 1 year of content: -1 years 9 days
+## Estimated time untill 1 year of content: -1 years 8 days
 
 
 -------------------------------------------------
@@ -24,7 +24,7 @@
 |**B-Sides**|12 hours 8 mins 18 secs|42|17 mins 20 secs|61 days 9 hours 27 mins|74 days 14 hours 24 mins|5.9|8 mins 35 secs|
 |**Clockwise**|12 days 5 hours 21 mins 16 secs|596|29 mins 31 secs|7 days 19 hours 57 mins|15 days 2 hours 45 mins|46.6|1 hour 54 mins 41 secs|
 |**Conduit**|5 days 4 hours 59 mins 7 secs|124|1 hour 28 secs|13 days 21 hours 3 mins|23 hours 18 mins 32 secs|26.3|2 hours 12 mins 33 secs|
-|**Connected**|35 days 18 hours 54 mins 54 secs|593|1 hour 26 mins 54 secs|7 days 2 hours 59 mins|1 day 2 hours 37 mins|51.2|6 hours 11 mins 2 secs|
+|**Connected**|35 days 20 hours 4 mins 22 secs|594|1 hour 26 mins 52 secs|7 days 2 hours 58 mins|1 day 2 hours 36 mins|51.2|6 hours 10 mins 55 secs|
 |**Cortex**|12 days 3 hours 3 mins 51 secs|176|1 hour 39 mins 13 secs|22 days 8 hours 22 mins|10 days 7 hours 48 mins|16.3|2 hours 15 mins 2 secs|
 |**Departures**|3 days 1 hour 39 mins 48 secs|15|4 hours 54 mins 39 secs|158 days 12 hours 47 mins|145 days 22 hours 57 mins|2.3|56 mins 31 secs|
 |**Downstream**|4 days 13 hours 50 mins 40 secs|115|57 mins 18 secs|14 days 4 hours 52 mins|3 days 1 hour 21 mins|25.7|2 hours 2 mins 44 secs|
@@ -72,4 +72,4 @@
 |**Top Four**|3 days 8 hours 21 mins 36 secs|101|47 mins 44 secs|
 |**Virtual**|2 days 13 hours 25 mins 12 secs|61|1 hour 24 secs|
 
-Generated at: 18:00:02 12/03/2026
+Generated at: 00:00:08 13/03/2026
