@@ -117,6 +117,10 @@ def parse_prediction_feed(feed_name, last_checked):
             length = '5006'
         if (e['id'] == 'http://relay.fm/rocket/362'):
             length = '3542'
+        if (e['id'] == 'http://relay.fm/clockwise/672'):
+            length = '1785'
+        if (e['id'] == 'http://relay.fm/mpu/872'):
+            length = '5282'
         if(not length):
             print(e['id'])
         total_len += int(float("".join(length.split()))) #2
